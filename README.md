@@ -154,18 +154,47 @@ Focused on turning fragile, manual cloud environments into **self-healing, polic
 
 ## 🚀 Professional Journey
 
-<table>
-<tr><td width="70">🟣</td><td><b>Senior Cloud & DevSecOps Consultant</b><br/><sub>Enterprise Azure architecture · DevSecOps strategy · GenAI-driven automation</sub></td></tr>
-<tr><td>│</td><td></td></tr>
-<tr><td>🔵</td><td><b>Cloud & DevSecOps Engineer</b><br/><sub>Secure IaC pipelines · Policy-as-Code · Threat-modeled infrastructure</sub></td></tr>
-<tr><td>│</td><td></td></tr>
-<tr><td>🟣</td><td><b>Cloud & DevOps Engineer</b><br/><sub>Terraform automation · CI/CD pipelines · Azure Landing Zones</sub></td></tr>
-<tr><td>│</td><td></td></tr>
-<tr><td>🔵</td><td><b>Cloud Support Engineer</b><br/><sub>Azure infrastructure operations · Incident resolution · Cloud fundamentals</sub></td></tr>
+<!-- PROFESSIONAL JOURNEY -->
+
+<h2>🚀 Professional Journey</h2>
+
+<table width="100%">
+  <tr>
+    <td width="8%" align="center">🟣</td>
+    <td width="92%">
+      <strong>Senior Cloud & DevSecOps Consultant</strong><br><br>
+      Enterprise Azure Architecture • DevSecOps Strategy • GenAI-driven Automation •
+      Azure Governance • Infrastructure Security • Cloud Cost Optimization
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">🔵</td>
+    <td>
+      <strong>Cloud & DevSecOps Engineer</strong><br><br>
+      Secure Infrastructure-as-Code • Terraform Automation • CI/CD Pipelines •
+      Policy-as-Code • DevSecOps Security • Monitoring & Observability
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">🟣</td>
+    <td>
+      <strong>Cloud & DevOps Engineer</strong><br><br>
+      Microsoft Azure • Terraform • Azure DevOps • GitHub Actions •
+      Azure Landing Zones • Hub-Spoke Networking • Infrastructure Automation
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">🔵</td>
+    <td>
+      <strong>Cloud Support Engineer</strong><br><br>
+      Azure Infrastructure Operations • Linux • Windows Server • Networking •
+      Incident Management • ServiceNow • SolarWinds • Monitoring & Troubleshooting
+    </td>
+  </tr>
 </table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:0078D4,100:8A2BE2&height=4&width=1000" width="100%"/>
-
 ## 🏢 Enterprise Projects
 
 <table>
