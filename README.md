@@ -40,8 +40,7 @@
 ## `$` whoami
 
 ```bash
-┌──(gunjan㉿azure-cloud)-[~/identity]
-└─$ whoami --verbose
+👨‍💻 Who Am I?
 
   NAME        : Gunjan Kumar Gaurav
   ROLE        : Senior Cloud, DevSecOps & GenAI Consultant
