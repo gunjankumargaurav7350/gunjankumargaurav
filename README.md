@@ -560,7 +560,7 @@ Reusable Azure infrastructure components
 
 ---
 
-<details>
+<!-- <details>
 <summary>⚙️ Snake Animation Setup (click to expand)</summary>
 
 <br/>
@@ -570,4 +570,4 @@ Reusable Azure infrastructure components
 3. Commit, then run the workflow once manually from the **Actions** tab.
 4. The snake SVG will publish to an `output` branch — the image tag already in this README points there automatically.
 
-</details>
+</details> -->
