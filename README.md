@@ -27,8 +27,8 @@
 
 <br/><br/>
 
-<a href="www.linkedin.com/in/gunjan-gaurav"><img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:gunjankumargaurav7"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/gunjan-gaurav"><img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:gunjankumargaurav7@gmail.com"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
 <a href="https://github.com/gunjankumargaurav7350/"><img src="https://img.shields.io/badge/GitHub-0A0E27?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
