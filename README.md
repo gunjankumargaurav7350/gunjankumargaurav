@@ -428,20 +428,180 @@ Enterprise security and governance patterns for Azure environments.
 </table>
 
 ### 🏆 Trophy Case
+<!-- ========================================================= -->
+<!-- GITHUB ENGINEERING DASHBOARD -->
+<!-- ========================================================= -->
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
-</div>
+<h2>📊 GitHub Engineering Dashboard</h2>
 
-### 🐍 Contribution Snake
+<p align="center">
+  <b>☁️ Azure Architecture • 🏗️ Terraform • 🛡️ DevSecOps • 🔐 Cloud Security • ⚙️ Automation</b>
+</p>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-<sub>⚙️ Requires a one-time workflow setup — see <a href="#-snake-animation-setup">Snake Animation Setup</a> below</sub>
-</div>
+<table width="100%">
+<tr>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:0078D4,100:8A2BE2&height=4&width=1000" width="100%"/>
+<td width="25%" align="center" valign="top">
+<h3>🏗️ Infrastructure as Code</h3>
+Terraform<br>
+Bicep<br>
+ARM Templates<br>
+Reusable Modules<br>
+Remote State
+</td>
 
+<td width="25%" align="center" valign="top">
+<h3>🛡️ DevSecOps</h3>
+tfsec<br>
+TFLint<br>
+Checkov<br>
+Trivy<br>
+TruffleHog
+</td>
+
+<td width="25%" align="center" valign="top">
+<h3>⚙️ CI/CD</h3>
+Azure DevOps<br>
+GitHub Actions<br>
+YAML Pipelines<br>
+Terratest<br>
+Shift-Left Security
+</td>
+
+<td width="25%" align="center" valign="top">
+<h3>☁️ Microsoft Azure</h3>
+Landing Zones<br>
+Hub-Spoke<br>
+Azure Policy<br>
+RBAC & PIM<br>
+Key Vault
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ========================================================= -->
+<!-- CLOUD ENGINEERING FOCUS -->
+<!-- ========================================================= -->
+
+<h3>🎯 Cloud Engineering Focus</h3>
+
+<table width="100%">
+
+<tr>
+<td width="30%"><b>🏢 Enterprise Architecture</b></td>
+<td>
+Azure Landing Zones • CAF • Hub-Spoke • Management Groups •
+Multi-Subscription Governance
+</td>
+</tr>
+
+<tr>
+<td><b>🌐 Azure Networking</b></td>
+<td>
+VNet • Subnet • NSG • Load Balancer • Application Gateway •
+Azure Bastion • Private Endpoint
+</td>
+</tr>
+
+<tr>
+<td><b>🔐 Identity & Security</b></td>
+<td>
+RBAC • PIM • Managed Identity • Key Vault • Azure Policy •
+Defender for Cloud • Zero Trust
+</td>
+</tr>
+
+<tr>
+<td><b>📊 Observability</b></td>
+<td>
+Azure Monitor • Log Analytics • Grafana • Nagios •
+Zabbix • OpenCost
+</td>
+</tr>
+
+<tr>
+<td><b>🚀 Release Engineering</b></td>
+<td>
+Blue-Green • Canary • Rolling Deployments • GitFlow •
+Branch Protection
+</td>
+</tr>
+
+<tr>
+<td><b>💻 Automation</b></td>
+<td>
+Terraform • PowerShell • Bash • GitHub Actions •
+Azure DevOps
+</td>
+</tr>
+
+</table>
+
+<br>
+
+<!-- ========================================================= -->
+<!-- CURRENT BUILD -->
+<!-- ========================================================= -->
+
+<h3>🚀 Currently Building</h3>
+
+<table width="100%">
+<tr>
+
+<td width="33%" align="center" valign="top">
+
+<h3>🏗️ Azure Landing Zone</h3>
+
+Terraform-based enterprise architecture
+
+`Terraform` `Azure` `CAF`
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+<h3>🛡️ DevSecOps Pipeline</h3>
+
+Security-first infrastructure delivery
+
+`tfsec` `TFLint` `TruffleHog`
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+<h3>⚙️ Terraform Modules</h3>
+
+Reusable Azure infrastructure components
+
+`IaC` `Modules` `Automation`
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ========================================================= -->
+<!-- ENGINEERING PHILOSOPHY -->
+<!-- ========================================================= -->
+
+<p align="center">
+  <b>💡 Engineering Philosophy</b>
+</p>
+
+<p align="center">
+  <i>
+    "Infrastructure should be repeatable.<br>
+    Security should be automated.<br>
+    Operations should be observable.<br>
+    Cloud architecture should be built to scale."
+  </i>
+</p>
 ## 🎓 Certifications
 
 <div align="center">
