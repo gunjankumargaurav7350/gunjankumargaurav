@@ -27,9 +27,9 @@
 
 <br/><br/>
 
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-0A0E27?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="www.linkedin.com/in/gunjan-gaurav"><img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:gunjankumargaurav7"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
+<a href="https://github.com/gunjankumargaurav7350/"><img src="https://img.shields.io/badge/GitHub-0A0E27?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
@@ -559,15 +559,3 @@ Reusable Azure infrastructure components
 </div>
 
 ---
-
-<details>
-<summary>⚙️ Snake Animation Setup (click to expand)</summary>
-
-<br/>
-
-1. In this repository, go to **Settings → Secrets and variables → Actions** and confirm `GITHUB_TOKEN` has workflow permissions (or add a Personal Access Token with `repo` scope if needed).
-2. Add a GitHub Actions workflow file (e.g. `.github/workflows/snake.yml`) using the [`Platane/snk`](https://github.com/Platane/snk) action to generate the contribution snake SVG.
-3. Commit, then run the workflow once manually from the **Actions** tab.
-4. The snake SVG will publish to an `output` branch — the image tag already in this README points there automatically.
-
-</details>
