@@ -4,8 +4,7 @@
   - YOUR_GITHUB_USERNAME  → your GitHub username
   - YOUR_LINKEDIN_URL     → full LinkedIn profile URL
   - YOUR_EMAIL            → your email address
-  - YOUR_TWITTER_HANDLE   → X / Twitter handle (or delete that badge)
-  - REPO_NAME_1..6        → your actual repository names in "Featured Projects"
+  - REPO_URL_1..6         → your actual repository URLs in "Featured Projects"
   Setup instructions for the Snake animation are in the collapsible section
   at the very bottom of this file.
 -->
@@ -30,7 +29,6 @@
 
 <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
-<a href="https://twitter.com/YOUR_TWITTER_HANDLE"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-0A0E27?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
@@ -55,19 +53,11 @@
 
 ## 🧠 Professional Summary
 
-<table>
-<tr>
-<td>
-
 Experienced **Cloud & DevSecOps Consultant** specializing in **Microsoft Azure**, **Terraform**, **Azure DevOps**, **GitHub Actions**, **Infrastructure as Code**, **Cloud Security**, **Governance**, **Azure Landing Zones**, and **Enterprise Automation**.
 
 Focused on turning fragile, manual cloud environments into **self-healing, policy-governed, secure-by-design** platforms — combining **Infrastructure Automation**, **DevSecOps**, **Platform Engineering**, and **GenAI** to help enterprises ship faster without compromising on security or compliance.
 
 > *"Infrastructure isn't just code — it's a contract of trust between engineering and security."*
-
-</td>
-</tr>
-</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:0078D4,100:8A2BE2&height=4&width=1000" width="100%"/>
 
@@ -154,10 +144,6 @@ Focused on turning fragile, manual cloud environments into **self-healing, polic
 
 ## 🚀 Professional Journey
 
-<!-- PROFESSIONAL JOURNEY -->
-
-<h2>🚀 Professional Journey</h2>
-
 <table width="100%">
   <tr>
     <td width="8%" align="center">🟣</td>
@@ -167,7 +153,6 @@ Focused on turning fragile, manual cloud environments into **self-healing, polic
       Azure Governance • Infrastructure Security • Cloud Cost Optimization
     </td>
   </tr>
-
   <tr>
     <td align="center">🔵</td>
     <td>
@@ -176,7 +161,6 @@ Focused on turning fragile, manual cloud environments into **self-healing, polic
       Policy-as-Code • DevSecOps Security • Monitoring & Observability
     </td>
   </tr>
-
   <tr>
     <td align="center">🟣</td>
     <td>
@@ -185,7 +169,6 @@ Focused on turning fragile, manual cloud environments into **self-healing, polic
       Azure Landing Zones • Hub-Spoke Networking • Infrastructure Automation
     </td>
   </tr>
-
   <tr>
     <td align="center">🔵</td>
     <td>
@@ -195,6 +178,7 @@ Focused on turning fragile, manual cloud environments into **self-healing, polic
     </td>
   </tr>
 </table>
+
 ## 🏢 Enterprise Projects
 
 <table>
@@ -250,12 +234,7 @@ GenAI-assisted automation for drift detection, remediation, and self-documenting
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:0078D4,100:8A2BE2&height=4&width=1000" width="100%"/>
 
-## 📌 Featured Repositories
-<!-- ========================================================= -->
-<!-- FEATURED REPOSITORIES -->
-<!-- ========================================================= -->
-
-<h2>📌 Featured Azure & DevSecOps Projects</h2>
+## 📌 Featured Azure & DevSecOps Projects
 
 <table width="100%">
 <tr>
@@ -274,9 +253,7 @@ Enterprise-grade Azure Landing Zone implementation using reusable Terraform modu
 • Key Vault Integration<br>
 • Multi-Subscription Design<br><br>
 
-<a href="YOUR_REPOSITORY_URL">
-  <b>🔗 View Repository →</b>
-</a>
+<a href="REPO_URL_1"><b>🔗 View Repository →</b></a>
 
 </td>
 
@@ -294,14 +271,11 @@ Reusable Terraform modules for standardized Azure infrastructure deployment.
 • Storage Accounts<br>
 • Azure Bastion<br><br>
 
-<a href="YOUR_REPOSITORY_URL">
-  <b>🔗 View Repository →</b>
-</a>
+<a href="REPO_URL_2"><b>🔗 View Repository →</b></a>
 
 </td>
 
 </tr>
-
 <tr>
 
 <td width="50%" valign="top">
@@ -318,9 +292,7 @@ Secure CI/CD pipeline implementing shift-left security for Terraform infrastruct
 • TruffleHog<br>
 • Terratest<br><br>
 
-<a href="YOUR_REPOSITORY_URL">
-  <b>🔗 View Repository →</b>
-</a>
+<a href="REPO_URL_3"><b>🔗 View Repository →</b></a>
 
 </td>
 
@@ -338,14 +310,11 @@ Enterprise Azure networking architecture designed for secure and scalable worklo
 • Private Endpoints<br>
 • Azure Bastion<br><br>
 
-<a href="YOUR_REPOSITORY_URL">
-  <b>🔗 View Repository →</b>
-</a>
+<a href="REPO_URL_4"><b>🔗 View Repository →</b></a>
 
 </td>
 
 </tr>
-
 <tr>
 
 <td width="50%" valign="top">
@@ -362,9 +331,7 @@ Centralized monitoring and operational visibility for Azure infrastructure.
 • Zabbix<br>
 • OpenCost<br><br>
 
-<a href="YOUR_REPOSITORY_URL">
-  <b>🔗 View Repository →</b>
-</a>
+<a href="REPO_URL_5"><b>🔗 View Repository →</b></a>
 
 </td>
 
@@ -382,9 +349,7 @@ Enterprise security and governance patterns for Azure environments.
 • Microsoft Defender for Cloud<br>
 • Zero Trust<br><br>
 
-<a href="YOUR_REPOSITORY_URL">
-  <b>🔗 View Repository →</b>
-</a>
+<a href="REPO_URL_6"><b>🔗 View Repository →</b></a>
 
 </td>
 
@@ -395,44 +360,9 @@ Enterprise security and governance patterns for Azure environments.
 
 > 💡 **Current Focus:** Building production-grade Azure infrastructure using Terraform, DevSecOps, Policy-as-Code, secure CI/CD and cloud governance.
 
-## 📊 GitHub Analytics
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:0078D4,100:8A2BE2&height=4&width=1000" width="100%"/>
 
-<h2>📊 GitHub Focus</h2>
-
-<p align="center">
-  <b>Azure Architecture • Terraform • DevSecOps • Cloud Security • Automation</b>
-</p>
-
-<table width="100%">
-<tr>
-<td align="center">
-  🏗️ <b>Infrastructure as Code</b><br>
-  Terraform • Bicep • ARM
-</td>
-
-<td align="center">
-  🛡️ <b>DevSecOps</b><br>
-  tfsec • Checkov • Trivy • TFLint
-</td>
-
-<td align="center">
-  ⚙️ <b>CI/CD</b><br>
-  Azure DevOps • GitHub Actions
-</td>
-
-<td align="center">
-  ☁️ <b>Azure</b><br>
-  Landing Zone • Networking • Security
-</td>
-</tr>
-</table>
-
-### 🏆 Trophy Case
-<!-- ========================================================= -->
-<!-- GITHUB ENGINEERING DASHBOARD -->
-<!-- ========================================================= -->
-
-<h2>📊 GitHub Engineering Dashboard</h2>
+## 📊 GitHub Engineering Dashboard
 
 <p align="center">
   <b>☁️ Azure Architecture • 🏗️ Terraform • 🛡️ DevSecOps • 🔐 Cloud Security • ⚙️ Automation</b>
@@ -481,10 +411,6 @@ Key Vault
 </table>
 
 <br>
-
-<!-- ========================================================= -->
-<!-- CLOUD ENGINEERING FOCUS -->
-<!-- ========================================================= -->
 
 <h3>🎯 Cloud Engineering Focus</h3>
 
@@ -542,10 +468,6 @@ Azure DevOps
 
 <br>
 
-<!-- ========================================================= -->
-<!-- CURRENT BUILD -->
-<!-- ========================================================= -->
-
 <h3>🚀 Currently Building</h3>
 
 <table width="100%">
@@ -553,7 +475,7 @@ Azure DevOps
 
 <td width="33%" align="center" valign="top">
 
-<h3>🏗️ Azure Landing Zone</h3>
+<h4>🏗️ Azure Landing Zone</h4>
 
 Terraform-based enterprise architecture
 
@@ -563,7 +485,7 @@ Terraform-based enterprise architecture
 
 <td width="33%" align="center" valign="top">
 
-<h3>🛡️ DevSecOps Pipeline</h3>
+<h4>🛡️ DevSecOps Pipeline</h4>
 
 Security-first infrastructure delivery
 
@@ -573,7 +495,7 @@ Security-first infrastructure delivery
 
 <td width="33%" align="center" valign="top">
 
-<h3>⚙️ Terraform Modules</h3>
+<h4>⚙️ Terraform Modules</h4>
 
 Reusable Azure infrastructure components
 
@@ -585,10 +507,6 @@ Reusable Azure infrastructure components
 </table>
 
 <br>
-
-<!-- ========================================================= -->
-<!-- ENGINEERING PHILOSOPHY -->
-<!-- ========================================================= -->
 
 <p align="center">
   <b>💡 Engineering Philosophy</b>
@@ -602,6 +520,9 @@ Reusable Azure infrastructure components
     Cloud architecture should be built to scale."
   </i>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:0078D4,100:8A2BE2&height=4&width=1000" width="100%"/>
+
 ## 🎓 Certifications
 
 <div align="center">
@@ -629,18 +550,12 @@ Reusable Azure infrastructure components
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
-<br/>
-
-<img src="https://img.shields.io/badge/Fueled_By-Coffee%20%E2%98%95-0078D4?style=for-the-badge&labelColor=0A0E27" />
-<img src="https://img.shields.io/badge/Deploys_With-Confidence%20%F0%9F%9A%80-8A2BE2?style=for-the-badge&labelColor=0A0E27" />
-<img src="https://img.shields.io/badge/Secures_With-Zero%20Trust%20%F0%9F%94%90-000000?style=for-the-badge&labelColor=0A0E27" />
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,40:0078D4,100:8A2BE2&height=180&section=footer&animation=fadeIn" width="100%"/>
 
 <div align="center">
-<sub>⭐ If this profile inspired your own — star the repo and let's build secure cloud infrastructure together.</sub>
+<sub>⭐ If this profile is useful, feel free to star the repo and connect for cloud security & automation collaboration.</sub>
 </div>
 
 ---
@@ -650,6 +565,8 @@ Reusable Azure infrastructure components
 
 <br/>
 
+1. In this repository, go to **Settings → Secrets and variables → Actions** and confirm `GITHUB_TOKEN` has workflow permissions (or add a Personal Access Token with `repo` scope if needed).
+2. Add a GitHub Actions workflow file (e.g. `.github/workflows/snake.yml`) using the [`Platane/snk`](https://github.com/Platane/snk) action to generate the contribution snake SVG.
 3. Commit, then run the workflow once manually from the **Actions** tab.
 4. The snake SVG will publish to an `output` branch — the image tag already in this README points there automatically.
 
