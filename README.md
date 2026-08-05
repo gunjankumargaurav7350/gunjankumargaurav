@@ -650,43 +650,6 @@ Reusable Azure infrastructure components
 
 <br/>
 
-To activate the contribution snake shown above:
-
-1. Create a new **public** repository named exactly the same as your GitHub username (a special "profile" repo — you likely already have this one, since it's what renders this README).
-2. Inside that repo, create the file `.github/workflows/snake.yml` with the following content:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch: {}
-  push:
-    branches: [ main ]
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
 3. Commit, then run the workflow once manually from the **Actions** tab.
 4. The snake SVG will publish to an `output` branch — the image tag already in this README points there automatically.
 
