@@ -21,9 +21,9 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/ROLE-Senior_Cloud_%26_DevSecOps_Consultant-0078D4?style=for-the-badge&labelColor=0A0E27" />
-<img src="https://img.shields.io/badge/LOCATION-India-8A2BE2?style=for-the-badge&labelColor=0A0E27&logo=googlemaps&logoColor=white" />
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=0078D4&style=for-the-badge&labelColor=0A0E27" />
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-0A0E27?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
