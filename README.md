@@ -251,36 +251,181 @@ GenAI-assisted automation for drift detection, remediation, and self-documenting
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:0078D4,100:8A2BE2&height=4&width=1000" width="100%"/>
 
 ## 📌 Featured Repositories
+<!-- ========================================================= -->
+<!-- FEATURED REPOSITORIES -->
+<!-- ========================================================= -->
 
-<div align="center">
+<h2>📌 Featured Azure & DevSecOps Projects</h2>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A2FF&icon_color=8A2BE2&text_color=c9d1d9" /></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A2FF&icon_color=8A2BE2&text_color=c9d1d9" /></a>
+<table width="100%">
+<tr>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME_3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME_3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A2FF&icon_color=8A2BE2&text_color=c9d1d9" /></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME_4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME_4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A2FF&icon_color=8A2BE2&text_color=c9d1d9" /></a>
+<td width="50%" valign="top">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME_5"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME_5&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A2FF&icon_color=8A2BE2&text_color=c9d1d9" /></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME_6"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME_6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A2FF&icon_color=8A2BE2&text_color=c9d1d9" /></a>
+<h3>🏗️ Azure Landing Zone with Terraform</h3>
 
-<sub>💡 Suggested repo topics: Terraform Modules · Azure Landing Zone · Azure DevOps Pipelines · DevSecOps · GenAI · Azure Automation · PowerShell · Bicep</sub>
+Enterprise-grade Azure Landing Zone implementation using reusable Terraform modules.
 
-</div>
+<b>Key Areas:</b><br>
+• Hub-Spoke Architecture<br>
+• Management Groups<br>
+• Azure Policy & Governance<br>
+• RBAC & Managed Identity<br>
+• Key Vault Integration<br>
+• Multi-Subscription Design<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:0078D4,100:8A2BE2&height=4&width=1000" width="100%"/>
+<a href="YOUR_REPOSITORY_URL">
+  <b>🔗 View Repository →</b>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>⚙️ Azure Terraform Modules</h3>
+
+Reusable Terraform modules for standardized Azure infrastructure deployment.
+
+<b>Modules:</b><br>
+• Resource Groups<br>
+• Virtual Networks & Subnets<br>
+• NSG & Network Interfaces<br>
+• Virtual Machines<br>
+• Storage Accounts<br>
+• Azure Bastion<br><br>
+
+<a href="YOUR_REPOSITORY_URL">
+  <b>🔗 View Repository →</b>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🛡️ Azure DevSecOps Pipeline</h3>
+
+Secure CI/CD pipeline implementing shift-left security for Terraform infrastructure.
+
+<b>Toolchain:</b><br>
+• Azure DevOps<br>
+• GitHub Actions<br>
+• Terraform<br>
+• TFLint / tfsec / Checkov<br>
+• TruffleHog<br>
+• Terratest<br><br>
+
+<a href="YOUR_REPOSITORY_URL">
+  <b>🔗 View Repository →</b>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🌐 Azure Hub-Spoke Networking</h3>
+
+Enterprise Azure networking architecture designed for secure and scalable workloads.
+
+<b>Key Areas:</b><br>
+• Hub & Spoke VNets<br>
+• VNet Peering<br>
+• Azure Firewall<br>
+• NSG<br>
+• Private Endpoints<br>
+• Azure Bastion<br><br>
+
+<a href="YOUR_REPOSITORY_URL">
+  <b>🔗 View Repository →</b>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>📊 Azure Monitoring & Observability</h3>
+
+Centralized monitoring and operational visibility for Azure infrastructure.
+
+<b>Technologies:</b><br>
+• Azure Monitor<br>
+• Log Analytics<br>
+• Grafana<br>
+• Nagios<br>
+• Zabbix<br>
+• OpenCost<br><br>
+
+<a href="YOUR_REPOSITORY_URL">
+  <b>🔗 View Repository →</b>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🔐 Azure Security & Governance</h3>
+
+Enterprise security and governance patterns for Azure environments.
+
+<b>Key Areas:</b><br>
+• RBAC & PIM<br>
+• Managed Identity<br>
+• Azure Key Vault<br>
+• Azure Policy<br>
+• Microsoft Defender for Cloud<br>
+• Zero Trust<br><br>
+
+<a href="YOUR_REPOSITORY_URL">
+  <b>🔗 View Repository →</b>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+> 💡 **Current Focus:** Building production-grade Azure infrastructure using Terraform, DevSecOps, Policy-as-Code, secure CI/CD and cloud governance.
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<h2>📊 GitHub Focus</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A2FF&icon_color=8A2BE2&text_color=c9d1d9&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=0078D4&ring=8A2BE2&fire=00A2FF&currStreakLabel=00A2FF" height="165"/>
+<p align="center">
+  <b>Azure Architecture • Terraform • DevSecOps • Cloud Security • Automation</b>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A2FF&text_color=c9d1d9&langs_count=10" height="200"/>
+<table width="100%">
+<tr>
+<td align="center">
+  🏗️ <b>Infrastructure as Code</b><br>
+  Terraform • Bicep • ARM
+</td>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=00A2FF&line=8A2BE2&point=FFFFFF" width="95%"/>
+<td align="center">
+  🛡️ <b>DevSecOps</b><br>
+  tfsec • Checkov • Trivy • TFLint
+</td>
 
-</div>
+<td align="center">
+  ⚙️ <b>CI/CD</b><br>
+  Azure DevOps • GitHub Actions
+</td>
+
+<td align="center">
+  ☁️ <b>Azure</b><br>
+  Landing Zone • Networking • Security
+</td>
+</tr>
+</table>
 
 ### 🏆 Trophy Case
 
