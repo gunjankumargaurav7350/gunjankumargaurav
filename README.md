@@ -29,7 +29,7 @@
 
 <a href="https://www.linkedin.com/in/gunjan-gaurav"><img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:gunjankumargaurav7@gmail.com"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
-<a href="https://github.com/gunjankumargaurav7350/"><img src="https://img.shields.io/badge/GitHub-0A0E27?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-0A0E27?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
@@ -53,11 +53,13 @@
 
 ## 🧠 Professional Summary
 
-Experienced **Cloud & DevSecOps Consultant** specializing in **Microsoft Azure**, **Terraform**, **Azure DevOps**, **GitHub Actions**, **Infrastructure as Code**, **Cloud Security**, **Governance**, **Azure Landing Zones**, and **Enterprise Automation**.
+Cloud & DevSecOps Consultant with **4+ years of experience** across **Microsoft Azure**, **Terraform**, **Azure DevOps**, and enterprise-grade Infrastructure as Code. Skilled in designing **Azure Landing Zones**, automating secure CI/CD pipelines, strengthening cloud security and governance, and driving **GenAI-assisted operational automation**.
 
-Focused on turning fragile, manual cloud environments into **self-healing, policy-governed, secure-by-design** platforms — combining **Infrastructure Automation**, **DevSecOps**, **Platform Engineering**, and **GenAI** to help enterprises ship faster without compromising on security or compliance.
+Proven track record of reducing deployment time, standardizing infrastructure delivery, and improving compliance across multi-subscription Azure environments — backed by hands-on strength in Windows/Linux administration, monitoring, and enterprise networking.
 
 > *"Infrastructure isn't just code — it's a contract of trust between engineering and security."*
+
+**Core Strengths:** Azure Landing Zone Design • DevSecOps Automation • IaC & Governance • Cloud Security & Compliance • Infra Monitoring & Reliability
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:0078D4,100:8A2BE2&height=4&width=1000" width="100%"/>
 
@@ -107,9 +109,19 @@ Focused on turning fragile, manual cloud environments into **self-healing, polic
 <img src="https://img.shields.io/badge/App_Gateway-8A2BE2?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Azure_Bastion-0078D4?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Private_Endpoint-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Private_DNS-0078D4?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Firewall-000000?style=for-the-badge&logo=windowsterminal&logoColor=white" />
 <img src="https://img.shields.io/badge/WAF-0078D4?style=for-the-badge" />
 <img src="https://img.shields.io/badge/DDoS_Protection-8A2BE2?style=for-the-badge" />
+
+### 🛡️ Resilience & Cost Optimization
+<img src="https://img.shields.io/badge/High_Availability-0078D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Disaster_Recovery-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Azure_Backup-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure_Site_Recovery-8A2BE2?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Reserved_Instances-0078D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Auto_Scaling-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cost_Optimization-0078D4?style=for-the-badge" />
 
 ### 📊 Monitoring & Observability
 <img src="https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
@@ -148,33 +160,44 @@ Focused on turning fragile, manual cloud environments into **self-healing, polic
   <tr>
     <td width="8%" align="center">🟣</td>
     <td width="92%">
-      <strong>Senior Cloud & DevSecOps Consultant</strong><br><br>
-      Enterprise Azure Architecture • DevSecOps Strategy • GenAI-driven Automation •
-      Azure Governance • Infrastructure Security • Cloud Cost Optimization
+      <strong>Senior Cloud & DevSecOps Consultant</strong> — Sify Digital Services Limited<br>
+      <sub>Dec 2024 – Present</sub><br><br>
+      Architected an enterprise Azure Landing Zone with reusable Terraform modules •
+      Hardened CI/CD with Tfsec, TFLint, TruffleHog & Terratest •
+      Implemented RBAC, Managed Identity & Key Vault secrets management •
+      Rolled out centralized monitoring with Azure Monitor & Log Analytics •
+      <strong>Reduced deployment time by up to 50%</strong>
     </td>
   </tr>
   <tr>
     <td align="center">🔵</td>
     <td>
-      <strong>Cloud & DevSecOps Engineer</strong><br><br>
-      Secure Infrastructure-as-Code • Terraform Automation • CI/CD Pipelines •
-      Policy-as-Code • DevSecOps Security • Monitoring & Observability
+      <strong>Cloud & DevSecOps Engineer</strong> — Satin Creditcare Network Ltd<br>
+      <sub>Jun 2024 – Dec 2024</sub><br><br>
+      Provisioned Azure infrastructure (VNets, storage, compute) via Terraform •
+      Implemented Azure Policy governance & Key Vault secrets management •
+      Built CI/CD automation for standardized, repeatable deployments •
+      Supported enterprise cloud migration with minimal service disruption
     </td>
   </tr>
   <tr>
     <td align="center">🟣</td>
     <td>
-      <strong>Cloud & DevOps Engineer</strong><br><br>
-      Microsoft Azure • Terraform • Azure DevOps • GitHub Actions •
-      Azure Landing Zones • Hub-Spoke Networking • Infrastructure Automation
+      <strong>Cloud & DevOps Engineer</strong> — Sampark Softwares Pvt. Ltd<br>
+      <sub>May 2023 – Jun 2024</sub><br><br>
+      Managed Azure VMs, Storage, VNets, NSGs & Load Balancers for production workloads •
+      Automated operational tasks with PowerShell • Converted manual builds into
+      version-controlled Terraform infrastructure • Monitored environment health via Azure Monitor
     </td>
   </tr>
   <tr>
     <td align="center">🔵</td>
     <td>
-      <strong>Cloud Support Engineer</strong><br><br>
-      Azure Infrastructure Operations • Linux • Windows Server • Networking •
-      Incident Management • ServiceNow • SolarWinds • Monitoring & Troubleshooting
+      <strong>Cloud Support Engineer</strong> — IMSI Staffing Pvt. Ltd<br>
+      <sub>Oct 2022 – May 2023</sub><br><br>
+      Supported Azure administration across networking, storage & VMs for enterprise clients •
+      Windows/Linux server patching, backup & troubleshooting •
+      Assisted senior engineers with monitoring and incident resolution
     </td>
   </tr>
 </table>
@@ -185,48 +208,32 @@ Focused on turning fragile, manual cloud environments into **self-healing, polic
 <tr>
 <td width="50%" valign="top">
 
-### 🏗️ Enterprise Azure Landing Zone
-Multi-subscription landing zone built on CAF principles with policy-driven governance and hub-spoke connectivity.
-<img src="https://img.shields.io/badge/Terraform-8A2BE2?style=flat-square&logo=terraform&logoColor=white"/> <img src="https://img.shields.io/badge/CAF-0078D4?style=flat-square"/> <img src="https://img.shields.io/badge/Policy-8A2BE2?style=flat-square"/>
+### 🏗️ Enterprise Azure Landing Zone (Terraform)
+Designed a Hub-Spoke Landing Zone with RBAC, governance guardrails, and Key Vault-backed secrets management for enterprise-wide adoption.
+<img src="https://img.shields.io/badge/Terraform-8A2BE2?style=flat-square&logo=terraform&logoColor=white"/> <img src="https://img.shields.io/badge/Hub--Spoke-0078D4?style=flat-square"/> <img src="https://img.shields.io/badge/RBAC-8A2BE2?style=flat-square"/>
 
 </td>
-<td width="50%" valign="top">
-
-### 📦 Terraform Module Framework
-Reusable, versioned Terraform modules with automated testing via Terratest and security gates via tfsec/Checkov.
-<img src="https://img.shields.io/badge/Terraform-0078D4?style=flat-square&logo=terraform&logoColor=white"/> <img src="https://img.shields.io/badge/Terratest-8A2BE2?style=flat-square"/> <img src="https://img.shields.io/badge/tfsec-000000?style=flat-square"/>
-
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🔐 Azure DevSecOps Pipeline
-End-to-end pipeline embedding SAST/SCA, secret scanning, and policy checks into every deployment stage.
-<img src="https://img.shields.io/badge/Azure_DevOps-0078D4?style=flat-square&logo=azuredevops&logoColor=white"/> <img src="https://img.shields.io/badge/SonarQube-8A2BE2?style=flat-square"/> <img src="https://img.shields.io/badge/TruffleHog-000000?style=flat-square"/>
-
-</td>
-<td width="50%" valign="top">
-
-### ☁️ Cloud Migration
-Large-scale workload migration to Azure with zero-downtime cutover strategy and cost-optimized architecture.
-<img src="https://img.shields.io/badge/Azure_Migrate-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/> <img src="https://img.shields.io/badge/Cost_Optimization-8A2BE2?style=flat-square"/>
+Built a secure delivery pipeline on Azure DevOps and GitHub Actions, combining Terraform with integrated security scanning at every stage.
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D4?style=flat-square&logo=azuredevops&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Actions-8A2BE2?style=flat-square&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/Terraform-000000?style=flat-square&logo=terraform&logoColor=white"/>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🏛️ Governance Framework
-Enterprise-wide governance model — management groups, Azure Policy initiatives, and RBAC boundaries.
-<img src="https://img.shields.io/badge/Management_Groups-0078D4?style=flat-square"/> <img src="https://img.shields.io/badge/RBAC-8A2BE2?style=flat-square"/>
+### 📦 Azure Infrastructure Automation Framework
+Developed a library of reusable Terraform modules to standardize and accelerate infrastructure provisioning across projects.
+<img src="https://img.shields.io/badge/Terraform-0078D4?style=flat-square&logo=terraform&logoColor=white"/> <img src="https://img.shields.io/badge/Reusable_Modules-8A2BE2?style=flat-square"/>
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Infrastructure Automation
-GenAI-assisted automation for drift detection, remediation, and self-documenting infrastructure.
-<img src="https://img.shields.io/badge/GenAI-8A2BE2?style=flat-square"/> <img src="https://img.shields.io/badge/PowerShell-0078D4?style=flat-square&logo=powershell&logoColor=white"/>
+### ☁️ Azure Cloud Migration & Governance
+Led migration and governance work streams for enterprise workloads moving into standardized, policy-compliant Azure environments.
+<img src="https://img.shields.io/badge/Azure_Migrate-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/> <img src="https://img.shields.io/badge/Azure_Policy-8A2BE2?style=flat-square"/>
 
 </td>
 </tr>
@@ -534,6 +541,13 @@ Reusable Azure infrastructure components
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:0078D4,100:8A2BE2&height=4&width=1000" width="100%"/>
 
+## 🎓 Education
+
+**B.E., Information Technology** — Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV), Bhopal
+<br><sub>2010 – 2015</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:0078D4,100:8A2BE2&height=4&width=1000" width="100%"/>
+
 ## 🧭 Current Focus & Learning Roadmap
 
 - 🔭 Currently architecting **enterprise-scale Azure Landing Zones** with policy-as-code guardrails
@@ -560,7 +574,7 @@ Reusable Azure infrastructure components
 
 ---
 
-<!-- <details>
+<details>
 <summary>⚙️ Snake Animation Setup (click to expand)</summary>
 
 <br/>
@@ -570,4 +584,4 @@ Reusable Azure infrastructure components
 3. Commit, then run the workflow once manually from the **Actions** tab.
 4. The snake SVG will publish to an `output` branch — the image tag already in this README points there automatically.
 
-</details> -->
+</details>
