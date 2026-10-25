@@ -1,19 +1,33 @@
 ```{=html}
 <!--
-Professional Cloud / DevSecOps profile README
-Primary focus: Microsoft Azure, Terraform, DevSecOps, Platform Engineering and GenAI-assisted automation.
+Professional GitHub Profile README
+Author: Gunjan Kumar Gaurav
+Primary focus: Microsoft Azure, Terraform, DevSecOps, Platform Engineering, Cloud Governance and GenAI-assisted automation.
 -->
 ```
 ::: {align="center"}
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,40:0078D4,100:8A2BE2&height=280&section=header&text=GUNJAN%20KUMAR%20GAURAV&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Senior%20Cloud%20%7C%20DevSecOps%20%7C%20GenAI%20Consultant&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>`{=html}
+`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,40:0078D4,100:8A2BE2&height=280&section=header&text=GUNJAN%20KUMAR%20GAURAV&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Senior%20Cloud%20%7C%20DevSecOps%20%7C%20GenAI%20Consultant&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="Gunjan Kumar Gaurav"/>`{=html}
 
-### Senior Cloud, DevSecOps & GenAI Consultant
+`<br/>`{=html}
 
-**Microsoft Azure · Terraform · Azure DevOps · GitHub Actions ·
-DevSecOps · Cloud Security · Platform Engineering**
+`<a href="https://readme-typing-svg.demolab.com/">`{=html}
+`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00A2FF&center=true&vCenter=true&width=900&lines=Microsoft+Azure+%7C+Terraform+%7C+DevSecOps;Secure+Cloud+Infrastructure+%7C+Automation+%7C+Governance;Infrastructure+as+Code+%7C+Zero+Trust+%7C+Platform+Engineering;CI%2FCD+%7C+Policy-as-Code+%7C+Cloud+Cost+Engineering" alt="Typing animation"/>`{=html}
+`</a>`{=html}
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gunjan-gaurav)
-[![GitHub](https://img.shields.io/badge/GitHub-0A0E27?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gunjankumargaurav7350)
+`<br/>`{=html}`<br/>`{=html}
+
+`<img src="https://img.shields.io/badge/ROLE-Senior_Cloud_%26_DevSecOps_Consultant-0078D4?style=for-the-badge&labelColor=0A0E27"/>`{=html}
+`<img src="https://img.shields.io/badge/FOCUS-Azure_%7C_Terraform_%7C_DevSecOps-8A2BE2?style=for-the-badge&labelColor=0A0E27"/>`{=html}
+`<img src="https://img.shields.io/badge/LOCATION-India-0078D4?style=for-the-badge&labelColor=0A0E27"/>`{=html}
+
+`<br/>`{=html}`<br/>`{=html}
+
+`<a href="https://www.linkedin.com/in/gunjan-gaurav">`{=html}
+`<img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>`{=html}
+`</a>`{=html}
+`<a href="https://github.com/gunjankumargaurav7350">`{=html}
+`<img src="https://img.shields.io/badge/GitHub-0A0E27?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>`{=html}
+`</a>`{=html}
 :::
 
 ------------------------------------------------------------------------
@@ -25,482 +39,494 @@ NAME        : Gunjan Kumar Gaurav
 ROLE        : Senior Cloud, DevSecOps & GenAI Consultant
 LOCATION    : India
 SPECIALTY   : Microsoft Azure | Terraform | DevSecOps | Platform Engineering
-MISSION     : Build secure, scalable, observable and automated cloud platforms.
-ENGINEERING : Infrastructure as Code + CI/CD + Security + Governance + Automation
+ENGINEERING : IaC + CI/CD + Security + Governance + Automation
+MISSION     : Build secure, scalable, observable and repeatable cloud platforms
 ```
 
-> Infrastructure should be repeatable. Security should be automated.
+> **Infrastructure should be repeatable. Security should be automated.
 > Operations should be observable. Cloud architecture should be built to
-> scale.
+> scale.**
+
+------------------------------------------------------------------------
+
+## 🧠 Professional Summary
+
+I focus on engineering **production-grade cloud platforms** with
+Microsoft Azure, Terraform and DevSecOps practices.
+
+The engineering approach combines:
+
+-   Cloud architecture
+-   Infrastructure as Code
+-   CI/CD automation
+-   Shift-left security
+-   Policy-as-Code
+-   Identity and access management
+-   Network segmentation
+-   Observability
+-   Cost governance
+-   Disaster recovery
+-   Platform engineering
+-   GenAI-assisted engineering workflows
+
+The objective is not simply to provision resources. The objective is to
+create an **operable platform** in which architecture, security,
+governance, delivery and observability are designed together.
+
+### Core Engineering Outcomes
+
+  -----------------------------------------------------------------------
+  Capability                          Engineering Objective
+  ----------------------------------- -----------------------------------
+  Cloud Architecture                  Secure, resilient and scalable
+                                      Azure foundations
+
+  Infrastructure as Code              Declarative, version-controlled
+                                      infrastructure
+
+  Terraform                           Reusable modules, remote state and
+                                      controlled changes
+
+  DevSecOps                           Security checks integrated into
+                                      developer workflows
+
+  CI/CD                               Repeatable, auditable and gated
+                                      delivery
+
+  Governance                          Policy-driven resource and identity
+                                      controls
+
+  Networking                          Segmented, private and inspectable
+                                      traffic paths
+
+  Identity                            Least privilege and identity-based
+                                      authentication
+
+  Observability                       Metrics, logs, alerts and
+                                      operational visibility
+
+  FinOps                              Cost visibility, estimation and
+                                      optimization
+
+  Reliability                         Backup, recovery and controlled
+                                      failure handling
+
+  Automation                          PowerShell, Bash, Azure CLI and
+                                      pipeline automation
+  -----------------------------------------------------------------------
+
+------------------------------------------------------------------------
 
 ## 📚 Table of Contents
 
--   [Professional Profile](#professional-profile)
--   [Engineering Philosophy](#engineering-philosophy)
--   [Technical Arsenal](#technical-arsenal)
--   [Azure Architecture](#azure-architecture)
--   [Azure Landing Zones](#azure-landing-zones)
--   [Azure Governance](#azure-governance)
--   [Azure Networking](#azure-networking)
--   [Identity and Access Management](#identity-and-access-management)
--   [Azure Security](#azure-security)
--   [Azure Compute](#azure-compute)
--   [Azure Storage](#azure-storage)
--   [Azure Database](#azure-database)
+-   [Professional Summary](#-professional-summary)
+-   [Engineering Philosophy](#-engineering-philosophy)
+-   [Technical Arsenal](#-technical-arsenal)
+-   [Azure Architecture](#-azure-architecture)
+-   [Azure Landing Zones](#-azure-landing-zones)
+-   [Azure Governance](#-azure-governance)
+-   [Azure Networking](#-azure-networking)
+-   [Identity and Access Management](#-identity-and-access-management)
+-   [Azure Security](#-azure-security)
+-   [Azure Compute](#-azure-compute)
+-   [Azure Storage](#-azure-storage)
+-   [Azure Database](#-azure-database)
 -   [Azure Monitoring and
-    Observability](#azure-monitoring-and-observability)
--   [Terraform Engineering](#terraform-engineering)
--   [Terraform Modules](#terraform-modules)
--   [Terraform State](#terraform-state)
--   [Terraform Security](#terraform-security)
--   [Terraform CI/CD](#terraform-cicd)
--   [Azure DevOps](#azure-devops)
--   [GitHub Actions](#github-actions)
--   [DevSecOps](#devsecops)
--   [Policy as Code](#policy-as-code)
--   [Secret Management](#secret-management)
--   [Container and Kubernetes
-    Security](#container-and-kubernetes-security)
--   [Networking Security Patterns](#networking-security-patterns)
--   [Observability Engineering](#observability-engineering)
--   [FinOps and Cost Optimization](#finops-and-cost-optimization)
+    Observability](#-azure-monitoring-and-observability)
+-   [Terraform Engineering](#-terraform-engineering)
+-   [Terraform Modules](#-terraform-modules)
+-   [Terraform State](#-terraform-state)
+-   [Terraform Security](#-terraform-security)
+-   [Terraform CI/CD](#-terraform-cicd)
+-   [Azure DevOps](#-azure-devops)
+-   [GitHub Actions](#-github-actions)
+-   [DevSecOps](#-devsecops)
+-   [Policy-as-Code](#-policy-as-code)
+-   [Secret Management](#-secret-management)
+-   [Containers and Kubernetes](#-containers-and-kubernetes)
+-   [Kubernetes Security](#-kubernetes-security)
+-   [Observability Engineering](#-observability-engineering)
+-   [FinOps and Cost Optimization](#-finops-and-cost-optimization)
 -   [Reliability and Disaster
-    Recovery](#reliability-and-disaster-recovery)
--   [Platform Engineering](#platform-engineering)
--   [GenAI for Cloud Engineering](#genai-for-cloud-engineering)
--   [Enterprise Delivery Workflow](#enterprise-delivery-workflow)
--   [Project Portfolio](#project-portfolio)
--   [Operational Runbooks](#operational-runbooks)
--   [Security Checklists](#security-checklists)
--   [Terraform Command Reference](#terraform-command-reference)
--   [Azure CLI Reference](#azure-cli-reference)
--   [Git Reference](#git-reference)
--   [PowerShell Reference](#powershell-reference)
--   [Bash Reference](#bash-reference)
+    Recovery](#-reliability-and-disaster-recovery)
+-   [Platform Engineering](#-platform-engineering)
+-   [GenAI for Cloud Engineering](#-genai-for-cloud-engineering)
+-   [Enterprise Delivery Workflow](#-enterprise-delivery-workflow)
+-   [Project Portfolio](#-project-portfolio)
+-   [Operational Runbooks](#-operational-runbooks)
+-   [Security Checklists](#-security-checklists)
+-   [Terraform Command Reference](#-terraform-command-reference)
+-   [Azure CLI Reference](#-azure-cli-reference)
+-   [Git Reference](#-git-reference)
+-   [PowerShell Reference](#-powershell-reference)
+-   [Bash Reference](#-bash-reference)
+-   [Architecture Decision Records](#-architecture-decision-records)
 -   [Interview-Level Architecture
-    Questions](#interview-level-architecture-questions)
--   [Current Focus](#current-focus)
--   [Certifications](#certifications)
--   [Engineering Principles](#engineering-principles)
+    Questions](#-interview-level-architecture-questions)
+-   [Current Focus](#-current-focus)
+-   [Certifications](#-certifications)
+-   [Engineering Principles](#-engineering-principles)
 
-# Professional Profile
+------------------------------------------------------------------------
 
-## Professional Profile
+## ⚙️ Engineering Philosophy
 
-The engineering focus represented in this profile is centered on
-designing and operating Azure environments where infrastructure,
-delivery, security and governance are treated as one system.
+### 1. Infrastructure as Code First
 
-### Core outcomes
+Production infrastructure should be represented as code whenever
+practical.
 
--   Standardize Azure infrastructure through reusable Terraform modules.
--   Reduce configuration drift through declarative Infrastructure as
-    Code.
--   Move security controls into pull requests and CI/CD rather than
-    relying only on runtime review.
--   Separate platform foundations from application workloads.
--   Use Azure governance controls to establish organization-wide
-    guardrails.
--   Design network boundaries before deploying workloads.
--   Prefer identity-based authentication over long-lived credentials.
--   Keep Terraform state remote, protected and recoverable.
--   Make production changes auditable and reviewable.
--   Build observability into the platform instead of adding it after
-    incidents.
--   Treat cloud cost as an engineering signal, not only a finance
-    report.
--   Automate repeatable operational tasks with PowerShell, Bash and
-    CI/CD.
--   Use GenAI as an engineering accelerator while retaining human
-    approval for high-impact changes.
+That gives the team:
 
-### Engineering scope
+-   Version history
+-   Peer review
+-   Repeatability
+-   Automated validation
+-   Consistent environments
+-   Controlled change
+-   Recoverability
+-   Auditability
 
-  -----------------------------------------------------------------------
-  Domain                              Primary focus
-  ----------------------------------- -----------------------------------
-  Cloud                               Microsoft Azure
+### 2. Security Is a Lifecycle
 
-  IaC                                 Terraform, Bicep, ARM Templates
+Security should exist across:
 
-  CI/CD                               Azure DevOps, GitHub Actions
+``` text
+Plan
+  |
+  v
+Design
+  |
+  v
+Code
+  |
+  v
+Pull Request
+  |
+  v
+CI Security Gates
+  |
+  v
+Deployment
+  |
+  v
+Runtime Monitoring
+  |
+  v
+Incident Response
+  |
+  v
+Continuous Improvement
+```
 
-  Security                            Checkov, tfsec, TFLint, TruffleHog,
-                                      Trivy
+### 3. Least Privilege
 
-  Testing                             Terraform validation, Terratest
+Identity permissions should be:
 
-  Networking                          VNet, subnet, NSG, peering,
-                                      firewall, private endpoints
+-   Scoped
+-   Justified
+-   Reviewable
+-   Time-bound where possible
+-   Auditable
 
-  Identity                            RBAC, PIM, managed identity, Key
-                                      Vault
+Preferred mechanisms include:
 
-  Governance                          Management Groups, Azure Policy,
-                                      Landing Zones
+-   Managed identities
+-   Workload identity federation
+-   Azure RBAC
+-   Privileged Identity Management
+-   Key Vault
+-   Short-lived credentials
 
-  Observability                       Azure Monitor, Log Analytics,
-                                      Grafana, Nagios, Zabbix
+### 4. Immutable and Repeatable Delivery
 
-  FinOps                              Infracost, OpenCost, rightsizing
-                                      and governance
-
-  Automation                          PowerShell, Bash, Python
-
-  Platform                            Reusable modules, standards, golden
-                                      paths
-
-  AI                                  GenAI-assisted infrastructure
-                                      review and automation
-  -----------------------------------------------------------------------
-
-# Engineering Philosophy
-
-## Engineering Philosophy
-
-### 1. Infrastructure as Code first
-
-If an infrastructure component matters to production, its desired
-configuration should be represented as code whenever practical.
-
-The repository becomes the review surface for:
-
--   infrastructure intent
--   dependency relationships
--   security controls
--   configuration standards
--   deployment history
--   rollback information
--   ownership boundaries
-
-### 2. Secure by design
-
-Security is not a final pipeline stage.
-
-Security requirements should influence:
-
-1.  identity
-2.  network topology
-3.  data protection
-4.  secret handling
-5.  infrastructure code
-6.  CI/CD controls
-7.  runtime monitoring
-8.  incident response
-
-### 3. Least privilege
-
-Every identity should receive only the permissions required for its
-responsibility.
-
-Prefer:
-
--   managed identities
--   workload identity federation
--   scoped RBAC
--   PIM for privileged access
--   Key Vault for secrets
-
-Avoid:
-
--   hard-coded credentials
--   broad Owner assignments
--   shared administrator accounts
--   permanent privileged access
--   secrets committed to repositories
-
-### 4. Immutable and repeatable delivery
-
-The preferred workflow is:
+The desired delivery pattern is:
 
 ``` text
 Developer
    |
    v
+Feature Branch
+   |
+   v
 Pull Request
    |
-   +--> Format / Validate
+   +--> Format
+   |
+   +--> Validate
    |
    +--> Lint
    |
-   +--> Security Scan
-   |
    +--> Secret Scan
    |
+   +--> IaC Security Scan
+   |
    +--> Cost Estimate
+   |
+   +--> Unit / Integration Tests
    |
    +--> Terraform Plan
    |
    v
-Approval
+Review + Approval
    |
    v
 Terraform Apply
    |
    v
-Monitoring / Audit / Drift Detection
+Validation
+   |
+   v
+Monitoring
 ```
 
-### 5. Operational visibility
+### 5. Observability Is Part of Architecture
 
-A successful deployment is not the end of delivery.
+A deployment is incomplete if the platform cannot answer:
 
-The platform should answer:
+-   Is the service available?
+-   Are requests succeeding?
+-   Is latency increasing?
+-   Are resources saturated?
+-   Are security controls failing?
+-   Is the infrastructure drifting?
+-   Is the workload generating unexpected cost?
+-   Can the service recover from failure?
 
--   Is the service healthy?
--   Is the infrastructure reachable?
--   Are error rates increasing?
--   Are latency and saturation changing?
--   Is a security control failing?
--   Did the deployment create unexpected cost?
--   Is infrastructure drifting from the declared state?
+------------------------------------------------------------------------
 
-# Technical Arsenal
+# ☁️ Technical Arsenal
 
-## Technical Arsenal
+## Microsoft Azure
 
-### ☁️ Microsoft Azure
+`<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>`{=html}
 
--   Azure Resource Groups
--   Azure Subscriptions
--   Azure Management Groups
+Core areas:
+
+-   Azure subscriptions
+-   Management Groups
+-   Resource Groups
 -   Azure Policy
 -   Azure RBAC
 -   Microsoft Entra ID
+-   Managed Identity
 -   Azure Key Vault
 -   Azure Virtual Network
--   Azure Subnets
--   Network Security Groups
--   Azure Load Balancer
--   Azure Application Gateway
--   Azure Bastion
+-   Subnets
+-   NSGs
+-   Route Tables
 -   Azure Firewall
+-   Application Gateway
+-   Load Balancer
+-   Azure Bastion
 -   Private Endpoints
 -   Private DNS
--   VNet Peering
--   Azure Virtual WAN
 -   Azure Monitor
 -   Log Analytics
 -   Microsoft Defender for Cloud
--   Microsoft Sentinel
--   Azure Storage
--   Azure Virtual Machines
 -   Azure Kubernetes Service
+-   Azure Storage
 -   Azure Database services
--   Azure Advisor
--   Azure Migrate
 
-### 🏗️ Infrastructure as Code
+## Infrastructure as Code
 
--   Terraform
--   Terraform modules
--   Terraform variables
--   Terraform locals
--   Terraform outputs
--   Terraform data sources
+`<img src="https://img.shields.io/badge/Terraform-8A2BE2?style=for-the-badge&logo=terraform&logoColor=white"/>`{=html}
+`<img src="https://img.shields.io/badge/Bicep-00A2FF?style=for-the-badge&logo=microsoftazure&logoColor=white"/>`{=html}
+`<img src="https://img.shields.io/badge/ARM-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>`{=html}
+
+Terraform capabilities:
+
+-   Resources
+-   Data sources
+-   Variables
+-   Locals
+-   Outputs
+-   Modules
 -   `for_each`
 -   `count`
 -   `depends_on`
 -   `lifecycle`
--   remote state
--   state locking
--   provider version constraints
--   provider aliases
--   reusable module contracts
--   Terraform plan review
--   Terraform import
--   drift analysis
+-   Provider aliases
+-   Dynamic blocks
+-   Remote state
+-   State locking
+-   Import
+-   Plan
+-   Apply
+-   Destroy
+-   Drift analysis
 
-### 🔁 Delivery
+## CI/CD
 
--   Azure DevOps Pipelines
--   Azure Repos
--   Azure service connections
--   GitHub Actions
+`<img src="https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white"/>`{=html}
+`<img src="https://img.shields.io/badge/GitHub_Actions-8A2BE2?style=for-the-badge&logo=githubactions&logoColor=white"/>`{=html}
+
+Delivery concepts:
+
 -   YAML pipelines
--   pull-request validation
--   branch protection
--   manual approvals
--   environment gates
--   artifact promotion
--   blue-green deployment
--   canary deployment
--   rolling deployment
--   GitFlow
+-   Pull request validation
+-   Build validation
+-   Release promotion
+-   Environments
+-   Approvals
+-   Service connections
+-   Workload identity
+-   Artifacts
+-   Branch protection
+-   Deployment strategies
+-   Rollback
 
-### 🛡️ DevSecOps
+## DevSecOps
 
--   Checkov
--   tfsec
--   TFLint
--   TruffleHog
--   Trivy
--   Terratest
--   SonarQube
--   policy-as-code
--   secret scanning
--   IaC security
--   container security
--   dependency security
--   least privilege
--   secure CI/CD
+`<img src="https://img.shields.io/badge/Checkov-0078D4?style=for-the-badge"/>`{=html}
+`<img src="https://img.shields.io/badge/tfsec-8A2BE2?style=for-the-badge"/>`{=html}
+`<img src="https://img.shields.io/badge/TFLint-0078D4?style=for-the-badge"/>`{=html}
+`<img src="https://img.shields.io/badge/Trivy-8A2BE2?style=for-the-badge"/>`{=html}
+`<img src="https://img.shields.io/badge/TruffleHog-000000?style=for-the-badge"/>`{=html}
 
-### 📊 Observability
+Security domains:
 
--   Azure Monitor
--   Log Analytics
--   Grafana
--   Nagios
--   Zabbix
--   OpenCost
--   Infracost
--   metrics
--   logs
--   traces
--   alerting
--   dashboards
--   SLO/SLA-oriented monitoring
+-   IaC scanning
+-   Secret scanning
+-   Container scanning
+-   Dependency scanning
+-   Static analysis
+-   Policy enforcement
+-   Supply-chain security
+-   Least privilege
+-   Secure CI/CD
+-   Runtime security
 
-### 💻 Automation
+## Automation
 
 -   PowerShell
 -   Bash
 -   Python
 -   Azure CLI
--   Git
 -   REST APIs
+-   Git
 -   YAML
+-   JSON
+-   Linux
+-   Windows Server
 
-# Azure Architecture
+------------------------------------------------------------------------
 
-## Azure Architecture
+# 🏛️ Azure Architecture
 
-### Architecture principles
+## Architecture Layers
 
-A production Azure platform should establish clear separation between:
-
--   management plane
--   identity plane
--   connectivity plane
--   security plane
--   shared services
--   application landing zones
--   observability
--   governance
--   cost management
-
-### Reference topology
+A production Azure platform can be reasoned about as:
 
 ``` text
-                    ┌──────────────────────────┐
-                    │     Microsoft Entra ID   │
-                    │ Identity / RBAC / PIM    │
-                    └────────────┬─────────────┘
-                                 |
-                    ┌────────────v─────────────┐
-                    │   Management Groups      │
-                    │ Governance / Policy      │
-                    └────────────┬─────────────┘
-                                 |
-          ┌──────────────────────v──────────────────────┐
-          │              Connectivity Hub               │
-          │ Firewall | DNS | Bastion | Gateway | VPN   │
-          └───────────────┬───────────────┬─────────────┘
-                          |               |
-                 ┌────────v──────┐ ┌─────v────────────┐
-                 │ Production    │ │ Non-Production   │
-                 │ Landing Zone  │ │ Landing Zone     │
-                 └────────┬──────┘ └─────┬────────────┘
-                          |               |
-                    ┌─────v────────────────v─────┐
-                    │ Application Workloads      │
-                    │ VM | AKS | App Services   │
-                    └────────────────────────────┘
+                    ┌───────────────────────┐
+                    │ Microsoft Entra ID    │
+                    │ Identity / RBAC / PIM │
+                    └───────────┬───────────┘
+                                |
+                    ┌───────────v───────────┐
+                    │ Management Groups     │
+                    │ Policy / Governance   │
+                    └───────────┬───────────┘
+                                |
+             ┌──────────────────v──────────────────┐
+             │          Connectivity Hub           │
+             │ Firewall | DNS | Bastion | VPN      │
+             └───────────────┬───────────┬─────────┘
+                             |           |
+                   ┌─────────v───┐   ┌──v──────────┐
+                   │ Production  │   │ NonProd     │
+                   │ LandingZone │   │ LandingZone │
+                   └──────┬──────┘   └─────┬───────┘
+                          |                |
+                   ┌──────v────────────────v──────┐
+                   │ Application Workloads        │
+                   │ VM | AKS | App Service      │
+                   └──────────────────────────────┘
 ```
 
-### Control-plane separation
+## Architecture Principles
 
-The platform should distinguish:
+1.  Identity before authorization.
+2.  Authorization before deployment.
+3.  Network segmentation before workload onboarding.
+4.  Private connectivity where the security model requires it.
+5.  Centralized governance with delegated workload ownership.
+6.  Remote and protected Terraform state.
+7.  Automated security validation.
+8.  Observable workloads.
+9.  Cost-aware architecture.
+10. Recovery designed before production incidents.
 
--   who can create resources
--   who can change network boundaries
--   who can administer identities
--   who can deploy workloads
--   who can read secrets
--   who can approve production changes
--   who can investigate security incidents
+## Subscription Design
 
-### Subscription strategy
+Subscription boundaries can provide:
 
-A subscription boundary can be used for:
+-   Billing separation
+-   Workload isolation
+-   Policy scope
+-   RBAC scope
+-   Quota boundaries
+-   Blast-radius reduction
+-   Delegated administration
+-   Environment separation
 
--   billing separation
--   workload isolation
--   policy scope
--   quota management
--   blast-radius reduction
--   delegated administration
--   environment separation
+Subscription count should be driven by governance and workload
+requirements, not by an arbitrary rule.
 
-Subscription design should follow organizational requirements rather
-than arbitrary subscription proliferation.
+## Naming Convention
 
-### Naming
-
-A consistent naming convention should encode useful context without
-making names excessively long.
-
-Example:
+Recommended conceptual format:
 
 ``` text
 <resource-type>-<workload>-<environment>-<region>-<instance>
 ```
 
-Example:
+Examples:
 
 ``` text
 rg-platform-prod-centralindia
 vnet-app-prod-centralindia
 kv-app-prod-centralindia
+stappprodcentral01
 ```
 
-### Tagging
+## Tagging Strategy
 
-Recommended governance tags include:
+Recommended tags:
 
--   `Environment`
--   `Application`
--   `Owner`
--   `CostCenter`
--   `BusinessUnit`
--   `ManagedBy`
--   `DataClassification`
--   `Criticality`
+``` text
+Environment
+Application
+Owner
+CostCenter
+BusinessUnit
+ManagedBy
+DataClassification
+Criticality
+Department
+Service
+```
 
-Tags should be governed centrally where organizational policy requires
-them.
+------------------------------------------------------------------------
 
-# Azure Landing Zones
-
-## Azure Landing Zones
+# 🏗️ Azure Landing Zones
 
 An Azure Landing Zone is a standardized platform foundation that gives
 workload teams a governed place to deploy applications.
 
-### Core building blocks
+## Core Building Blocks
 
-1.  Tenant and identity foundation
-2.  Management group hierarchy
-3.  Subscription vending
+1.  Identity
+2.  Management groups
+3.  Subscription organization
 4.  Connectivity
 5.  Security
 6.  Governance
-7.  Operations
+7.  Management
 8.  Application landing zones
 
-### Management group hierarchy
-
-A conceptual structure can look like:
+## Conceptual Hierarchy
 
 ``` text
 Tenant Root
@@ -520,92 +546,75 @@ Tenant Root
 +-- Decommissioned
 ```
 
-### Governance flow
-
-``` text
-Management Group
-      |
-      v
-Policy Assignment
-      |
-      v
-Subscription
-      |
-      v
-Resource Group
-      |
-      v
-Resource
-```
-
-### Landing zone guardrails
+## Landing Zone Guardrails
 
 Typical guardrails include:
 
--   allowed Azure regions
--   required tags
--   diagnostic settings
--   encryption requirements
--   private networking requirements
--   public IP restrictions
--   resource SKU restrictions
+-   Approved regions
+-   Required tags
+-   Diagnostic settings
+-   Encryption requirements
+-   Private networking
+-   Public IP restrictions
+-   Approved SKUs
 -   Defender coverage
--   identity requirements
--   naming conventions
--   approved resource types
+-   Identity requirements
+-   Naming conventions
+-   Allowed resource types
 
-### Workload onboarding
+## Workload Onboarding
 
-A workload should provide:
+A workload onboarding request should define:
 
--   owner
--   business criticality
--   data classification
--   network requirements
--   identity requirements
--   backup requirements
--   monitoring requirements
+-   Application owner
+-   Business owner
+-   Environment
+-   Criticality
+-   Data classification
+-   Network requirements
+-   Identity requirements
+-   Backup requirements
+-   Monitoring requirements
 -   RTO
 -   RPO
--   expected traffic
--   expected cost
+-   Expected traffic
+-   Expected cost
+-   Compliance requirements
 
-### Landing zone acceptance criteria
+## Landing Zone Acceptance Checklist
 
 ``` text
 [ ] Subscription created
-[ ] Correct management group assigned
-[ ] Required policies inherited
+[ ] Management group assigned
+[ ] Policies inherited
 [ ] RBAC model approved
-[ ] Connectivity available
-[ ] DNS resolution verified
+[ ] Connectivity verified
+[ ] DNS verified
 [ ] Logging enabled
 [ ] Security baseline enabled
-[ ] Backup requirements defined
-[ ] Cost tags applied
+[ ] Backup defined
+[ ] Tags applied
 [ ] CI/CD identity configured
-[ ] Terraform state secured
+[ ] Terraform state protected
+[ ] Cost ownership assigned
 ```
 
-# Azure Governance
+------------------------------------------------------------------------
 
-## Azure Governance
+# 🛡️ Azure Governance
 
-### Management Groups
+## Management Groups
 
-Management Groups provide a hierarchy above subscriptions and allow
-governance to be applied at scale.
+Management Groups provide hierarchy above subscriptions.
 
-Use them to organize:
+Use them for:
 
--   policy scope
--   RBAC boundaries
--   subscription hierarchy
--   enterprise governance
+-   Policy scope
+-   RBAC scope
+-   Subscription organization
+-   Enterprise governance
 
-### Azure Policy
-
-Azure Policy evaluates resources against organizational rules.
+## Azure Policy
 
 Common policy effects include:
 
@@ -613,206 +622,216 @@ Common policy effects include:
 -   Deny
 -   Modify
 -   DeployIfNotExists
+-   Disabled
 
-A mature governance model should distinguish between:
+Governance should distinguish between:
 
--   mandatory controls
--   remediation controls
--   advisory controls
--   temporary exemptions
+-   Mandatory controls
+-   Advisory controls
+-   Remediation controls
+-   Temporary exemptions
 
-### Policy exemption
+## Policy Exemptions
 
-An exemption should be:
+A policy exemption should be:
 
--   justified
--   scoped
--   owned
--   time-bound where possible
--   documented
--   reviewed
+-   Scoped
+-   Justified
+-   Owned
+-   Documented
+-   Time-bound where possible
+-   Reviewed
 
-### RBAC
-
-Azure RBAC is based on:
+## Governance Flow
 
 ``` text
-Security Principal
-        +
-Role Definition
-        +
-Scope
-        =
-Effective Access
+Management Group
+       |
+       v
+Policy Definition
+       |
+       v
+Initiative
+       |
+       v
+Assignment
+       |
+       v
+Subscription
+       |
+       v
+Resource Group
+       |
+       v
+Resource
 ```
 
-Scopes can be:
-
--   management group
--   subscription
--   resource group
--   resource
-
-### PIM
-
-Privileged Identity Management reduces standing privileged access.
-
-A strong model uses:
-
--   eligible access
--   approval
--   time-bound activation
--   MFA
--   justification
--   audit logs
-
-### Governance anti-patterns
+## Governance Anti-Patterns
 
 Avoid:
 
--   one subscription for everything
--   everyone as Owner
--   permanent admin accounts
--   policies that nobody understands
--   unlimited policy exemptions
--   missing resource ownership
--   unmanaged public endpoints
--   inconsistent tagging
+-   Everyone being Owner
+-   Permanent privileged access
+-   Uncontrolled public endpoints
+-   Unlimited policy exemptions
+-   Missing resource ownership
+-   Unmanaged subscriptions
+-   Inconsistent naming
+-   Inconsistent tagging
+-   Policies without remediation strategy
 
-### Governance maturity
+------------------------------------------------------------------------
 
-``` text
-Level 1  Manual controls
-Level 2  Documented standards
-Level 3  Policy enforcement
-Level 4  Automated remediation
-Level 5  Continuous compliance and optimization
-```
+# 🌐 Azure Networking
 
-# Azure Networking
+## VNet Fundamentals
 
-## Azure Networking
-
-### VNet fundamentals
-
-A Virtual Network provides the private network boundary for Azure
+A Virtual Network provides the private networking boundary for Azure
 workloads.
 
 Core concepts:
 
--   address space
--   subnet
--   route
--   NSG
+-   Address spaces
+-   Subnets
+-   Routes
+-   NSGs
+-   Route tables
 -   DNS
--   peering
--   private endpoint
--   gateway
--   firewall
+-   Peering
+-   Private Endpoints
+-   Firewalls
+-   Gateways
 
-### Subnet design
+## Subnet Design
 
-Do not create subnets only because a diagram looks clean.
+Subnet boundaries should be based on:
 
-Create boundaries based on:
-
--   security requirements
--   routing requirements
--   workload role
--   delegated services
--   operational ownership
+-   Security
+-   Routing
+-   Workload role
+-   Delegation
+-   Ownership
+-   Service requirements
 
 Example:
 
 ``` text
 VNet: 10.10.0.0/16
 
-10.10.1.0/24   App Gateway
+10.10.1.0/24   Application Gateway
 10.10.2.0/24   Application
 10.10.3.0/24   Data
 10.10.4.0/24   Private Endpoints
 10.10.5.0/24   Management / Bastion
 ```
 
-### NSG
+## NSG Rule Model
 
-A Network Security Group controls network traffic using rules.
-
-Rule evaluation should be designed deliberately around:
-
--   source
--   destination
--   port
--   protocol
--   direction
--   priority
--   allow/deny
-
-### Hub and spoke
-
-The hub provides shared network capabilities.
-
-Spokes isolate workload networks.
+An NSG rule evaluates:
 
 ``` text
-                    HUB
-        ┌────────────┼────────────┐
-        │            │            │
-     Firewall      DNS         Bastion
-        │
-   ┌────┴─────┐
-   │          │
-Spoke-App   Spoke-Data
+Direction
+Source
+Destination
+Protocol
+Source Port
+Destination Port
+Priority
+Action
 ```
 
-### VNet Peering
+Rule design should minimize broad inbound access.
 
-VNet peering provides private connectivity between VNets.
+Prefer:
+
+``` text
+Internet
+   |
+   v
+WAF / Application Gateway
+   |
+   v
+Application
+   |
+   v
+Database
+```
+
+Instead of:
+
+``` text
+Internet
+   |
+   +--------------------+
+   |                    |
+   v                    v
+Application          Database
+```
+
+## Hub-and-Spoke
+
+``` text
+                       HUB
+          ┌─────────────┼─────────────┐
+          │             │             │
+       Firewall        DNS          Bastion
+          |
+     ┌────┴───────┐
+     |            |
+  Spoke-App    Spoke-Data
+```
+
+The hub can host shared connectivity and security services while spokes
+isolate workloads.
+
+## VNet Peering
 
 Validate:
 
--   address spaces do not overlap
--   required forwarding is enabled
--   route tables are correct
--   NSGs permit the flow
--   firewall paths are understood
+-   Address spaces do not overlap.
+-   Peering state is connected.
+-   Required forwarding is configured.
+-   Route tables are correct.
+-   NSGs permit intended flows.
+-   Firewall paths are understood.
 
-### Private Endpoint
+## Private Endpoint
 
-A Private Endpoint maps a PaaS service into a VNet through a private IP.
+A Private Endpoint provides private connectivity from a VNet to a
+supported Azure service.
 
-Operational considerations:
+Operational dependencies include:
 
--   private DNS
+-   Private DNS zones
 -   DNS zone links
--   subnet policy
+-   Name resolution
+-   Routing
 -   NSGs
--   routing
--   name resolution
+-   Subnet configuration
 
-### Azure Firewall
+## Azure Firewall
 
-Use centralized firewalling when the architecture requires:
+Use centralized firewalling where the architecture requires:
 
--   controlled egress
--   centralized inspection
--   network segmentation
--   application rules
--   network rules
--   threat intelligence
+-   Controlled egress
+-   Network inspection
+-   Segmentation
+-   Application rules
+-   Network rules
+-   Threat intelligence
 
-### Azure Bastion
+## Azure Bastion
 
-Bastion provides browser-based secure access to supported VMs without
-exposing management ports directly to the internet.
+Bastion can provide secure browser-based VM access without requiring
+direct public exposure of management ports.
 
-### Application Gateway and WAF
+## Application Gateway and WAF
 
 Application Gateway provides Layer 7 traffic management.
 
-WAF adds web application protection capabilities.
+WAF adds protection against common web application threats.
 
-Typical flow:
+Reference flow:
 
 ``` text
 Internet
@@ -821,50 +840,50 @@ Internet
 Application Gateway / WAF
    |
    v
-Application subnet
+Application Subnet
    |
    v
-Backend workload
+Backend Workload
 ```
 
-### Network troubleshooting sequence
+## Network Troubleshooting
 
 ``` text
-1. DNS resolution
+1. DNS
 2. Route table
 3. NSG
 4. Firewall
 5. Peering
-6. Private endpoint
-7. Service endpoint
-8. Application listener
+6. Private Endpoint
+7. Private DNS
+8. Listener
 9. Backend health
 10. Application logs
 ```
 
-# Identity and Access Management
+------------------------------------------------------------------------
 
-## Identity and Access Management
+# 🔐 Identity and Access Management
 
-### Microsoft Entra ID
+## Microsoft Entra ID
 
-Identity should be the primary control plane for authentication and
+Identity is a central control plane for Azure authentication and
 authorization.
 
-Core concepts:
+Important concepts:
 
--   users
--   groups
--   service principals
--   managed identities
--   workload identities
--   applications
--   service connections
+-   Users
+-   Groups
+-   Applications
+-   Service principals
+-   Managed identities
+-   Workload identities
+-   Enterprise applications
 
-### Managed Identity
+## Managed Identity
 
-Managed identity removes the need to distribute credentials to supported
-Azure resources.
+Managed identities remove the need to distribute credentials to
+supported Azure resources.
 
 Conceptual flow:
 
@@ -881,74 +900,71 @@ Microsoft Entra ID
 Azure Resource
 ```
 
-### System-assigned identity
+## System-Assigned Identity
 
-The lifecycle is tied to the Azure resource.
+The identity lifecycle is tied to the Azure resource.
 
-### User-assigned identity
+## User-Assigned Identity
 
 The identity is an independent Azure resource and can be associated with
 multiple supported resources.
 
-### RBAC design
+## RBAC
 
-A role assignment should answer:
+An effective role assignment can be modeled as:
 
--   Who?
--   What role?
--   At what scope?
--   For how long?
--   Why?
+``` text
+Security Principal
+        +
+Role Definition
+        +
+Scope
+        =
+Effective Access
+```
 
-### CI/CD authentication
+Scopes include:
 
-Preferred enterprise patterns include:
+-   Management Group
+-   Subscription
+-   Resource Group
+-   Resource
 
--   workload identity federation
--   managed identity where applicable
--   tightly scoped service connections
+## PIM
 
-Avoid putting:
+Privileged Identity Management can reduce standing privilege through:
 
--   client secrets
--   passwords
--   access keys
+-   Eligibility
+-   Approval
+-   Time-bound activation
+-   MFA
+-   Justification
+-   Auditability
 
-inside YAML files.
+## CI/CD Authentication
 
-### Access review
+Preferred patterns:
 
-Periodic access reviews should identify:
+-   Workload identity federation
+-   Managed identity where supported
+-   Scoped service connections
 
--   unused assignments
--   broad assignments
--   stale service principals
--   excessive privileges
--   permanent privileged access
+Avoid embedding:
 
-### Zero Trust
+``` text
+Client Secret
+Password
+Storage Key
+API Token
+```
 
-Zero Trust is based on:
+inside pipeline YAML.
 
--   verify explicitly
--   use least privilege
--   assume breach
+------------------------------------------------------------------------
 
-Architecture implications:
+# 🔒 Azure Security
 
--   authenticate every workload
--   minimize network trust
--   isolate identities
--   protect data
--   monitor anomalous access
-
-# Azure Security
-
-## Azure Security
-
-### Defense in depth
-
-Use multiple independent security layers:
+## Defense in Depth
 
 ``` text
 Identity
@@ -964,514 +980,439 @@ Monitoring
 Response
 ```
 
-### Key Vault
+## Key Vault
 
 Use Key Vault for supported:
 
--   secrets
--   keys
--   certificates
+-   Secrets
+-   Keys
+-   Certificates
 
-Design for:
+Security considerations:
 
 -   RBAC
--   private connectivity where required
--   logging
--   soft-delete
--   purge protection where appropriate
--   managed identity access
+-   Managed identity
+-   Private connectivity where required
+-   Logging
+-   Soft delete
+-   Purge protection where appropriate
+-   Access review
 
-### Defender for Cloud
+## Defender for Cloud
 
-Use Defender for Cloud for security posture and workload protection
-capabilities appropriate to the environment.
+Security posture management can help identify:
 
-### Microsoft Sentinel
+-   Misconfigurations
+-   Recommendations
+-   Vulnerability exposure
+-   Security posture gaps
 
-Sentinel can provide:
+## Microsoft Sentinel
 
--   security analytics
--   incident management
--   threat detection
--   investigation
--   automation
+Security operations can include:
 
-### Secret scanning
+-   Analytics
+-   Detection
+-   Investigation
+-   Incident management
+-   Automation
 
-A DevSecOps pipeline should detect accidental credential exposure before
-merge.
+## Security Baseline
 
-Tools can include:
-
--   TruffleHog
--   repository secret scanning
--   provider-specific secret detectors
-
-### IaC scanning
-
-Terraform should be scanned for:
-
--   public exposure
--   weak encryption
--   missing logging
--   overly broad permissions
--   insecure network configuration
--   missing security controls
-
-### Security gates
-
-A practical pipeline:
+A practical baseline should include:
 
 ``` text
-Terraform fmt
-   |
-Terraform validate
-   |
-TFLint
-   |
-Checkov
-   |
-tfsec
-   |
-Secret scan
-   |
-Terraform plan
-   |
-Approval
-   |
-Apply
+[ ] MFA
+[ ] Least privilege
+[ ] PIM
+[ ] Managed identities
+[ ] Key Vault
+[ ] Private networking where required
+[ ] Logging
+[ ] Defender coverage
+[ ] Secret scanning
+[ ] IaC scanning
+[ ] Container scanning
+[ ] Patch management
+[ ] Backup
 ```
 
-### Critical security rule
+------------------------------------------------------------------------
 
-A scanner failure should not automatically be ignored.
+# 🖥️ Azure Compute
 
-Each finding should be:
+## Virtual Machines
 
-1.  understood
-2.  classified
-3.  fixed
-4.  documented as accepted risk
-5.  or exempted with ownership and justification
+VM architecture should consider:
 
-# Azure Compute
+-   VM size
+-   Availability
+-   Managed disks
+-   Network interfaces
+-   NSGs
+-   Identity
+-   Monitoring
+-   Backup
+-   Patch management
+-   Encryption
+-   Bastion or controlled administration
 
-## Azure Compute
+## Availability
 
-### Virtual Machines
-
-VM engineering should consider:
-
--   image source
--   OS patching
--   disk encryption
--   identity
--   network placement
--   NSG
--   backup
--   availability
--   monitoring
--   boot diagnostics
--   extensions
--   lifecycle
-
-### VM security baseline
+Choose the appropriate availability model:
 
 ``` text
-[ ] No unnecessary public IP
-[ ] NSG restricted
-[ ] SSH/RDP access controlled
-[ ] Managed identity enabled
-[ ] Disk encryption configured
-[ ] Monitoring enabled
-[ ] Backup assessed
-[ ] Patching strategy defined
-[ ] Least-privilege administration
+Single VM
+   |
+Availability Set
+   |
+Availability Zones
+   |
+Region Pair / Multi-Region
 ```
 
-### AKS
+The appropriate design depends on:
 
-For containerized workloads, AKS introduces:
+-   SLA requirements
+-   Application architecture
+-   RTO
+-   RPO
+-   Cost
+-   Regional dependencies
 
--   cluster identity
--   node pools
--   networking
--   ingress
--   workload identity
--   secrets
--   autoscaling
--   observability
--   policy
--   image security
+## VM Hardening
 
-### Container image pipeline
+Baseline controls:
+
+-   Disable unnecessary services
+-   Restrict management ports
+-   Use identity-based administration where supported
+-   Patch regularly
+-   Enable monitoring
+-   Use endpoint protection
+-   Encrypt disks
+-   Restrict outbound access where required
+
+## AKS
+
+AKS design should cover:
+
+-   Cluster identity
+-   Node pools
+-   Networking
+-   Ingress
+-   Workload identity
+-   Secrets
+-   RBAC
+-   Autoscaling
+-   Monitoring
+-   Network policies
+-   Upgrade strategy
+
+------------------------------------------------------------------------
+
+# 💾 Azure Storage
+
+## Storage Account Design
+
+Key considerations:
+
+-   Account type
+-   Performance tier
+-   Replication
+-   Network access
+-   Public access
+-   Encryption
+-   Identity
+-   Lifecycle management
+-   Diagnostic logging
+
+## Replication
+
+Common models include:
 
 ``` text
-Source
-  |
-Build
-  |
-Unit Test
-  |
-Image Scan
-  |
-SBOM
-  |
-Registry
-  |
-Deployment
-  |
-Runtime Monitoring
+LRS
+ZRS
+GRS
+GZRS
+RA-GRS
+RA-GZRS
 ```
 
-### Scaling
+Selection should depend on:
 
-Scaling decisions should use workload signals such as:
+-   Durability requirement
+-   Availability requirement
+-   Regional recovery
+-   Application RPO
+-   Cost
 
--   CPU
--   memory
--   request rate
--   queue depth
--   latency
--   business transactions
+## Secure Storage
 
-Avoid scaling based on one metric alone when it does not represent user
-experience.
+Recommended controls:
 
-# Azure Storage
+-   Disable unnecessary public access
+-   Use private endpoints where required
+-   Use RBAC
+-   Use managed identity
+-   Encrypt data
+-   Apply lifecycle policies
+-   Enable logging
+-   Restrict network access
 
-## Azure Storage
+## Terraform Storage Example
 
-### Storage account design
+``` hcl
+resource "azurerm_storage_account" "example" {
+  name                     = var.storage_account_name
+  resource_group_name      = var.resource_group_name
+  location                 = var.location
+  account_tier             = "Standard"
+  account_replication_type = "ZRS"
 
-Important controls include:
+  public_network_access_enabled = false
 
--   redundancy
--   TLS
--   encryption
--   public access
--   network rules
--   private endpoints
--   identity
--   lifecycle
--   logging
--   data classification
-
-### Common security baseline
-
-``` text
-Public network access       -> minimize
-Secure transfer             -> enabled
-Minimum TLS                 -> approved baseline
-Blob anonymous access       -> disabled unless explicitly required
-Network rules               -> restricted
-Encryption                  -> enabled
-Identity                    -> RBAC / managed identity where supported
-Diagnostics                 -> enabled where required
+  tags = var.tags
+}
 ```
 
-### Encryption
+------------------------------------------------------------------------
 
-Azure Storage provides encryption at rest by default for supported
-services.
+# 🗄️ Azure Database
 
-For workloads requiring customer-controlled keys, design:
+Database architecture should consider:
 
-``` text
-Storage Account
-      |
-      v
-Customer Managed Key
-      |
-      v
-Key Vault
-```
+-   Authentication
+-   Network isolation
+-   Encryption
+-   Backup
+-   High availability
+-   Replication
+-   Monitoring
+-   Maintenance
+-   Connection security
 
-### Checkov example
-
-A policy such as `CKV2_AZURE_1` can identify a storage account that does
-not meet a customer-managed-key requirement under the applicable Checkov
-policy set.
-
-The correct engineering response is to determine whether the data is
-classified as requiring CMK and then either:
-
--   implement the required encryption configuration, or
--   document an approved exception if the control is not applicable.
-
-Do not blindly suppress the finding.
-
-### Data lifecycle
-
-Use lifecycle management for:
-
--   hot to cool transitions
--   archive
--   retention
--   deletion
-
-Lifecycle rules should reflect business and compliance requirements.
-
-# Azure Database
-
-## Azure Database
-
-Database architecture should address:
-
--   private connectivity
--   identity
--   encryption
--   backup
--   high availability
--   disaster recovery
--   monitoring
--   maintenance
--   performance
--   cost
-
-### PostgreSQL pattern
-
-A secure pattern can be:
+## Private Database Pattern
 
 ``` text
 Application
     |
+    v
 Private Network
     |
-Private Endpoint / Private Access Pattern
+    v
+Private Endpoint / Private Access
     |
-Azure Database for PostgreSQL
+    v
+Managed Database
 ```
 
-### Database controls
+## Database Security
+
+Controls include:
+
+-   Private access
+-   Encrypted connections
+-   Identity authentication where supported
+-   Secret management
+-   Firewall restrictions
+-   Auditing
+-   Backup
+-   Recovery testing
+
+------------------------------------------------------------------------
+
+# 📊 Azure Monitoring and Observability
+
+## Three Primary Signals
 
 ``` text
-[ ] Public access evaluated
-[ ] Private access evaluated
-[ ] Authentication model defined
-[ ] TLS enforced
-[ ] Backup retention defined
-[ ] HA requirement defined
-[ ] Monitoring enabled
-[ ] Alerting configured
-[ ] Data classification documented
-[ ] Connection secrets protected
+Metrics
+Logs
+Traces
 ```
 
-### Connection management
+## Azure Monitor
 
-Applications should not embed database passwords in source code.
+Use Azure Monitor for:
 
-Prefer:
+-   Platform metrics
+-   Alerts
+-   Diagnostic data
+-   Operational analysis
 
--   managed identity where supported
--   Key Vault
--   secure environment injection
--   short-lived credentials where available
+## Log Analytics
 
-# Azure Monitoring and Observability
+Log Analytics provides centralized query and analysis capabilities for
+supported Azure logs and telemetry.
 
-## Azure Monitoring and Observability
-
-### Observability pillars
-
-``` text
-Metrics + Logs + Traces + Events
-```
-
-### Azure Monitor
-
-Azure Monitor provides the platform for collecting and analyzing
-telemetry across Azure resources.
-
-### Log Analytics
-
-Log Analytics workspaces centralize logs for query and analysis.
-
-Operational questions should be queryable:
-
--   What failed?
--   When did it fail?
--   Which resource failed?
--   Which deployment preceded the failure?
--   How many users were affected?
--   Was there a security event?
--   What changed?
-
-### Alert design
-
-Avoid alerting on every metric.
-
-A useful alert should have:
-
--   clear condition
--   severity
--   owner
--   action
--   runbook
--   expected response time
-
-### Dashboard layers
+Typical workflow:
 
 ``` text
-Executive
+Resource
    |
-Service
+   v
+Diagnostic Settings
    |
-Infrastructure
+   v
+Log Analytics Workspace
    |
-Security
+   v
+KQL
    |
-Cost
+   v
+Dashboard / Alert / Investigation
 ```
 
-### SLI / SLO
+## KQL Example
 
-Define service indicators such as:
-
--   availability
--   latency
--   error rate
--   throughput
-
-Then define objectives that can drive operational decisions.
-
-### Incident workflow
-
-``` text
-Detect
-  |
-Triage
-  |
-Contain
-  |
-Diagnose
-  |
-Recover
-  |
-Validate
-  |
-Document
-  |
-Prevent recurrence
+``` kusto
+AzureActivity
+| where TimeGenerated > ago(1h)
+| summarize Count = count() by OperationNameValue
+| order by Count desc
 ```
 
-### Post-incident review
+## Alerting
 
-Capture:
+Alerts should be:
 
--   impact
--   timeline
--   detection
--   root cause
--   contributing factors
--   recovery
--   corrective actions
--   preventive actions
+-   Actionable
+-   Scoped
+-   Severity-aware
+-   Routed to the correct owner
+-   Tested
+-   Documented
 
-# Terraform Engineering
-
-## Terraform Engineering
-
-### Terraform execution model
-
-``` text
-Configuration
-     |
-     v
-Provider
-     |
-     v
-Dependency Graph
-     |
-     v
-Refresh / Read
-     |
-     v
-Plan
-     |
-     v
-Apply
-```
-
-### Core workflow
-
-``` bash
-terraform init
-terraform fmt -check
-terraform validate
-terraform plan
-terraform apply
-```
-
-### Provider constraints
-
-A provider should have an explicit source and an intentional version
-strategy.
-
-Example:
-
-``` hcl
-terraform {
-  required_providers {
-    azurerm = {
-      source  = "hashicorp/azurerm"
-      version = "4.80.0"
-    }
-  }
-}
-
-provider "azurerm" {
-  features {}
-}
-```
-
-The exact provider version should be chosen according to the repository
-compatibility and tested upgrade policy.
-
-### Variables
-
-Variables define the module input contract.
-
-Good variables should have:
-
--   type
--   description
--   validation where useful
--   sensible defaults only when safe
-
-### Locals
-
-Use locals to simplify repeated expressions and normalize configuration.
-
-### Outputs
-
-Outputs expose stable information from a module.
+## SLI / SLO
 
 Examples:
 
--   resource ID
--   name
--   endpoint
--   subnet ID
+``` text
+Availability
+Latency
+Error Rate
+Throughput
+Resource Saturation
+```
 
-Do not expose secrets as outputs unless there is a justified design.
+------------------------------------------------------------------------
 
-### Data sources
+# 🏗️ Terraform Engineering
 
-Data sources read existing infrastructure.
+## Terraform Workflow
 
-Use them when the resource is managed outside the current Terraform
-ownership boundary.
+``` text
+terraform fmt
+      |
+      v
+terraform init
+      |
+      v
+terraform validate
+      |
+      v
+terraform plan
+      |
+      v
+Review
+      |
+      v
+terraform apply
+```
 
-### `for_each`
+## Recommended Repository Structure
 
-Use `for_each` when resources are keyed by stable logical identifiers.
+``` text
+repository/
+|
++-- environments/
+|   +-- dev/
+|   +-- test/
+|   +-- prod/
+|
++-- modules/
+|   +-- resource-group/
+|   +-- network/
+|   +-- storage/
+|   +-- compute/
+|   +-- key-vault/
+|
++-- pipelines/
+|
++-- scripts/
+|
++-- tests/
+|
++-- README.md
+|
++-- .gitignore
+```
+
+## Root Module
+
+The root module should compose reusable child modules.
 
 Example:
 
 ``` hcl
-resource "azurerm_resource_group" "rg" {
+module "resource_group" {
+  source = "../../modules/resource-group"
+
+  name     = var.resource_group_name
+  location = var.location
+}
+```
+
+## Variables
+
+Variables define the module interface.
+
+``` hcl
+variable "location" {
+  type        = string
+  description = "Azure region"
+}
+```
+
+## Locals
+
+Locals are useful for derived values and naming standards.
+
+``` hcl
+locals {
+  common_tags = {
+    ManagedBy = "Terraform"
+    Environment = var.environment
+  }
+}
+```
+
+## Outputs
+
+Outputs expose selected module results.
+
+``` hcl
+output "resource_group_id" {
+  value = azurerm_resource_group.this.id
+}
+```
+
+## Data Sources
+
+Data sources retrieve existing infrastructure information.
+
+``` hcl
+data "azurerm_client_config" "current" {}
+```
+
+## for_each
+
+Use `for_each` when instances are naturally identified by keys.
+
+``` hcl
+resource "azurerm_resource_group" "this" {
   for_each = var.resource_groups
 
   name     = each.value.name
@@ -1479,584 +1420,410 @@ resource "azurerm_resource_group" "rg" {
 }
 ```
 
-### `count`
+## count
 
-Use `count` when a simple numeric or boolean multiplicity is
-appropriate.
+Use `count` when instances are naturally positional or controlled by a
+simple quantity.
 
-### `depends_on`
+## depends_on
 
-Prefer implicit dependencies through references.
+Use explicit dependencies only when Terraform cannot infer the
+relationship from references.
 
-Use explicit `depends_on` only when Terraform cannot infer a real
-dependency.
+## lifecycle
 
-### Lifecycle
+Common lifecycle controls include:
 
-Important lifecycle controls include:
-
--   `prevent_destroy`
 -   `create_before_destroy`
+-   `prevent_destroy`
 -   `ignore_changes`
 
-Each should be used intentionally because lifecycle rules can alter
-normal reconciliation behavior.
+Use `ignore_changes` carefully because it can hide configuration drift.
 
-### Formatting
+------------------------------------------------------------------------
 
-``` bash
-terraform fmt -recursive
-```
+# 📦 Terraform Modules
 
-### Validation
+## Module Design Principles
 
-``` bash
-terraform validate
-```
+A good module should have:
 
-### Plan
+-   Clear inputs
+-   Predictable outputs
+-   Minimal hidden behavior
+-   Stable naming
+-   Validation
+-   Documentation
+-   Versioning
+-   Security defaults
 
-``` bash
-terraform plan
-```
-
-A plan should be reviewed before production apply.
-
-### Import
-
-Import brings an existing resource under Terraform management.
-
-The process should include:
-
-1.  identify resource
-2.  define matching resource block
-3.  import resource
-4.  plan
-5.  reconcile configuration
-6.  repeat until the plan matches intent
-
-### Drift
-
-Drift occurs when actual infrastructure changes outside Terraform.
-
-Detection:
-
-``` bash
-terraform plan
-```
-
-Remediation depends on whether the external change is:
-
--   intentional and should become code
--   accidental and should be reverted
--   temporary and should be handled explicitly
-
-# Terraform Modules
-
-## Terraform Modules
-
-### Module design
-
-A reusable module should have a small and explicit interface.
-
-Typical structure:
+## Module Contract
 
 ``` text
-module/
-├── main.tf
-├── variables.tf
-├── outputs.tf
-├── versions.tf
-├── README.md
-└── examples/
+Input Variables
+      |
+      v
+Module
+      |
+      +--> Resources
+      |
+      +--> Security
+      |
+      +--> Tags
+      |
+      v
+Outputs
 ```
 
-### Root module
-
-The root module composes infrastructure.
+## Example Module Layout
 
 ``` text
-Root Module
- |
- +-- Resource Group Module
- |
- +-- Network Module
- |
- +-- Storage Module
- |
- +-- Compute Module
+modules/
+└── storage-account/
+    ├── main.tf
+    ├── variables.tf
+    ├── outputs.tf
+    ├── versions.tf
+    └── README.md
 ```
 
-### Child module
+## Versioning
 
-A child module should avoid environment-specific assumptions.
+Module changes should be versioned when consumed by multiple
+environments.
 
-Bad:
+Prefer controlled upgrades:
 
 ``` text
-module internally assumes production names
+v1.x
+  |
+  v
+Compatibility review
+  |
+  v
+Plan
+  |
+  v
+Test
+  |
+  v
+Production
 ```
 
-Better:
+------------------------------------------------------------------------
+
+# 🔐 Terraform State
+
+Terraform state maps configuration to real infrastructure.
+
+## Remote State
+
+For Azure, a common enterprise pattern is:
 
 ``` text
-caller provides environment-specific values
-```
-
-### Module contract
-
-Document:
-
--   inputs
--   outputs
--   required provider
--   provider versions
--   assumptions
--   examples
--   known limitations
-
-### Module versioning
-
-Use version tags or a controlled registry strategy.
-
-Version changes should communicate compatibility expectations.
-
-### Testing
-
-A mature module can use:
-
--   `terraform validate`
--   `terraform plan`
--   Checkov
--   tfsec
--   TFLint
--   Terratest
-
-### Module security
-
-A module should avoid:
-
--   hard-coded secrets
--   unrestricted public access
--   broad IAM/RBAC assignments
--   unbounded CIDRs
--   weak defaults
-
-### Module review checklist
-
-``` text
-[ ] Inputs typed
-[ ] Inputs documented
-[ ] Outputs documented
-[ ] Provider source defined
-[ ] Version constraint defined
-[ ] Naming standardized
-[ ] Tags supported
-[ ] Security baseline implemented
-[ ] Tests available
-[ ] README available
-[ ] Example available
-
-# Terraform State
-
-## Terraform State
-
-### Why state exists
-
-Terraform state maps configuration resources to real infrastructure objects.
-
-Conceptually:
-
-```text
-Terraform Configuration
+Azure Storage Account
+        |
+        v
+Blob Container
         |
         v
 Terraform State
-        |
-        v
-Azure Resource IDs
 ```
 
-### Remote state
+## State Requirements
 
-For Azure, an Azure Storage backend can provide centralized state
-storage.
+State should be:
 
-A typical backend uses:
+-   Remote
+-   Access-controlled
+-   Encrypted
+-   Locked where supported
+-   Backed up
+-   Recoverable
 
--   storage account
--   blob container
--   state key
+## Why State Locking Matters
 
-### State security
+Without locking, concurrent operations can attempt to modify the same
+state.
 
-Protect state because it can contain sensitive infrastructure
-information and, depending on configuration, sensitive values.
-
-Controls:
-
--   restricted access
--   encryption
--   network controls
--   RBAC
--   state locking
--   backups / recovery
-
-### State locking
-
-Locking prevents concurrent operations from modifying the same state
-simultaneously.
-
-### State key strategy
-
-Use separate keys for separate state boundaries.
-
-Example:
+Conceptual risk:
 
 ``` text
-tfstate/
-  platform.tfstate
-  network-prod.tfstate
-  app-prod.tfstate
+Pipeline A ----\
+                +----> Same State
+Pipeline B ----/
 ```
 
-### Backend initialization
+Locking helps serialize state-changing operations.
 
-Example conceptual command:
+## State Security
 
-``` bash
-terraform init
-```
+Never commit:
 
-Backend configuration should be supplied securely through pipeline
-configuration rather than committed secrets.
-
-### State anti-patterns
-
-Avoid:
-
--   committing `.tfstate`
--   sharing local state
--   manually editing state without a controlled procedure
--   using one state for unrelated environments
--   exposing backend credentials
-
-### `.gitignore`
-
-A Terraform repository should normally ignore:
-
-``` gitignore
-.terraform/
+``` text
 *.tfstate
 *.tfstate.*
-*.tfvars
-crash.log
-.terraformrc
-terraform.rc
-override.tf
-override.tf.json
-*_override.tf
-*_override.tf.json
 ```
 
-A repository may intentionally commit example variable files that
-contain no secrets.
+to source control.
 
-# Terraform Security
+State may contain sensitive infrastructure information.
 
-## Terraform Security
+------------------------------------------------------------------------
 
-### Security scanning layer
+# 🛡️ Terraform Security
 
-Use multiple controls because each tool catches different classes of
-issues.
+## Security Pipeline
 
 ``` text
 Terraform Code
-     |
-     +--> Terraform Validate
-     |
-     +--> TFLint
-     |
-     +--> Checkov
-     |
-     +--> tfsec
-     |
-     +--> Secret Scan
-     |
-     +--> Plan Review
+      |
+      +--> terraform fmt
+      |
+      +--> terraform validate
+      |
+      +--> TFLint
+      |
+      +--> Checkov
+      |
+      +--> tfsec
+      |
+      +--> Secret Scan
+      |
+      +--> Cost Estimate
+      |
+      +--> terraform plan
+      |
+      v
+Approval
+      |
+      v
+Apply
 ```
 
-### Checkov
+## Checkov
 
-Checkov scans infrastructure as code against security and compliance
+Checkov analyzes Infrastructure as Code against security and compliance
 policies.
 
-Example:
+Typical use:
 
 ``` bash
 checkov -d .
 ```
 
-A failed check should be treated as a signal for engineering review.
+## TFLint
 
-### tfsec
+TFLint focuses on Terraform linting and provider-aware configuration
+checks.
 
-tfsec evaluates Terraform configuration for security issues.
+Example:
 
-### TFLint
+``` bash
+tflint
+```
 
-TFLint focuses on Terraform linting and provider-aware validation.
+## tfsec
 
-### TruffleHog
+tfsec provides static security analysis for Terraform configurations.
 
-TruffleHog helps detect exposed secrets and credentials.
+Example:
 
-### Trivy
+``` bash
+tfsec .
+```
 
-Trivy can be used for broader security scanning, including container and
-repository-oriented use cases depending on the integration.
+## Secret Scanning
 
-### Terratest
+Secret scanning should run before infrastructure changes reach shared
+branches.
 
-Terratest provides infrastructure testing using Go.
+Common categories:
 
-A typical test can:
+-   Passwords
+-   API tokens
+-   Private keys
+-   Connection strings
+-   Cloud credentials
 
-1.  deploy test infrastructure
-2.  validate outputs
-3.  run assertions
-4.  destroy resources
+------------------------------------------------------------------------
 
-### Security exception process
+# 🔁 Terraform CI/CD
 
-Never convert a failing scan into a permanent ignored result without
-justification.
-
-Record:
-
--   check ID
--   resource
--   reason
--   risk
--   owner
--   expiration/review date
--   compensating control
-
-# Terraform CI/CD
-
-## Terraform CI/CD
-
-### Recommended pipeline stages
+## Enterprise Pipeline
 
 ``` text
-Checkout
+Commit
   |
-Format
+  v
+Pull Request
   |
-Validate
+  +--> Format
+  +--> Validate
+  +--> TFLint
+  +--> Checkov
+  +--> tfsec
+  +--> Secret Scan
+  +--> Cost Estimate
+  +--> Plan
   |
-Lint
+  v
+Review
   |
-Security Scan
-  |
-Secret Scan
-  |
-Cost Estimate
-  |
-Init
-  |
-Plan
-  |
+  v
 Approval
   |
+  v
+Apply
+  |
+  v
+Post-Deployment Validation
+```
+
+## Plan and Apply Separation
+
+A production workflow should treat:
+
+``` text
+Plan
+```
+
+and:
+
+``` text
 Apply
 ```
 
-### Why `checkout` matters
+as separate controlled operations.
 
-The pipeline needs the repository content before Terraform can operate.
+The plan should be reviewable before the change is applied.
 
-A clean checkout can prevent stale workspace files from affecting a
-build, but it should be used intentionally according to the
-agent/workspace strategy.
+## Service Connection
 
-### Init
+A pipeline needs an authenticated identity to interact with Azure.
 
-`terraform init`:
+Preferred patterns:
 
--   initializes the working directory
--   installs providers
--   configures backend
--   prepares modules
+-   Workload identity federation
+-   Managed identity where applicable
+-   Service principal with tightly scoped permissions when required
 
-### Validate
+## Pipeline Security
 
-`terraform validate` checks configuration syntax and internal
-consistency.
+Do not store credentials directly in YAML.
 
-### Plan
+Use:
 
-`terraform plan` calculates proposed changes.
+-   Secret stores
+-   Variable groups with protected secrets
+-   Key Vault integration
+-   Federated identity
+-   Pipeline service connections
 
-### Apply
+------------------------------------------------------------------------
 
-`terraform apply` executes approved changes.
+# 🔵 Azure DevOps
 
-### Plan artifact
+## Core Services
 
-For controlled deployments, save the reviewed plan:
+-   Azure Repos
+-   Azure Pipelines
+-   Azure Boards
+-   Azure Artifacts
+-   Azure Test Plans
+-   Environments
+-   Service Connections
+-   Variable Groups
 
-``` bash
-terraform plan -out=tfplan
-```
-
-Then apply the saved plan when the delivery design supports that
-workflow.
-
-### Manual approval
-
-Production apply should have an explicit approval boundary when
-organizational policy requires it.
-
-### Environment separation
-
-A mature pipeline separates:
-
--   development
--   test
--   staging
--   production
-
-### Failure behavior
-
-Fail fast for:
-
--   syntax errors
--   authentication failures
--   security violations
--   invalid Terraform configuration
--   unavailable dependencies
-
-Do not hide failures with `continueOnError` unless there is a deliberate
-non-blocking quality gate.
-
-### Service connections
-
-Azure DevOps service connections provide pipeline authentication to
-Azure resources.
-
-Prefer:
-
--   least privilege
--   scoped permissions
--   federation where supported
--   controlled ownership
--   auditable access
-
-# Azure DevOps
-
-## Azure DevOps
-
-### Pipeline structure
-
-A production YAML pipeline commonly separates:
-
--   stages
--   jobs
--   steps
--   tasks
--   environments
-
-### Example stage model
+## YAML Pipeline Model
 
 ``` yaml
+trigger:
+- main
+
 stages:
 - stage: Validate
-- stage: Security
+  jobs:
+  - job: Validate
+    steps:
+    - script: terraform fmt -check
+
 - stage: Plan
-- stage: Approval
+  dependsOn: Validate
+  jobs:
+  - job: Plan
+    steps:
+    - script: terraform plan
+
 - stage: Apply
+  dependsOn: Plan
+  jobs:
+  - deployment: Apply
 ```
 
-### Azure service connection
+## Pipeline Controls
 
-The service connection is the pipeline's Azure authentication boundary.
+Recommended controls:
 
-Use it to avoid embedding user credentials in scripts.
+-   PR validation
+-   Branch policies
+-   Required reviewers
+-   Environment approvals
+-   Protected variables
+-   Service connection restrictions
+-   Manual production gates
+-   Artifact retention
 
-### Variables
+## Self-Hosted Agents
 
-Use pipeline variables for non-secret configuration.
+Self-hosted agents can be useful when:
 
-Use secret variables or supported secret stores for sensitive data.
+-   Private network access is required
+-   Custom tooling is required
+-   Internal endpoints must be reached
+-   Organization-specific software is installed
 
-### Secure files and Key Vault
+Agent hardening should include:
 
-For sensitive material, prefer controlled secret management rather than
-plaintext YAML.
+-   Least privilege
+-   Patch management
+-   Credential protection
+-   Restricted interactive access
+-   Logging
+-   Network segmentation
 
-### Self-hosted agent
+------------------------------------------------------------------------
 
-A self-hosted agent can be useful when:
+# 🟣 GitHub Actions
 
--   private network access is required
--   custom tools are installed
--   enterprise network controls apply
--   build dependencies are specialized
-
-The agent should be treated as production infrastructure.
-
-### Agent hardening
-
--   keep OS patched
--   restrict local administrator access
--   protect credentials
--   monitor processes
--   rotate registration credentials
--   minimize installed software
--   isolate workloads when appropriate
-
-### Pipeline troubleshooting
-
-When a task fails:
-
-1.  read the first error
-2.  identify the executing command
-3.  inspect the working directory
-4.  validate tool path
-5.  validate environment variables
-6.  validate service connection
-7.  reproduce locally
-8.  compare local and agent environments
-
-# GitHub Actions
-
-## GitHub Actions
-
-### Workflow model
+## Workflow Model
 
 ``` text
-Event
-  |
-Workflow
-  |
-Job
-  |
+Push / Pull Request
+        |
+        v
+Workflow Trigger
+        |
+        v
 Runner
-  |
-Step
+        |
+        +--> Checkout
+        +--> Validate
+        +--> Security
+        +--> Test
+        +--> Plan
+        |
+        v
+Environment Approval
+        |
+        v
+Apply
 ```
 
-### Security
-
-Prefer OIDC/workload identity federation over long-lived cloud secrets
-where supported.
-
-### Typical Terraform workflow
+## Example Terraform Workflow
 
 ``` yaml
-name: Terraform
+name: terraform
 
 on:
   pull_request:
@@ -2067,8 +1834,12 @@ on:
 jobs:
   terraform:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
+
+      - name: Terraform Format
+        run: terraform fmt -check -recursive
 
       - name: Terraform Init
         run: terraform init
@@ -2080,884 +1851,902 @@ jobs:
         run: terraform plan
 ```
 
-The exact authentication and backend configuration should be adapted to
-the organization's Azure identity model.
+## GitHub Security
 
-### Branch protection
+Use:
 
-Protect production branches with:
+-   Environment protection
+-   Branch protection
+-   OIDC federation
+-   Secret scanning
+-   Dependabot
+-   Code scanning
+-   Required reviews
 
--   pull requests
--   required reviews
--   status checks
--   security gates
--   restricted direct pushes
+------------------------------------------------------------------------
 
-### Reusable workflows
+# 🛡️ DevSecOps
 
-Reusable workflows help standardize:
+## Shift Left
 
--   Terraform validation
--   security scanning
--   container scanning
--   release processes
+Traditional:
 
-# DevSecOps
+``` text
+Develop
+   |
+Deploy
+   |
+Security Review
+   |
+Incident
+```
 
-## DevSecOps
+Shift-left:
 
-### Shift-left model
+``` text
+Design
+ |
+Code
+ |
+PR
+ |
+Security Scan
+ |
+Policy
+ |
+Test
+ |
+Plan
+ |
+Deploy
+ |
+Monitor
+```
+
+## Security Gates
+
+A mature pipeline can include:
+
+``` text
+SAST
+SCA
+Secret Scan
+IaC Scan
+Container Scan
+Policy Check
+License Check
+Terraform Plan Review
+```
+
+## Security Gate Philosophy
+
+A security gate should:
+
+-   Detect meaningful risk
+-   Produce actionable output
+-   Fail only on defined thresholds
+-   Provide remediation guidance
+-   Be version controlled
+-   Be auditable
+
+------------------------------------------------------------------------
+
+# 📜 Policy-as-Code
+
+Policy-as-Code converts security and governance requirements into
+executable rules.
+
+## Policy Layers
+
+``` text
+Organization Policy
+       |
+       v
+Cloud Policy
+       |
+       v
+IaC Policy
+       |
+       v
+Pipeline Policy
+       |
+       v
+Runtime Policy
+```
+
+## Example Controls
+
+-   Approved regions
+-   Required tags
+-   Encryption
+-   Private endpoints
+-   No public storage
+-   Approved SKUs
+-   Required diagnostics
+-   Restricted network access
+-   Mandatory managed identity
+
+## Terraform Security Policy
+
+The same requirement can be enforced at multiple layers:
+
+``` text
+Azure Policy
+      +
+Checkov
+      +
+Terraform Module Defaults
+      +
+Pipeline Gate
+```
+
+Defense in depth reduces reliance on one control.
+
+------------------------------------------------------------------------
+
+# 🔑 Secret Management
+
+## Secret Hierarchy
+
+Prefer:
+
+``` text
+Workload Identity
+      |
+Managed Identity
+      |
+Key Vault
+      |
+Pipeline Secret Store
+      |
+Short-Lived Credentials
+```
+
+Avoid:
+
+``` text
+Hard-coded Password
+Hard-coded API Key
+Hard-coded Client Secret
+Hard-coded Storage Key
+```
+
+## Key Vault Integration
+
+A secure pattern is:
+
+``` text
+Pipeline
+   |
+   v
+Federated Identity
+   |
+   v
+Microsoft Entra ID
+   |
+   v
+Key Vault
+   |
+   v
+Secret
+```
+
+## Secret Rotation
+
+Rotation should consider:
+
+-   Ownership
+-   Expiry
+-   Automated replacement
+-   Application reload
+-   Rollback
+-   Auditability
+
+------------------------------------------------------------------------
+
+# 🐳 Containers and Kubernetes
+
+## Docker
+
+Core principles:
+
+-   Minimal base image
+-   Multi-stage builds
+-   Non-root user
+-   Pinned dependencies
+-   Vulnerability scanning
+-   No embedded secrets
+-   Read-only filesystem where practical
+-   Small image size
+
+## Example Dockerfile
+
+``` dockerfile
+FROM python:3.12-slim AS runtime
+
+WORKDIR /app
+
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+COPY . .
+
+USER 10001
+
+CMD ["python", "app.py"]
+```
+
+## Kubernetes
+
+Core objects:
+
+-   Pod
+-   Deployment
+-   ReplicaSet
+-   Service
+-   ConfigMap
+-   Secret
+-   Namespace
+-   Ingress
+-   ServiceAccount
+-   Role
+-   RoleBinding
+-   HorizontalPodAutoscaler
+
+## Deployment Pattern
 
 ``` text
 Developer
    |
-IDE / Pre-commit
+   v
+Container Build
    |
-Pull Request
+   v
+Image Scan
    |
-Static Analysis
-   |
-IaC Security
-   |
-Secret Detection
-   |
-Dependency / Container Scan
-   |
-Plan
-   |
-Approval
-   |
-Deployment
-   |
-Runtime Security
-```
-
-### Security gates
-
-  Gate                 Purpose
-  -------------------- ----------------------------------------
-  Terraform validate   Configuration correctness
-  TFLint               Terraform linting
-  Checkov              IaC policy checks
-  tfsec                IaC security checks
-  TruffleHog           Secret detection
-  Trivy                Vulnerability scanning
-  Terratest            Infrastructure behavior
-  SonarQube            Code quality/security where applicable
-
-### Blocking policy
-
-Not every warning must block every pipeline.
-
-Define severity policy:
-
-``` text
-Critical -> Block
-High     -> Block
-Medium   -> Review / policy dependent
-Low      -> Track
-Informational -> Observe
-```
-
-The exact thresholds should be determined by organizational risk policy.
-
-### DevSecOps metrics
-
-Useful metrics include:
-
--   security findings per build
--   mean time to remediate
--   percentage of builds passing security gates
--   secrets prevented from merge
--   infrastructure policy compliance
--   vulnerability aging
--   deployment frequency
--   change failure rate
-
-### Golden path
-
-A platform team can provide a secure default pipeline so teams do not
-have to design DevSecOps controls from scratch.
-
-# Policy as Code
-
-## Policy as Code
-
-Policy as Code turns governance rules into version-controlled, testable
-definitions.
-
-### Benefits
-
--   repeatability
--   reviewability
--   auditability
--   automation
--   consistency
-
-### Example policy lifecycle
-
-``` text
-Policy Requirement
-       |
-       v
-Policy Definition
-       |
-       v
-Test
-       |
-       v
-Pull Request
-       |
-       v
-Approval
-       |
-       v
-Pipeline
-       |
-       v
-Enforcement
-       |
-       v
-Monitoring
-```
-
-### Policy categories
-
--   region restrictions
--   SKU restrictions
--   public network access
--   encryption
--   diagnostic settings
--   identity requirements
--   tagging
--   private connectivity
-
-### Terraform policy controls
-
-Terraform security scanners provide an early feedback loop before
-resources reach Azure.
-
-### Azure Policy controls
-
-Azure Policy provides resource-level governance after configuration
-reaches the Azure control plane.
-
-### Combined model
-
-``` text
-Developer Time
-   |
-Terraform Security Scan
-   |
-CI/CD
-   |
-Azure Policy
-   |
-Runtime Monitoring
-```
-
-The same security intent should ideally be represented consistently
-across these layers.
-
-# Secret Management
-
-## Secret Management
-
-### Secret hierarchy
-
-Prefer this order:
-
-``` text
-Workload Identity
-       >
-Managed Identity
-       >
-Federated Identity
-       >
-Short-lived credential
-       >
-Long-lived secret
-```
-
-The exact choice depends on service support.
-
-### Never commit
-
--   passwords
--   client secrets
--   private keys
--   tokens
--   storage account keys
--   database credentials
--   API keys
-
-### `.gitignore` is not a security boundary
-
-Ignoring a file prevents it from being tracked in normal Git operations,
-but it does not remove a secret that was already committed.
-
-If a secret is exposed:
-
-1.  revoke or rotate it
-2.  investigate access
-3.  remove it from repository history as required
-4.  update consumers
-5.  add prevention controls
-
-### Key Vault integration
-
-A common pattern:
-
-``` text
-Pipeline / Workload Identity
-          |
-          v
-Microsoft Entra ID
-          |
-          v
-Azure Key Vault
-          |
-          v
-Secret / Key / Certificate
-```
-
-### Secret scanning workflow
-
-``` text
-Pre-commit
-    |
-Pull Request
-    |
-CI Secret Scan
-    |
-Repository Security
-    |
-Credential Rotation
-```
-
-# Container and Kubernetes Security
-
-## Container and Kubernetes Security
-
-### Image lifecycle
-
-``` text
-Dockerfile
-   |
-Build
-   |
-Lint
-   |
-Vulnerability Scan
-   |
-SBOM
-   |
-Sign / Verify
-   |
+   v
 Registry
    |
-Deploy
+   v
+Kubernetes Deployment
+   |
+   v
+Service / Ingress
 ```
 
-### AKS security considerations
-
--   Entra integration
--   workload identity
--   network policies
--   private cluster where required
--   node pool isolation
--   image provenance
--   registry access
--   secret handling
--   pod security
--   logging
--   monitoring
-
-### Runtime identity
-
-Avoid storing Azure service credentials inside container images.
-
-Use workload identity patterns where supported.
-
-### Kubernetes network design
-
-Separate:
-
--   ingress
--   application
--   data
--   management
-
-Use explicit policies rather than assuming that network reachability
-equals authorization.
-
-### Container scan policy
-
-A release policy can block:
-
--   critical vulnerabilities
--   known exploitable high vulnerabilities
--   unsigned images
--   prohibited base images
--   exposed secrets
-
-The exact thresholds should match organizational risk.
-
-# Networking Security Patterns
-
-## Networking Security Patterns
-
-### Internet-facing workload
+## AKS Architecture
 
 ``` text
 Internet
    |
    v
-DDoS Protection
+Application Gateway / Ingress
    |
    v
-Application Gateway / WAF
+AKS
+   |
+   +--> Frontend
+   |
+   +--> Backend
+   |
+   +--> Internal Services
    |
    v
-Application subnet
+Private Database / PaaS
+```
+
+------------------------------------------------------------------------
+
+# 🔐 Kubernetes Security
+
+Security layers:
+
+``` text
+Identity
+   |
+RBAC
+   |
+Network Policy
+   |
+Pod Security
+   |
+Image Security
+   |
+Secret Management
+   |
+Runtime Monitoring
+```
+
+## Kubernetes RBAC
+
+Follow least privilege for:
+
+-   Users
+-   Groups
+-   Service Accounts
+-   Controllers
+-   CI/CD identities
+
+## Image Security
+
+Scan for:
+
+-   CVEs
+-   Malware
+-   Misconfigurations
+-   Embedded secrets
+-   Untrusted base images
+
+## Secret Security
+
+Do not treat a Kubernetes Secret object as automatically equivalent to a
+secure external secret-management system.
+
+Prefer external secret-management patterns when organizational
+requirements demand stronger controls.
+
+------------------------------------------------------------------------
+
+# 📈 Observability Engineering
+
+## Observability Model
+
+``` text
+                    Observability
+                         |
+          ┌──────────────┼──────────────┐
+          |              |              |
+        Metrics         Logs          Traces
+          |              |              |
+          +──────────────+──────────────+
+                         |
+                    Correlation
+                         |
+                         v
+                 Incident Response
+```
+
+## Monitoring Questions
+
+Every production service should answer:
+
+1.  Is it available?
+2.  Is it responding within target latency?
+3.  Are errors increasing?
+4.  Is capacity sufficient?
+5.  Did a recent deployment correlate with the issue?
+6.  Is a dependency unhealthy?
+7.  Is the issue infrastructure or application related?
+
+## Dashboard Layers
+
+### Platform
+
+-   CPU
+-   Memory
+-   Network
+-   Disk
+-   Availability
+
+### Application
+
+-   Request rate
+-   Error rate
+-   Latency
+-   Dependency health
+
+### Security
+
+-   Failed authentication
+-   Privilege changes
+-   Policy violations
+-   Security alerts
+
+### Cost
+
+-   Daily spend
+-   Forecast
+-   Budget consumption
+-   Top resources
+-   Anomalies
+
+------------------------------------------------------------------------
+
+# 💰 FinOps and Cost Optimization
+
+## Cost Engineering Lifecycle
+
+``` text
+Estimate
    |
    v
-Private data services
+Provision
+   |
+   v
+Measure
+   |
+   v
+Analyze
+   |
+   v
+Optimize
+   |
+   v
+Govern
 ```
 
-### Private workload
+## Infracost
 
-``` text
-Corporate Network
-      |
-VPN / ExpressRoute / WAN
-      |
-Hub
-      |
-Firewall
-      |
-Spoke
-      |
-Private Endpoint
-      |
-PaaS Service
+Infracost can estimate cloud costs from Infrastructure as Code and make
+cost impact visible during development and pull requests.
+
+Typical command:
+
+``` bash
+infracost breakdown --path .
 ```
 
-### Egress control
-
-Centralized egress can provide:
-
--   inspection
--   logging
--   destination restrictions
--   threat intelligence
--   cost visibility
-
-### DNS
-
-DNS is foundational for private connectivity.
-
-A private endpoint design should explicitly document:
-
--   private DNS zones
--   VNet links
--   DNS forwarding
--   resolver path
--   split-horizon requirements
-
-### Network troubleshooting checklist
-
-``` text
-[ ] DNS resolves
-[ ] Route exists
-[ ] NSG permits
-[ ] Firewall permits
-[ ] Peering is healthy
-[ ] Private DNS is linked
-[ ] Endpoint is approved
-[ ] Service is healthy
-[ ] Application listener is active
-```
-
-# FinOps and Cost Optimization
-
-## FinOps and Cost Optimization
-
-### Cost is an architecture attribute
-
-Cost should be evaluated before deployment, not only after the invoice
-arrives.
-
-### Infracost
-
-Infracost can estimate Terraform-related infrastructure costs before
-deployment.
-
-Conceptual workflow:
-
-``` text
-Terraform
-   |
-Infracost
-   |
-Cost Diff
-   |
-Pull Request
-   |
-Approval
-```
-
-### Cost review
+## Cost Review
 
 Review:
 
--   compute sizing
--   storage redundancy
--   network egress
--   database tier
--   idle resources
--   public IPs
--   log retention
--   monitoring volume
--   backup retention
--   environment lifetime
+-   Compute sizing
+-   Storage tiers
+-   Database tiers
+-   Network egress
+-   Public IP usage
+-   Unused resources
+-   Idle resources
+-   Over-provisioning
+-   Non-production schedules
 
-### OpenCost
-
-OpenCost can support cost visibility in Kubernetes environments.
-
-### Rightsizing
-
-Rightsizing should use actual utilization.
-
-Do not downsize production resources solely because an invoice looks
-high.
-
-### Cost governance
+## Cost Governance
 
 Use:
 
--   budgets
--   alerts
--   tags
--   resource ownership
--   scheduled shutdowns for non-production
--   SKU policy
--   cost allocation
+-   Tags
+-   Budgets
+-   Alerts
+-   Policy
+-   Rightsizing
+-   Lifecycle management
+-   Environment scheduling
+-   Cost estimation
 
-### Cost optimization checklist
+------------------------------------------------------------------------
+
+# ♻️ Reliability and Disaster Recovery
+
+## Reliability Dimensions
+
+Consider:
+
+-   Availability
+-   Durability
+-   Recovery
+-   Capacity
+-   Fault isolation
+-   Dependency resilience
+-   Operational readiness
+
+## RTO
+
+Recovery Time Objective defines the target maximum acceptable recovery
+duration.
+
+## RPO
+
+Recovery Point Objective defines the acceptable amount of data loss
+measured in time.
+
+## Example
 
 ``` text
-[ ] Resource owner exists
-[ ] Cost center exists
-[ ] Environment tagged
-[ ] Idle resources reviewed
-[ ] VM sizing reviewed
-[ ] Storage tier reviewed
-[ ] Log retention reviewed
-[ ] Backup retention reviewed
-[ ] Egress reviewed
-[ ] Non-prod schedules considered
-[ ] Monthly cost estimate reviewed
+Application RTO = 2 hours
+Application RPO = 30 minutes
 ```
 
-# Reliability and Disaster Recovery
+The architecture must be able to meet those targets; documenting targets
+alone does not provide resilience.
 
-## Reliability and Disaster Recovery
+## DR Strategy
 
-### Reliability layers
+Possible levels:
 
 ``` text
-Application
-   |
-Compute
-   |
-Network
-   |
-Data
-   |
-Region
+Backup / Restore
+      |
+Pilot Light
+      |
+Warm Standby
+      |
+Active / Active
 ```
 
-Each layer needs an explicit failure strategy.
+The correct pattern depends on business requirements and cost.
 
-### RTO and RPO
+## Backup Validation
 
-**RTO** defines how quickly service should be restored.
+A backup is not proven until restoration is tested.
 
-**RPO** defines how much data loss is acceptable.
-
-### DR design
-
-A DR strategy should document:
-
--   primary region
--   secondary region
--   replication
--   backup
--   failover mechanism
--   DNS
--   dependencies
--   runbook
--   ownership
--   test frequency
-
-### Backup
-
-Backups are useful only when restore has been tested.
-
-### DR test
+Checklist:
 
 ``` text
-Plan
-  |
-Simulate
-  |
-Failover
-  |
-Validate
-  |
-Failback
-  |
-Measure
-  |
-Improve
+[ ] Backup enabled
+[ ] Retention defined
+[ ] Restore tested
+[ ] Restore duration measured
+[ ] Dependencies documented
+[ ] Recovery owner assigned
+[ ] RTO verified
+[ ] RPO verified
 ```
 
-### Availability
+------------------------------------------------------------------------
 
-Use appropriate Azure capabilities such as:
+# 🧩 Platform Engineering
 
--   availability zones
--   load balancing
--   redundant instances
--   managed database HA
--   multi-region patterns where required
+## Platform Engineering Objective
 
-Avoid adding redundancy without understanding the workload's real
-failure modes.
+Create reusable capabilities that allow application teams to deploy
+safely without repeatedly solving infrastructure problems.
 
-# Platform Engineering
+## Platform Building Blocks
 
-## Platform Engineering
+-   Terraform modules
+-   Golden paths
+-   CI/CD templates
+-   Identity patterns
+-   Network patterns
+-   Security baselines
+-   Observability templates
+-   Cost controls
+-   Documentation
 
-Platform Engineering creates reusable internal capabilities so
-application teams can consume infrastructure safely without rebuilding
-platform controls every time.
-
-### Platform product
-
-Treat the platform as a product.
-
-Users:
-
--   application developers
--   engineering teams
--   security teams
--   operations teams
-
-### Golden path
-
-A golden path should provide:
+## Golden Path
 
 ``` text
-Repository
+Developer
    |
-Pipeline
-   |
-Identity
-   |
-Infrastructure
-   |
-Security
-   |
-Observability
-   |
-Cost
-```
-
-### Terraform module catalog
-
-Possible platform modules:
-
--   resource group
--   VNet
--   subnet
--   NSG
--   private endpoint
--   Key Vault
--   storage account
--   VM
--   AKS
--   monitoring
--   diagnostics
-
-### Platform standards
-
-Every module should have:
-
--   documentation
--   examples
--   versioning
--   security defaults
--   ownership
--   support model
-
-### Self-service
-
-Self-service should not mean unrestricted access.
-
-The platform should provide controlled choices:
-
-``` text
-Developer Request
-       |
+   v
 Approved Template
-       |
-Validated Inputs
-       |
-Policy Checks
-       |
-Automated Provisioning
+   |
+   +--> Secure Identity
+   +--> Standard Network
+   +--> Logging
+   +--> Monitoring
+   +--> Security
+   +--> Cost Tags
+   |
+   v
+Deploy
 ```
 
-# GenAI for Cloud Engineering
+## Platform Principles
 
-## GenAI for Cloud Engineering
+-   Self-service
+-   Secure defaults
+-   Standardization
+-   Automation
+-   Clear ownership
+-   Observability
+-   Developer experience
 
-GenAI can accelerate cloud engineering when it is used as an assistant
-rather than an uncontrolled deployment authority.
+------------------------------------------------------------------------
 
-### High-value use cases
+# 🤖 GenAI for Cloud Engineering
+
+GenAI can accelerate engineering workflows without replacing engineering
+accountability.
+
+## Useful Areas
 
 -   Terraform explanation
--   Terraform review
--   YAML troubleshooting
--   log summarization
--   incident triage
--   documentation generation
--   runbook drafting
--   architecture comparison
--   security finding explanation
--   cost anomaly investigation
--   migration planning
+-   YAML review
+-   Documentation generation
+-   Log summarization
+-   KQL assistance
+-   Incident triage
+-   Runbook generation
+-   Architecture brainstorming
+-   Policy explanation
+-   Code review assistance
+-   Change impact analysis
 
-### AI-assisted IaC review
-
-``` text
-Terraform PR
-    |
-Static Checks
-    |
-Security Scans
-    |
-GenAI Review
-    |
-Human Review
-    |
-Approval
-```
-
-### Guardrails
-
-GenAI should not independently:
-
--   grant production Owner access
--   rotate credentials without controls
--   destroy production infrastructure
--   bypass security gates
--   approve its own changes
-
-### Human-in-the-loop
-
-For high-impact operations:
+## Human-in-the-Loop Model
 
 ``` text
 AI Suggestion
      |
-Evidence
-     |
+     v
 Engineer Review
      |
+     v
+Validation
+     |
+     v
+Security Check
+     |
+     v
 Approval
      |
-Execution
+     v
+Deployment
 ```
 
-### GenAI security
+## Safe AI Usage
 
-Never send confidential infrastructure data, credentials or sensitive
-customer information to an AI system unless the organization's approved
-data handling model explicitly permits it.
+Do not blindly execute generated infrastructure changes.
 
-### Documentation automation
+Always verify:
 
-AI can help transform:
+-   Resource names
+-   Permissions
+-   Network exposure
+-   Provider syntax
+-   Security implications
+-   Cost implications
+-   State impact
+-   Destructive operations
 
--   Terraform modules
--   architecture decisions
--   pipeline definitions
--   incident notes
+------------------------------------------------------------------------
 
-into structured engineering documentation.
+# 🚀 Enterprise Delivery Workflow
 
-# Enterprise Delivery Workflow
-
-## Enterprise Delivery Workflow
-
-### End-to-end workflow
+## Pull Request
 
 ``` text
-Requirement
+Developer
    |
-Architecture
+   v
+Branch
    |
-Threat Model
-   |
-Terraform Module Design
-   |
+   v
 Pull Request
+   |
+   +--> Terraform Format
+   +--> Terraform Validate
+   +--> TFLint
+   +--> Checkov
+   +--> tfsec
+   +--> Secret Scan
+   +--> Cost Estimate
+   +--> Tests
+   |
+   v
+Terraform Plan
+   |
+   v
+Peer Review
+```
+
+## Production
+
+``` text
+Approved PR
+   |
+   v
+Protected Environment
+   |
+   v
+Approval
+   |
+   v
+Terraform Apply
+   |
+   v
+Post-Deployment Tests
+   |
+   v
+Monitoring
+   |
+   v
+Audit
+```
+
+## Deployment Strategies
+
+### Rolling
+
+Replace instances progressively.
+
+### Blue-Green
+
+Maintain two environments:
+
+``` text
+Blue  = Current
+Green = New
+```
+
+Switch traffic after validation.
+
+### Canary
+
+Send a small percentage of traffic to the new version before increasing
+exposure.
+
+------------------------------------------------------------------------
+
+# 🏢 Project Portfolio
+
+## 1. Enterprise Azure Landing Zone
+
+### Objective
+
+Build a governed Azure foundation using reusable Infrastructure as Code.
+
+### Architecture
+
+``` text
+Management Groups
+       |
+       +--> Platform
+       |      |
+       |      +--> Connectivity
+       |      +--> Identity
+       |      +--> Management
+       |      +--> Security
+       |
+       +--> Landing Zones
+              |
+              +--> Production
+              +--> NonProduction
+```
+
+### Key Technologies
+
+-   Azure
+-   Terraform
+-   Azure Policy
+-   RBAC
+-   PIM
+-   Key Vault
+-   Hub-Spoke
+-   Azure Firewall
+-   Private Endpoints
+-   Azure Monitor
+
+### Engineering Areas
+
+-   Subscription governance
+-   Network segmentation
+-   Identity
+-   Policy
+-   Logging
+-   Security
+-   Cost management
+
+------------------------------------------------------------------------
+
+## 2. Terraform Module Framework
+
+### Objective
+
+Create reusable modules for standardized Azure infrastructure.
+
+### Modules
+
+-   Resource Group
+-   Virtual Network
+-   Subnet
+-   NSG
+-   Storage Account
+-   VM
+-   Key Vault
+-   Private Endpoint
+-   Monitoring
+
+### Module Quality
+
+``` text
+Input Validation
+      |
+      v
+Terraform Validate
+      |
+      v
+Lint
+      |
+      v
+Security Scan
+      |
+      v
+Tests
+      |
+      v
+Version
+```
+
+------------------------------------------------------------------------
+
+## 3. Azure DevSecOps Pipeline
+
+### Objective
+
+Embed security into Terraform delivery.
+
+### Pipeline
+
+``` text
+Checkout
    |
 Format
    |
 Validate
    |
-Lint
+TFLint
    |
-Security
+Checkov
+   |
+tfsec
    |
 Secret Scan
    |
-Cost
+Infracost
    |
 Plan
    |
 Approval
    |
 Apply
-   |
-Monitor
-   |
-Audit
-   |
-Optimize
 ```
 
-### Architecture review
+### Security Principles
 
-Before implementation, confirm:
+-   Fail on defined critical findings
+-   Keep security checks reproducible
+-   Review exceptions
+-   Protect credentials
+-   Preserve audit evidence
 
--   business requirement
--   availability
--   security
--   network
--   identity
--   data
--   compliance
--   cost
--   observability
--   DR
+------------------------------------------------------------------------
 
-### Threat modeling
+## 4. Azure Hub-Spoke Networking
 
-Ask:
+### Objective
 
--   What can be exposed?
--   What identity can be compromised?
--   What data is sensitive?
--   What happens if the network is breached?
--   What is the blast radius?
--   How is the event detected?
--   How is recovery performed?
+Provide centralized connectivity and security with isolated workload
+spokes.
 
-### Change management
+### Hub
 
-Every production change should have:
-
--   scope
--   risk
--   validation
--   rollback
--   owner
--   approval
--   evidence
-
-### Rollback
-
-Rollback must be technically possible and operationally documented.
-
-For infrastructure, rollback may mean:
-
--   reverting Terraform code
--   applying a previous known-good plan
--   restoring data
--   reverting configuration
--   switching traffic
--   failing over
-
-# Project Portfolio
-
-## Project Portfolio
-
-### 🏗️ Enterprise Azure Landing Zone
-
-A reusable landing-zone architecture focused on:
-
--   management groups
--   multi-subscription governance
--   policy
--   RBAC
--   hub-and-spoke connectivity
--   shared services
--   workload isolation
-
-### 📦 Terraform Module Framework
-
-Reusable Azure infrastructure modules covering patterns such as:
-
--   Resource Groups
--   VNets
--   subnets
--   NSGs
--   network interfaces
--   virtual machines
--   storage accounts
--   Azure Bastion
-
-The module approach standardizes provisioning and reduces duplicated
-infrastructure code.
-
-### 🛡️ Azure DevSecOps Pipeline
-
-A security-first infrastructure pipeline combining:
-
--   Azure DevOps
--   Terraform
--   TFLint
--   tfsec
--   Checkov
--   TruffleHog
--   Terratest
--   cost estimation
--   plan review
--   controlled apply
-
-### 🌐 Azure Hub-Spoke Networking
-
-A scalable network architecture based on:
-
--   hub VNet
--   spoke VNets
--   peering
--   Azure Firewall
--   NSGs
--   private endpoints
+-   Firewall
+-   DNS
 -   Bastion
--   controlled routing
+-   VPN / ExpressRoute integration where required
+-   Shared services
 
-### 📊 Azure Monitoring and Observability
+### Spokes
 
-Centralized operational visibility using:
+-   Application
+-   Data
+-   Development
+-   Testing
+-   Production
+
+### Validation
+
+``` text
+Address Space
+Routing
+Peering
+NSG
+Firewall
+DNS
+Private Endpoint
+Application
+```
+
+------------------------------------------------------------------------
+
+## 5. Monitoring and Observability
+
+### Objective
+
+Create operational visibility across cloud infrastructure.
+
+### Tooling
 
 -   Azure Monitor
 -   Log Analytics
@@ -2966,245 +2755,147 @@ Centralized operational visibility using:
 -   Zabbix
 -   OpenCost
 
-### 🔐 Azure Security and Governance
+### Capabilities
 
-Security patterns covering:
+-   Metrics
+-   Logs
+-   Alerts
+-   Dashboards
+-   Capacity monitoring
+-   Cost visibility
+-   Incident investigation
 
--   RBAC
--   PIM
--   managed identities
--   Key Vault
--   Azure Policy
--   Defender for Cloud
--   Zero Trust
+------------------------------------------------------------------------
 
-### 🤖 Infrastructure Automation
+# 🧰 Operational Runbooks
 
-Automation concepts for:
-
--   drift detection
--   remediation
--   documentation
--   repetitive operations
--   GenAI-assisted engineering workflows
-
-# Operational Runbooks
-
-## Operational Runbooks
-
-### Terraform pipeline failure
+## Terraform Failure
 
 ``` text
-1. Read the first failing task.
-2. Identify the command executed.
-3. Verify working directory.
-4. Verify repository checkout.
-5. Verify tool availability.
-6. Verify authentication.
-7. Verify backend.
-8. Verify provider version.
-9. Reproduce locally.
-10. Correct the smallest root cause.
+1. Read the exact error.
+2. Identify the failing resource.
+3. Confirm provider version.
+4. Confirm authentication.
+5. Check state.
+6. Check Azure resource existence.
+7. Check permissions.
+8. Validate configuration.
+9. Run terraform plan again.
+10. Apply only after understanding the change.
 ```
 
-### Terraform init failure
-
-Check:
-
--   backend configuration
--   service connection
--   subscription
--   resource group
--   storage account
--   container
--   state key
--   permissions
--   network access
-
-### Terraform validate failure
-
-Check:
-
--   syntax
--   variable declarations
--   provider blocks
--   resource arguments
--   module references
--   type mismatches
-
-### Terraform plan failure
-
-Check:
-
--   credentials
--   subscription
--   resource existence
--   state
--   provider compatibility
--   data sources
--   API permissions
--   SKU availability
-
-### Checkov failure
-
-Do not immediately suppress.
+## Authentication Failure
 
 ``` text
-Finding
-  |
-Understand
-  |
-Applicable?
-  |
-+----+----+
-|         |
-Yes       No
-|         |
-Fix       Document
-|         |
-Pass      Approved exception
+1. Identify identity.
+2. Confirm tenant.
+3. Confirm subscription.
+4. Confirm service connection.
+5. Confirm role assignment.
+6. Confirm scope.
+7. Confirm credential or federation state.
+8. Retry authentication.
 ```
 
-### Infracost failure
-
-Common prerequisites include:
-
--   executable available
--   valid command syntax
--   Terraform path exists
--   authentication/API configuration available when required
--   provider/resource support
--   network access if the tool requires external services
-
-### Azure authentication failure
-
-Check:
+## Network Failure
 
 ``` text
-Identity
-   |
-Service Connection
-   |
-Subscription
-   |
-RBAC
-   |
-Resource Scope
+1. Resolve DNS.
+2. Check route.
+3. Check NSG.
+4. Check firewall.
+5. Check peering.
+6. Check private endpoint.
+7. Check DNS zone.
+8. Check listener.
+9. Check backend.
+10. Check application logs.
 ```
 
-### Network failure
-
-Check in order:
+## Pipeline Failure
 
 ``` text
-DNS -> Route -> NSG -> Firewall -> Peering -> Endpoint -> Application
+1. Identify failed stage.
+2. Read first meaningful error.
+3. Ignore downstream noise initially.
+4. Verify agent.
+5. Verify tool version.
+6. Verify working directory.
+7. Verify authentication.
+8. Reproduce locally if possible.
+9. Fix root cause.
+10. Re-run.
 ```
 
-### Production incident
+------------------------------------------------------------------------
+
+# 🛡️ Security Checklists
+
+## Azure
 
 ``` text
-Detect
-Triage
-Contain
-Communicate
-Recover
-Validate
-Document
-Prevent
+[ ] MFA enabled
+[ ] Least privilege implemented
+[ ] PIM used for privileged access
+[ ] Managed identity preferred
+[ ] Key Vault used for secrets
+[ ] Public access minimized
+[ ] Network segmentation implemented
+[ ] Logging enabled
+[ ] Defender coverage reviewed
+[ ] Backup configured
+[ ] Recovery tested
 ```
 
-# Security Checklists
-
-## Security Checklists
-
-### Terraform repository
+## Terraform
 
 ``` text
-[ ] No state files committed
-[ ] No secrets committed
-[ ] Provider source pinned
-[ ] Provider upgrade process defined
-[ ] Modules documented
-[ ] Security scanning enabled
-[ ] Secret scanning enabled
-[ ] Pull requests protected
-[ ] Production apply controlled
-[ ] Backend secured
+[ ] .terraform ignored
+[ ] tfstate ignored
+[ ] Secrets not committed
+[ ] Remote state configured
+[ ] State access protected
+[ ] Provider versions constrained
+[ ] Modules reviewed
+[ ] Checkov executed
+[ ] tfsec executed
+[ ] TFLint executed
+[ ] Secret scanning executed
 ```
 
-### Azure landing zone
-
-``` text
-[ ] Management groups
-[ ] Subscriptions
-[ ] Policy
-[ ] RBAC
-[ ] PIM
-[ ] Connectivity
-[ ] DNS
-[ ] Firewall
-[ ] Logging
-[ ] Defender
-[ ] Backup
-[ ] Cost governance
-```
-
-### Storage
-
-``` text
-[ ] TLS
-[ ] Encryption
-[ ] Network restriction
-[ ] Public access reviewed
-[ ] Identity access
-[ ] Diagnostic logging
-[ ] Lifecycle
-[ ] Backup/recovery
-[ ] CMK requirement assessed
-```
-
-### CI/CD
+## CI/CD
 
 ``` text
 [ ] Branch protection
-[ ] Pull request
-[ ] Validate
-[ ] Lint
-[ ] Security scan
-[ ] Secret scan
-[ ] Cost estimate
-[ ] Plan
-[ ] Approval
-[ ] Apply
-[ ] Audit
+[ ] PR review
+[ ] Security gates
+[ ] Secret protection
+[ ] Federated authentication where possible
+[ ] Production approval
+[ ] Audit logs
+[ ] Artifact integrity
+[ ] Restricted service connections
 ```
 
-### Production readiness
+## Kubernetes
 
 ``` text
-[ ] Owner
-[ ] Monitoring
-[ ] Alerting
-[ ] Backup
-[ ] DR
-[ ] RTO
-[ ] RPO
-[ ] Runbook
-[ ] Security review
-[ ] Cost review
-[ ] Rollback plan
-
-# Terraform Command Reference
-
-## Terraform Command Reference
-
-### Initialize
-
-```bash
-terraform init
+[ ] RBAC least privilege
+[ ] Network policies
+[ ] Image scanning
+[ ] Non-root containers
+[ ] Resource limits
+[ ] Secrets protected
+[ ] Cluster monitoring
+[ ] Node patching
+[ ] Upgrade strategy
 ```
 
-### Format
+------------------------------------------------------------------------
+
+# 🧪 Terraform Command Reference
+
+## Formatting
 
 ``` bash
 terraform fmt
@@ -3212,93 +2903,79 @@ terraform fmt -check
 terraform fmt -recursive
 ```
 
-### Validate
+## Initialization
+
+``` bash
+terraform init
+terraform init -upgrade
+terraform init -reconfigure
+```
+
+## Validation
 
 ``` bash
 terraform validate
 ```
 
-### Plan
+## Planning
 
 ``` bash
 terraform plan
-```
-
-### Save plan
-
-``` bash
 terraform plan -out=tfplan
 ```
 
-### Apply
+## Apply
 
 ``` bash
 terraform apply
 terraform apply tfplan
 ```
 
-### Destroy
+## Destroy
 
 ``` bash
 terraform destroy
 ```
 
-Use destroy only when the scope and consequences are explicitly
-understood.
-
-### Show state
-
-``` bash
-terraform show
-```
-
-### List state
+## State
 
 ``` bash
 terraform state list
+terraform state show <resource>
+terraform state rm <resource>
+terraform state mv <source> <destination>
 ```
 
-### Import
+## Import
 
 ``` bash
-terraform import <resource_address> <resource_id>
+terraform import <address> <resource-id>
 ```
 
-### Providers
+## Providers
 
 ``` bash
 terraform providers
 ```
 
-### Graph
-
-``` bash
-terraform graph
-```
-
-### Output
+## Output
 
 ``` bash
 terraform output
+terraform output -json
 ```
 
-### Refresh-oriented planning
+------------------------------------------------------------------------
 
-Use current Terraform workflows rather than treating `terraform refresh`
-as a universal operational command; understand the implications for
-state before using state-changing operations.
+# 🔵 Azure CLI Reference
 
-# Azure CLI Reference
-
-## Azure CLI Reference
-
-### Login
+## Login
 
 ``` bash
 az login
 ```
 
-### Subscription
+## Subscription
 
 ``` bash
 az account show
@@ -3306,661 +2983,1454 @@ az account list
 az account set --subscription "<subscription-id>"
 ```
 
-### Resource group
+## Resource Group
 
 ``` bash
-az group create   --name rg-example   --location centralindia
+az group list
+az group show --name <resource-group>
+az group create \
+  --name <resource-group> \
+  --location <region>
 ```
 
-### List resource groups
+## Storage
 
 ``` bash
-az group list -o table
+az storage account list
+az storage account show \
+  --name <storage-account> \
+  --resource-group <resource-group>
 ```
 
-### Resource list
+## Network
 
 ``` bash
-az resource list -o table
+az network vnet list
+az network vnet show \
+  --name <vnet> \
+  --resource-group <resource-group>
 ```
 
-### Storage account list
+## VM
 
 ``` bash
-az storage account list -o table
+az vm list
+az vm show \
+  --name <vm-name> \
+  --resource-group <resource-group>
 ```
 
-### VNet list
+## Resource Discovery
 
 ``` bash
-az network vnet list -o table
+az resource list
+az resource list --resource-group <resource-group>
 ```
 
-### NSG list
+------------------------------------------------------------------------
+
+# 🌿 Git Reference
+
+## Repository
 
 ``` bash
-az network nsg list -o table
-```
-
-### Private endpoints
-
-``` bash
-az network private-endpoint list -o table
-```
-
-### Role assignment
-
-``` bash
-az role assignment list --assignee <object-id>
-```
-
-### Policy
-
-``` bash
-az policy assignment list -o table
-```
-
-### Monitor
-
-``` bash
-az monitor activity-log list
-```
-
-# Git Reference
-
-## Git Reference
-
-### Clone
-
-``` bash
+git init
 git clone <repository-url>
+git remote -v
 ```
 
-### Status
-
-``` bash
-git status
-```
-
-### Branch
+## Branch
 
 ``` bash
 git branch
+git branch -a
+git checkout -b feature/example
+git switch main
+git switch -c feature/example
 ```
 
-### Create branch
+## Commit
 
 ``` bash
-git checkout -b feature/terraform-security
-```
-
-### Stage
-
-``` bash
+git status
 git add .
+git commit -m "Add infrastructure changes"
 ```
 
-### Commit
+## Synchronization
 
 ``` bash
-git commit -m "Add Terraform security checks"
-```
-
-### Push
-
-``` bash
-git push origin feature/terraform-security
-```
-
-### Pull
-
-``` bash
+git fetch
 git pull
+git push
 ```
 
-### View history
+## History
 
 ``` bash
-git log --oneline --decorate --graph
+git log --oneline
+git log --graph --decorate --oneline --all
 ```
 
-### Review changes
+## Diff
 
 ``` bash
 git diff
 git diff --staged
 ```
 
-### Restore working tree changes
+## Ignore Rules
 
-``` bash
-git restore <file>
-```
+Typical Terraform `.gitignore` entries:
 
-Use destructive Git commands carefully, especially when rewriting shared
-history.
-
-### Repository hygiene
-
-Never commit:
-
-``` text
+``` gitignore
 .terraform/
 *.tfstate
 *.tfstate.*
-secrets
-private keys
-local credentials
-temporary plan files
+*.tfvars
+crash.log
+crash.*.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+.terraformrc
+terraform.rc
+*.tfplan
 ```
 
-# PowerShell Reference
+Never use `.gitignore` as a replacement for proper secret management.
 
-## PowerShell Reference
+------------------------------------------------------------------------
 
-### Check executable
+# 💙 PowerShell Reference
+
+## Variables
 
 ``` powershell
-Test-Path "C:\Tools\terraform.exe"
+$name = "Azure"
+Write-Host $name
 ```
 
-### Execute executable
+## File Check
+
+``` powershell
+if (Test-Path "C:\Tools\terraform.exe") {
+    Write-Host "Terraform exists"
+}
+```
+
+## Execute Tool
 
 ``` powershell
 & "C:\Tools\terraform.exe" version
 ```
 
-### Capture exit code
+## Exit Code
 
 ``` powershell
-& "C:\Tools\checkov.exe" -d "."
 if ($LASTEXITCODE -ne 0) {
+    Write-Error "Command failed"
     exit 1
 }
 ```
 
-### Set location
+## Environment Variable
 
 ``` powershell
-Set-Location "C:\path\to\terraform"
+$env:INFRACOST_API_KEY = "<secure-value>"
 ```
 
-### Environment variable
+For CI/CD, prefer secret variables or federated authentication rather
+than hard-coding secrets.
 
-``` powershell
-$env:INFRACOST_API_KEY
-```
+------------------------------------------------------------------------
 
-### Test path
+# 🐧 Bash Reference
 
-``` powershell
-if (!(Test-Path $path)) {
-    Write-Error "Path not found"
-    exit 1
-}
-```
-
-### Pipeline principle
-
-A PowerShell script embedded in an Azure DevOps `PowerShell@2` task must
-contain PowerShell only inside the `script: |` block.
-
-Do not paste YAML task definitions inside the PowerShell script body.
-
-Correct structure:
-
-``` yaml
-- task: PowerShell@2
-  inputs:
-    targetType: inline
-    script: |
-      Write-Host "Running security scan"
-      & "C:\Tools\checkov.exe" -d "."
-```
-
-### Tool paths
-
-Keep executable paths explicit when using a controlled self-hosted
-agent, and validate the path before execution.
-
-# Bash Reference
-
-## Bash Reference
-
-### Variables
+## File Check
 
 ``` bash
-TERRAFORM_DIR="./environments/parent_module"
-```
-
-### Path check
-
-``` bash
-test -d "$TERRAFORM_DIR"
-```
-
-### Execute
-
-``` bash
-terraform -chdir="$TERRAFORM_DIR" validate
-```
-
-### Exit handling
-
-``` bash
-terraform plan
-status=$?
-
-if [ "$status" -ne 0 ]; then
-  echo "Terraform plan failed"
-  exit "$status"
+if [ -f "./terraform" ]; then
+  echo "Terraform exists"
 fi
 ```
 
-### Pipeline principle
+## Command Status
 
-Keep shell scripts small, deterministic and explicit about exit codes.
+``` bash
+terraform validate
 
-Avoid hiding command failures with unconditional success handling.
+if [ $? -ne 0 ]; then
+  echo "Validation failed"
+  exit 1
+fi
+```
 
-# Interview-Level Architecture Questions
+## Environment Variable
 
-## Interview-Level Architecture Questions
+``` bash
+export ARM_USE_AZUREAD=true
+```
 
-### Azure Landing Zone
+Use the pipeline secret store for sensitive values.
 
-**Question:** What is an Azure Landing Zone?
+------------------------------------------------------------------------
 
-**Answer:** It is a standardized Azure platform foundation that provides
-identity, governance, networking, security and operational guardrails so
-workload teams can deploy consistently.
+# 🧭 Architecture Decision Records
 
-### Hub and Spoke
+## ADR-001: Terraform for Infrastructure as Code
 
-**Question:** Why use hub and spoke?
+### Decision
 
-**Answer:** It centralizes shared network services while isolating
-workload networks into spokes. This can improve governance, segmentation
-and operational consistency.
+Use Terraform for declarative infrastructure provisioning where
+multi-resource lifecycle management and reusable modules are required.
 
-### Terraform state
+### Rationale
 
-**Question:** Why use remote state?
+-   Declarative model
+-   Resource graph
+-   Modules
+-   Plan and apply workflow
+-   State management
+-   Broad provider ecosystem
 
-**Answer:** Remote state centralizes Terraform's state, supports
-collaboration and enables controlled locking and access management.
+### Consequence
 
-### `for_each` versus `count`
+Teams must operate Terraform state securely and establish module
+standards.
 
-**Question:** When do you prefer `for_each`?
+------------------------------------------------------------------------
 
-**Answer:** When resources are naturally identified by stable keys. This
-avoids index-oriented identity and makes individual instances easier to
-manage.
+## ADR-002: Remote Terraform State
 
-### Data source
+### Decision
 
-**Question:** When should a data source be used?
+Store Terraform state remotely rather than in local developer
+workstations.
 
-**Answer:** When Terraform needs to read an existing object that is
-outside the current resource ownership boundary.
+### Rationale
 
-### Service connection
+-   Shared state
+-   Centralized access
+-   Locking
+-   Recovery
+-   Pipeline compatibility
 
-**Question:** Why use an Azure DevOps service connection?
+### Consequence
 
-**Answer:** It provides a controlled authentication boundary for
-pipeline-to-Azure operations without embedding interactive user
-credentials in pipeline scripts.
+State storage becomes a critical platform dependency and requires
+security controls.
 
-### Checkov
+------------------------------------------------------------------------
 
-**Question:** What does Checkov do?
+## ADR-003: Shift-Left IaC Security
 
-**Answer:** It scans infrastructure as code against security and
-compliance policies and reports violations before infrastructure is
-deployed.
+### Decision
 
-### Infracost
+Run IaC security checks before production deployment.
 
-**Question:** Where does Infracost fit?
+### Rationale
 
-**Answer:** It provides cost estimation and cost-diff feedback from
-infrastructure definitions, making cloud cost visible during engineering
-review.
+Finding misconfiguration during development is cheaper and safer than
+finding it after deployment.
 
-### Private endpoint
+### Controls
 
-**Question:** Why use a private endpoint?
+-   Checkov
+-   tfsec
+-   TFLint
+-   Secret scanning
 
-**Answer:** It provides private network access to supported Azure
-services through a private IP in a VNet, reducing dependence on public
-network exposure.
+------------------------------------------------------------------------
 
-### Managed identity
+# 🎯 Architecture Interview Questions
 
-**Question:** Why prefer managed identity?
+## Azure Landing Zone
 
-**Answer:** It avoids storing long-lived credentials in application or
-pipeline configuration and allows Azure-managed identity authentication
-for supported services.
+### Q: What is an Azure Landing Zone?
+
+An Azure Landing Zone is a standardized, governed Azure foundation that
+provides identity, networking, security, management and governance
+capabilities for application workloads.
+
+### Q: Why use Management Groups?
+
+Management Groups provide a hierarchy above subscriptions so governance
+controls such as Azure Policy can be organized and applied at scale.
+
+### Q: What is Hub-and-Spoke?
+
+A hub-and-spoke architecture centralizes shared connectivity and
+security services in a hub while isolating workload networks into
+spokes.
+
+------------------------------------------------------------------------
+
+## Terraform
+
+### Q: Why remote state?
+
+Remote state allows teams and pipelines to share Terraform state while
+enabling centralized access control and state locking where supported.
+
+### Q: `for_each` vs `count`?
+
+Use `for_each` when resources have meaningful stable keys. Use `count`
+when instances are naturally positional or controlled by a simple
+quantity.
+
+### Q: Why use modules?
+
+Modules standardize infrastructure patterns, reduce duplication and
+create reusable interfaces between platform engineering and workload
+teams.
+
+------------------------------------------------------------------------
+
+## DevSecOps
+
+### Q: What is shift-left security?
+
+Shift-left security moves security validation earlier into design,
+coding, pull requests and CI rather than relying only on post-deployment
+security review.
+
+### Q: What does Checkov do?
+
+Checkov scans Infrastructure as Code for policy and security issues and
+can be used as a CI/CD quality gate.
+
+### Q: Why use multiple security tools?
+
+Different tools can detect different classes of issues. Layered controls
+reduce blind spots, but teams should avoid unnecessary duplicate checks
+and tune rules to meaningful risk.
+
+------------------------------------------------------------------------
+
+## CI/CD
+
+### Q: Why separate plan and apply?
+
+The plan provides a reviewable representation of intended infrastructure
+changes. Separating it from apply creates a controlled approval point
+before mutation.
+
+### Q: How should production authentication work?
+
+Prefer short-lived identity-based authentication such as workload
+identity federation or managed identity where supported, with tightly
+scoped permissions.
+
+------------------------------------------------------------------------
+
+# 🧱 Production Design Checklist
+
+## Architecture
+
+``` text
+[ ] Requirements documented
+[ ] Business criticality defined
+[ ] RTO defined
+[ ] RPO defined
+[ ] Dependencies documented
+[ ] Network boundaries defined
+[ ] Identity model defined
+[ ] Security baseline defined
+[ ] Observability defined
+[ ] Cost model defined
+```
+
+## Infrastructure
+
+``` text
+[ ] Terraform module exists
+[ ] Variables validated
+[ ] Naming standardized
+[ ] Tags standardized
+[ ] Remote state configured
+[ ] State access protected
+[ ] Provider versions constrained
+```
+
+## Security
+
+``` text
+[ ] Checkov
+[ ] tfsec
+[ ] TFLint
+[ ] Secret scanning
+[ ] Least privilege
+[ ] Managed identity
+[ ] Key Vault
+[ ] Network restrictions
+```
+
+## Delivery
+
+``` text
+[ ] PR validation
+[ ] Plan generated
+[ ] Plan reviewed
+[ ] Production approval
+[ ] Apply controlled
+[ ] Post-deployment validation
+[ ] Monitoring verified
+```
+
+------------------------------------------------------------------------
+
+# 📌 Current Focus
+
+::: {align="center"}
+### 🏗️ Enterprise Azure Architecture
+
+`Landing Zones` `Hub-Spoke` `Governance` `Terraform`
+
+### 🛡️ DevSecOps
+
+`Checkov` `tfsec` `TFLint` `TruffleHog` `Policy-as-Code`
+
+### ⚙️ Platform Engineering
+
+`Reusable Modules` `Golden Paths` `Self-Service` `Automation`
+
+### 💰 Cloud Cost Engineering
+
+`Infracost` `OpenCost` `Rightsizing` `Governance`
+
+### 🤖 GenAI-Assisted Engineering
+
+`IaC Review` `Documentation` `Incident Analysis` `Automation`
+:::
+
+------------------------------------------------------------------------
+
+# 🎓 Certifications
+
+::: {align="center"}
+`<img src="https://img.shields.io/badge/AZ--104-Azure_Administrator_Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=0A0E27"/>`{=html}
+
+`<img src="https://img.shields.io/badge/AZ--305-Azure_Solutions_Architect_Expert-8A2BE2?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=0A0E27"/>`{=html}
+:::
+
+------------------------------------------------------------------------
+
+# 📈 Engineering Maturity Model
+
+``` text
+Level 1
+Manual Infrastructure
+       |
+       v
+Level 2
+Infrastructure as Code
+       |
+       v
+Level 3
+CI/CD Automation
+       |
+       v
+Level 4
+DevSecOps + Policy
+       |
+       v
+Level 5
+Platform Engineering
+       |
+       v
+Level 6
+Continuous Optimization
+```
+
+## Level 1 --- Manual
+
+Characteristics:
+
+-   Portal-heavy provisioning
+-   Manual approvals
+-   Configuration drift
+-   Limited auditability
+
+## Level 2 --- IaC
+
+Characteristics:
+
+-   Terraform
+-   Git
+-   Code review
+-   Reproducible infrastructure
+
+## Level 3 --- CI/CD
+
+Characteristics:
+
+-   Automated validation
+-   Plan
+-   Approval
+-   Apply
+
+## Level 4 --- DevSecOps
+
+Characteristics:
+
+-   Security gates
+-   Policy
+-   Secret scanning
+-   Vulnerability management
+
+## Level 5 --- Platform Engineering
+
+Characteristics:
+
+-   Golden paths
+-   Self-service
+-   Reusable modules
+-   Standardized delivery
+
+## Level 6 --- Continuous Optimization
+
+Characteristics:
+
+-   Cost optimization
+-   Reliability engineering
+-   Automated remediation
+-   Data-driven platform improvements
+
+------------------------------------------------------------------------
+
+# 🔍 Troubleshooting Matrix
+
+  -----------------------------------------------------------------------
+  Problem                 First Checks            Typical Root Causes
+  ----------------------- ----------------------- -----------------------
+  Terraform init fails    Backend, identity,      Authentication or
+                          storage                 backend configuration
+
+  Terraform plan fails    Provider, variables,    Invalid configuration
+                          state                   or dependency
+
+  Resource already exists State + Azure resource  Resource not imported
+
+  Authorization failure   Identity + RBAC         Missing role or wrong
+                                                  scope
+
+  DNS failure             DNS zone + links        Incorrect private DNS
+                                                  configuration
+
+  Network timeout         NSG + route + firewall  Blocked path
+
+  Checkov failure         Rule ID + resource      IaC security control
+
+  TFLint failure          Provider rules          Terraform configuration
+
+  Pipeline failure        First real error        Agent, path, tool or
+                                                  auth
+
+  Infracost failure       API key + path          Authentication or
+                                                  unsupported resource
+
+  Kubernetes deployment   Events + image          Image, RBAC, scheduling
+  fails                                           or config
+
+  Application unavailable Health + ingress        Routing or backend
+                                                  failure
+  -----------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+# 🧪 Pre-Production Gate
+
+``` text
+                         PRE-PRODUCTION
+                               |
+        ┌──────────────────────┼──────────────────────┐
+        |                      |                      |
+      CODE                   SECURITY               PLATFORM
+        |                      |                      |
+    Format                  Checkov                 Policy
+    Validate                tfsec                   Identity
+    Lint                    Secret Scan             Network
+    Tests                   Trivy                   Logging
+        |                      |                      |
+        └──────────────────────┼──────────────────────┘
+                               |
+                               v
+                         Terraform Plan
+                               |
+                               v
+                             Review
+                               |
+                               v
+                            Approval
+                               |
+                               v
+                             Apply
+```
+
+------------------------------------------------------------------------
+
+# 🚨 Incident Response Model
+
+## Detect
+
+Identify:
+
+-   Alert
+-   Metric anomaly
+-   Log anomaly
+-   Security event
+-   User report
+
+## Triage
+
+Determine:
+
+``` text
+What broke?
+When did it start?
+What changed?
+Who is affected?
+What is the blast radius?
+```
+
+## Contain
+
+Possible actions:
+
+-   Roll back
+-   Disable a change
+-   Isolate a workload
+-   Restrict traffic
+-   Rotate credentials
+-   Scale resources
+
+## Recover
+
+``` text
+Restore
+Validate
+Monitor
+Communicate
+Document
+```
+
+## Learn
+
+Perform:
+
+-   Root cause analysis
+-   Corrective actions
+-   Preventive controls
+-   Automation opportunities
+-   Runbook updates
+
+------------------------------------------------------------------------
+
+# 🧠 Root Cause Analysis
+
+Use a structured approach:
+
+``` text
+Symptom
+   |
+   v
+Timeline
+   |
+   v
+Change Correlation
+   |
+   v
+Dependency Analysis
+   |
+   v
+Root Cause
+   |
+   v
+Corrective Action
+   |
+   v
+Preventive Control
+```
+
+Avoid stopping at:
+
+> "The pipeline failed."
+
+The useful question is:
+
+> "Which control, dependency or configuration caused the pipeline to
+> fail, and how do we prevent recurrence?"
+
+------------------------------------------------------------------------
+
+# 📐 Reference Three-Tier Architecture
+
+``` text
+                         INTERNET
+                            |
+                            v
+                     WAF / APP GATEWAY
+                            |
+                            v
+                    ┌───────────────┐
+                    │ Frontend Tier │
+                    └───────┬───────┘
+                            |
+                            v
+                    ┌───────────────┐
+                    │ Backend Tier  │
+                    └───────┬───────┘
+                            |
+                            v
+                    ┌───────────────┐
+                    │ Database Tier │
+                    └───────────────┘
+```
+
+Security boundaries:
+
+``` text
+Internet
+   |
+WAF
+   |
+Frontend
+   |
+Backend
+   |
+Database
+```
+
+Each tier should have explicit:
+
+-   Network boundary
+-   Identity
+-   Security rules
+-   Monitoring
+-   Scaling model
+
+------------------------------------------------------------------------
+
+# 🏛️ Enterprise Reference Architecture
+
+``` text
+                           USERS
+                             |
+                             v
+                      Global / DNS Layer
+                             |
+                             v
+                    WAF / Application Gateway
+                             |
+                             v
+                 ┌─────────────────────────┐
+                 │     Azure Landing Zone  │
+                 └────────────┬────────────┘
+                              |
+          ┌───────────────────┼───────────────────┐
+          |                   |                   |
+          v                   v                   v
+     Identity            Connectivity         Security
+     Entra ID            Hub / Firewall       Defender
+     RBAC/PIM            DNS/Bastion           Sentinel
+          |                   |                   |
+          └───────────────────┼───────────────────┘
+                              |
+                    Application Spokes
+                              |
+               ┌──────────────┼──────────────┐
+               |              |              |
+              VM             AKS          App Service
+               |              |              |
+               └──────────────┼──────────────┘
+                              |
+                       Private Services
+                              |
+               ┌──────────────┼──────────────┐
+               |              |              |
+            Storage         Database       Key Vault
+```
+
+------------------------------------------------------------------------
+
+# 🧩 Terraform Module Standards
+
+## Required Files
+
+``` text
+main.tf
+variables.tf
+outputs.tf
+versions.tf
+README.md
+```
+
+## Optional Files
+
+``` text
+locals.tf
+data.tf
+providers.tf
+tests/
+examples/
+```
+
+## Module Quality Gates
+
+``` text
+terraform fmt
+terraform validate
+TFLint
+Checkov
+tfsec
+Terratest
+Documentation Review
+```
+
+------------------------------------------------------------------------
+
+# 🔄 Change Management
+
+Every production infrastructure change should answer:
+
+``` text
+What is changing?
+Why is it changing?
+What resources are affected?
+What permissions are required?
+What security impact exists?
+What is the cost impact?
+What is the rollback plan?
+How will success be validated?
+```
+
+## Change Categories
+
+-   Standard
+-   Normal
+-   Emergency
+
+## Emergency Change
+
+An emergency change should still be:
+
+-   Authorized
+-   Logged
+-   Validated
+-   Reviewed after implementation
+
+------------------------------------------------------------------------
+
+# 🧱 Terraform State Safety Checklist
+
+``` text
+[ ] Remote backend
+[ ] Access control
+[ ] Encryption
+[ ] Locking where supported
+[ ] Backup / recovery
+[ ] Restricted state readers
+[ ] No local state committed
+[ ] No secrets in configuration
+[ ] State operations audited
+```
+
+------------------------------------------------------------------------
+
+# 🔐 Identity Safety Checklist
+
+``` text
+[ ] MFA
+[ ] Least privilege
+[ ] PIM
+[ ] Managed identities
+[ ] Workload identity federation
+[ ] Scoped service connections
+[ ] Access reviews
+[ ] Credential rotation
+[ ] Disabled stale identities
+[ ] No credentials in Git
+```
+
+------------------------------------------------------------------------
+
+# 🌐 Network Safety Checklist
+
+``` text
+[ ] Non-overlapping CIDRs
+[ ] Explicit routing
+[ ] NSG baseline
+[ ] Firewall strategy
+[ ] Private DNS
+[ ] Private endpoints
+[ ] Restricted public IPs
+[ ] Bastion for VM management where appropriate
+[ ] Egress controls
+[ ] Network logging
+```
+
+------------------------------------------------------------------------
+
+# 📊 Observability Safety Checklist
+
+``` text
+[ ] Metrics
+[ ] Logs
+[ ] Alerts
+[ ] Dashboards
+[ ] Diagnostic settings
+[ ] Retention
+[ ] Incident routing
+[ ] Application telemetry
+[ ] Security telemetry
+[ ] Cost telemetry
+```
+
+------------------------------------------------------------------------
+
+# 💵 FinOps Checklist
+
+``` text
+[ ] Resource ownership
+[ ] CostCenter tags
+[ ] Environment tags
+[ ] Budget
+[ ] Alert
+[ ] Cost estimate
+[ ] Rightsizing
+[ ] Idle resource review
+[ ] Storage lifecycle
+[ ] Non-production scheduling
+```
+
+------------------------------------------------------------------------
+
+# 🧰 Useful Repository Layout
+
+``` text
+cloud-platform/
+|
++-- environments/
+|   +-- dev/
+|   +-- test/
+|   +-- prod/
+|
++-- modules/
+|   +-- resource-group/
+|   +-- network/
+|   +-- firewall/
+|   +-- storage/
+|   +-- compute/
+|   +-- key-vault/
+|   +-- monitoring/
+|
++-- policies/
+|
++-- pipelines/
+|
++-- scripts/
+|   +-- powershell/
+|   +-- bash/
+|
++-- tests/
+|
++-- docs/
+|
++-- .gitignore
++-- README.md
+```
+
+------------------------------------------------------------------------
+
+# 🏷️ Recommended Terraform Naming
+
+``` text
+rg-<app>-<env>-<region>
+vnet-<app>-<env>-<region>
+snet-<role>-<env>-<region>
+nsg-<role>-<env>-<region>
+kv-<app>-<env>-<region>
+st<app><env><region><instance>
+```
+
+Names must also comply with the specific Azure resource naming rules for
+each resource type.
+
+------------------------------------------------------------------------
+
+# 🔬 Validation Pyramid
+
+``` text
+                Production
+                   ^
+                   |
+              Integration
+                   ^
+                   |
+                 Module
+                   ^
+                   |
+                Static
+                   ^
+                   |
+                 Format
+```
+
+## Fast Checks
+
+Run on every change:
+
+``` text
+fmt
+validate
+lint
+secret scan
+```
+
+## Deeper Checks
+
+Run as required:
+
+``` text
+security scan
+integration test
+Terratest
+plan
+```
+
+------------------------------------------------------------------------
+
+# 📌 Definition of Done
+
+A cloud infrastructure change is complete when:
+
+``` text
+[ ] Code reviewed
+[ ] Terraform formatted
+[ ] Terraform validated
+[ ] Lint passed
+[ ] Security scan passed
+[ ] Secrets scan passed
+[ ] Cost reviewed
+[ ] Plan reviewed
+[ ] Approval obtained
+[ ] Apply completed
+[ ] Post-deployment validation completed
+[ ] Monitoring verified
+[ ] Documentation updated
+```
+
+------------------------------------------------------------------------
+
+# 🏆 Engineering Principles
+
+::: {align="center"}
+### AUTOMATE THE REPEATABLE
+
+### SECURE THE CRITICAL
+
+### STANDARDIZE THE COMMON
+
+### OBSERVE THE IMPORTANT
+
+### REVIEW THE CHANGE
+
+### MINIMIZE PRIVILEGE
+
+### DESIGN FOR FAILURE
+
+### CONTROL THE COST
+
+### DOCUMENT THE DECISION
+
+### CONTINUOUSLY IMPROVE
+:::
+
+------------------------------------------------------------------------
+
+# 📚 Technical Knowledge Map
+
+``` text
+CLOUD
+ |
+ +-- Azure
+ |    +-- Governance
+ |    +-- Networking
+ |    +-- Identity
+ |    +-- Compute
+ |    +-- Storage
+ |    +-- Database
+ |    +-- Monitoring
+ |
+ +-- IaC
+ |    +-- Terraform
+ |    +-- Modules
+ |    +-- State
+ |    +-- Testing
+ |
+ +-- DELIVERY
+ |    +-- Azure DevOps
+ |    +-- GitHub Actions
+ |    +-- Git
+ |
+ +-- SECURITY
+ |    +-- Checkov
+ |    +-- tfsec
+ |    +-- TFLint
+ |    +-- Trivy
+ |    +-- Secret Scanning
+ |
+ +-- PLATFORM
+ |    +-- Golden Paths
+ |    +-- Automation
+ |    +-- Self Service
+ |
+ +-- OPERATIONS
+ |    +-- Monitoring
+ |    +-- Incident Response
+ |    +-- DR
+ |    +-- FinOps
+ |
+ +-- AI
+      +-- GenAI
+      +-- IaC Review
+      +-- Automation
+      +-- Documentation
+```
+
+------------------------------------------------------------------------
+
+# 🤝 Collaboration Areas
+
+Open to technical collaboration around:
+
+-   Azure architecture
+-   Terraform module design
+-   DevSecOps pipelines
+-   Azure governance
+-   Landing Zone design
+-   Hub-Spoke networking
+-   Cloud security
+-   CI/CD engineering
+-   Infrastructure automation
+-   Platform engineering
+-   Observability
+-   Cloud cost optimization
+-   GenAI-assisted cloud engineering
+
+------------------------------------------------------------------------
+
+# 📫 Connect
+
+::: {align="center"}
+`<a href="https://www.linkedin.com/in/gunjan-gaurav">`{=html}
+`<img src="https://img.shields.io/badge/LinkedIn-Connect-0078D4?style=for-the-badge&logo=linkedin&logoColor=white"/>`{=html}
+`</a>`{=html}
+
+`<a href="https://github.com/gunjankumargaurav7350">`{=html}
+`<img src="https://img.shields.io/badge/GitHub-Projects-0A0E27?style=for-the-badge&logo=github&logoColor=white"/>`{=html}
+`</a>`{=html}
+:::
+
+------------------------------------------------------------------------
+
+::: {align="center"}
+`<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:0078D4,100:8A2BE2&height=4&width=1000" width="100%"/>`{=html}
+
+### ⚡ Build Secure. Automate Everything. Observe Continuously.
+
+`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,40:0078D4,100:8A2BE2&height=180&section=footer&animation=fadeIn" width="100%" alt="Footer"/>`{=html}
+:::
+
+## Terraform Design Rules
+
+-   Keep root modules focused on environment composition.
+
+-   Keep child modules focused on a coherent infrastructure capability.
+
+-   Validate variables at module boundaries.
+
+-   Prefer stable keys for for_each resources.
+
+-   Avoid unnecessary depends_on statements.
+
+-   Use outputs to expose only required module results.
+
+-   Pin provider versions in controlled environments.
+
+-   Review provider upgrades before production rollout.
+
+-   Use remote state for shared environments.
+
+-   Treat state as sensitive operational data.
+
+-   Review destroy actions carefully.
+
+-   Use lifecycle rules only for explicit lifecycle requirements.
+
+-   Document exceptional ignore_changes behavior.
+
+-   Prefer data sources for existing infrastructure that should not be
+    managed by the module.
+
+-   Use imports when bringing pre-existing resources under Terraform
+    management.
+
+## Azure Networking Design Rules
+
+-   Use non-overlapping address spaces across connected networks.
+
+-   Design subnets around security and routing boundaries.
+
+-   Keep application and data traffic explicitly controlled.
+
+-   Use private DNS with private endpoints where required.
+
+-   Document asymmetric routing risks.
+
+-   Avoid broad inbound NSG rules.
+
+-   Use centralized inspection when required by the security model.
+
+-   Document egress paths.
+
+-   Validate effective routes during troubleshooting.
+
+-   Validate effective security rules during troubleshooting.
+
+-   Treat DNS as a first-class dependency.
+
+-   Document ownership for hub networking components.
+
+-   Keep workload spokes independently governable.
+
+-   Use Bastion or controlled administration paths instead of
+    unnecessary public management exposure.
+
+-   Review public IP inventory periodically.
+
+## DevSecOps Pipeline Rules
+
+-   Run fast deterministic checks early.
+
+-   Fail builds on agreed security thresholds.
+
+-   Keep scan configuration in source control.
+
+-   Review security exceptions.
+
+-   Avoid hard-coded credentials.
+
+-   Prefer identity federation.
+
+-   Generate Terraform plans for review.
+
+-   Protect production apply stages.
+
+-   Record approval and deployment evidence.
+
+-   Keep tooling versions predictable.
+
+-   Separate security findings from informational warnings.
+
+-   Provide remediation guidance with security failures.
+
+-   Scan both source and generated artifacts where appropriate.
+
+-   Scan container images before promotion.
+
+-   Continuously improve pipeline gates based on incidents and findings.
+
+## Cloud Operations Rules
+
+-   Every production resource should have an owner.
+
+-   Every production workload should have monitoring.
+
+-   Every critical workload should have a recovery strategy.
+
+-   Every privileged identity should have an owner.
+
+-   Every critical alert should have an escalation path.
+
+-   Every major change should have a rollback or recovery strategy.
+
+-   Every exception should have an expiry or review date where
+    practical.
+
+-   Every cost center should have accountable ownership.
+
+-   Every platform dependency should be documented.
+
+-   Every incident should produce actionable learning.
+
+-   Prefer automation over repeated manual procedures.
+
+-   Test backup restoration rather than assuming backups are usable.
+
+-   Measure recovery duration during exercises.
+
+-   Review platform drift regularly.
+
+-   Keep runbooks synchronized with actual implementation.
+
+# 📖 Core Cloud Engineering Terminology
+
+### IaC
+
+Infrastructure as Code; infrastructure configuration represented in
+machine-readable source.
+
+### Drift
+
+A difference between declared infrastructure configuration and the
+actual deployed environment.
+
+### Remote State
+
+Terraform state stored in a shared backend rather than only on a local
+workstation.
+
+### State Locking
+
+A mechanism that helps prevent concurrent state mutations.
+
+### Landing Zone
+
+A governed Azure foundation for hosting application workloads.
+
+### Hub-Spoke
+
+A topology that centralizes shared connectivity/security in a hub and
+isolates workloads in spokes.
+
+### RBAC
+
+Role-Based Access Control used to grant permissions at defined Azure
+scopes.
 
 ### PIM
 
-**Question:** What problem does PIM solve?
+Privileged Identity Management used to control and govern privileged
+access.
 
-**Answer:** It reduces standing privileged access by making privileged
-roles eligible and activated for controlled periods.
+### Managed Identity
 
-### Terraform pipeline
+An Azure-managed identity that avoids distributing credentials to
+supported workloads.
 
-**Question:** What should happen before apply?
+### Private Endpoint
 
-**Answer:** Validate, lint, security scan, secret scan, cost review and
-plan should complete according to policy, followed by the required
-approval boundary.
+A private network interface used to access supported Azure services
+through private connectivity.
 
-# Current Focus
+### NSG
 
-## Current Focus
+Network Security Group used to control traffic with ordered security
+rules.
 
-### Enterprise Azure Architecture
+### Policy-as-Code
 
--   Landing Zone design
--   governance
--   network architecture
--   identity
--   security
--   observability
--   cost
+Executable rules that continuously enforce governance or security
+requirements.
 
-### DevSecOps
+### Shift Left
 
--   secure Terraform pipelines
--   policy-as-code
--   IaC security
--   secret scanning
--   controlled releases
+Moving security and quality validation earlier in the delivery
+lifecycle.
 
-### Platform Engineering
+### FinOps
 
--   reusable Terraform modules
--   golden paths
--   self-service infrastructure
--   standardized CI/CD
+A cross-functional discipline for managing cloud cost through
+engineering and business decisions.
 
-### GenAI
+### RTO
 
--   infrastructure review
--   documentation
--   incident analysis
--   automation assistance
--   secure engineering workflows
+Recovery Time Objective; target time to restore service after
+disruption.
 
-# Certifications
+### RPO
 
-## Certifications
+Recovery Point Objective; target acceptable data-loss window.
 
-::: {align="center"}
-![AZ-104](https://img.shields.io/badge/AZ--104-Azure_Administrator_Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AZ-305](https://img.shields.io/badge/AZ--305-Azure_Solutions_Architect_Expert-8A2BE2?style=for-the-badge&logo=microsoftazure&logoColor=white)
-:::
+### SLO
 
-### AZ-104
+Service Level Objective; a target for an observable reliability
+indicator.
 
-Microsoft Certified: Azure Administrator Associate.
+### OIDC
 
-Relevant capability areas include:
+OpenID Connect based federation commonly used for short-lived CI/CD
+identity.
 
--   Azure identity
--   governance
--   storage
--   compute
--   networking
--   monitoring
+### GitOps
 
-### AZ-305
+An operating model where Git becomes a controlled source of desired
+application or infrastructure state.
 
-Microsoft Certified: Azure Solutions Architect Expert.
+### Golden Path
 
-Relevant architecture areas include:
+An approved, reusable delivery path that gives developers secure
+platform defaults.
 
--   identity
--   governance
--   data
--   networking
--   compute
--   resilience
--   security
+# Terraform Review
 
-# Engineering Principles
+-   [ ] Configuration is formatted.
+-   [ ] Provider constraints are intentional.
+-   [ ] Variables have appropriate types.
+-   [ ] Variables have validation where useful.
+-   [ ] Resource names follow standards.
+-   [ ] Tags are applied consistently.
+-   [ ] Sensitive values are marked appropriately.
+-   [ ] Data sources are justified.
+-   [ ] Module boundaries are clear.
+-   [ ] Outputs expose only necessary information.
+-   [ ] Lifecycle rules are justified.
+-   [ ] Dependencies are understood.
+-   [ ] Destroy behavior is understood.
+-   [ ] State backend is configured.
+-   [ ] Plan output has been reviewed.
 
-## Engineering Principles
+# Azure Identity Review
 
-### Principle 01 --- Automate the repeatable
+-   [ ] Principal is identified.
+-   [ ] Role is appropriate.
+-   [ ] Scope is minimal.
+-   [ ] Privilege duration is appropriate.
+-   [ ] MFA requirements are satisfied.
+-   [ ] PIM is used for eligible privileged access where appropriate.
+-   [ ] Managed identity is considered.
+-   [ ] Federation is considered for CI/CD.
+-   [ ] Stale assignments are removed.
+-   [ ] Access is auditable.
 
-If a task is performed frequently, identify whether it can become code,
-a module, a pipeline or a runbook.
+# Azure Network Review
 
-### Principle 02 --- Secure the default
-
-The easiest path should also be the safest practical path.
-
-### Principle 03 --- Minimize blast radius
-
-Separate:
-
--   subscriptions
--   networks
--   identities
--   permissions
--   state
--   workloads
-
-when the risk model requires isolation.
-
-### Principle 04 --- Prefer explicit ownership
-
-Every important resource should have an owner and a business context.
-
-### Principle 05 --- Review before mutation
-
-Production infrastructure should not be changed blindly.
-
-### Principle 06 --- Observe before optimizing
-
-Use real telemetry before rightsizing compute, changing retention or
-altering architecture.
-
-### Principle 07 --- Treat policy as code
-
-Governance should be versioned, reviewed and tested where practical.
-
-### Principle 08 --- Make recovery a feature
-
-Backup and DR are part of architecture, not documentation after
-deployment.
-
-### Principle 09 --- Design for operators
-
-A platform that developers can deploy but operators cannot troubleshoot
-is incomplete.
-
-### Principle 10 --- Human approval for high-impact AI actions
-
-AI can accelerate analysis, but production mutation remains governed by
-engineering controls.
-
-------------------------------------------------------------------------
-
-## Professional Engineering Scorecard
-
-  Area             Target state
-  ---------------- -------------------------------------
-  Infrastructure   Declarative and repeatable
-  Security         Shift-left and continuous
-  Identity         Least privilege
-  Network          Segmented and observable
-  State            Remote and protected
-  Delivery         Automated with approval boundaries
-  Governance       Policy-driven
-  Monitoring       Metrics + logs + alerts
-  Cost             Visible before and after deployment
-  DR               Tested
-  Modules          Versioned and reusable
-  Documentation    Maintained with code
-  AI               Assisted, governed and auditable
-
-------------------------------------------------------------------------
-
-## Closing Statement
-
-The goal is not simply to provision Azure resources.
-
-The goal is to build a platform in which:
-
-``` text
-Architecture is intentional
-Infrastructure is reproducible
-Security is automated
-Identity is least-privileged
-Networking is segmented
-Delivery is controlled
-Cost is visible
-Operations are observable
-Recovery is tested
-Automation is scalable
-AI is governed
-```
-
-**Microsoft Azure · Terraform · DevSecOps · Cloud Security · Platform
-Engineering · GenAI**
-
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,40:0078D4,100:8A2BE2&height=180&section=footer&animation=fadeIn" width="100%"/>`{=html}
-
-::: {align="center"}
-**⭐ Build it as code. Secure it by default. Operate it with evidence.**
-:::
-
-## Terraform Variable Design
-
--   Use typed variables to make module contracts explicit.
--   Use validation rules for values with known constraints.
--   Keep secrets out of default values and source control.
--   Use objects for structured configuration instead of parallel
-    variables.
--   Use maps when stable keys identify multiple instances.
--   Use sets when uniqueness is the primary requirement.
--   Use optional object attributes only when the module can safely
-    define defaults.
--   Document whether a variable is environment-specific or
-    platform-standard.
--   Keep module input names aligned with their actual semantics.
--   Do not create a variable simply to avoid writing a local expression.
-
-## Terraform Dependency Graph
-
--   Terraform builds a dependency graph from resource references.
--   References create implicit dependencies and are preferred.
--   Explicit depends_on should be reserved for dependencies Terraform
-    cannot infer.
--   Overusing depends_on can reduce plan parallelism and obscure
-    architecture.
--   Module boundaries should expose meaningful dependencies through
-    inputs and outputs.
--   Data sources can introduce dependencies when their inputs reference
-    managed resources.
--   Dependency cycles indicate a design problem and should be resolved
-    structurally.
-
-## Terraform Provider Strategy
-
--   Declare provider source addresses explicitly.
--   Keep provider version constraints deliberate.
--   Review provider release notes before major upgrades.
--   Run validation, plan and security tests after upgrades.
--   Use provider aliases when multiple Azure contexts are genuinely
-    required.
--   Do not copy provider blocks into child modules without a clear
-    reason.
--   Keep authentication outside reusable module logic.
-
-## Azure Network Design Review
-
--   Confirm address spaces before creating peering relationships.
--   Reserve address space for future platform expansion.
--   Separate workload tiers where the threat model requires it.
--   Use NSGs for subnet or NIC traffic controls as appropriate.
--   Use route tables when traffic inspection or custom routing is
-    required.
--   Document firewall paths to avoid asymmetric routing.
--   Design DNS before private endpoints.
--   Test name resolution from the actual workload subnet.
-
-## Azure Identity Review
-
--   Map every workload to an identity.
--   Remove unused service principals.
--   Prefer managed identity for Azure-hosted workloads where supported.
--   Use RBAC scopes that match the resource ownership boundary.
--   Review Owner and User Access Administrator assignments regularly.
--   Use PIM for eligible privileged roles where appropriate.
--   Require MFA for privileged human access.
--   Audit service connection permissions.
-
-## Pipeline Quality Gates
-
--   Formatting is a low-cost first gate.
--   Validation confirms Terraform configuration consistency.
--   Linting catches style and provider-aware issues.
--   IaC scanning catches known insecure patterns.
--   Secret scanning catches accidental credential exposure.
--   Cost estimation exposes architectural cost before deployment.
--   Plan provides the mutation preview.
--   Approval establishes human governance before production mutation.
--   Apply should use the same intended code and controlled state.
-
-## Incident Response
-
--   Define severity before an incident occurs.
--   Identify the incident commander and technical owner.
--   Preserve useful evidence during investigation.
--   Separate containment from permanent remediation.
--   Communicate impact using facts rather than speculation.
--   Record the timeline using timestamps.
--   Validate recovery from the user perspective.
--   Create preventive actions with owners and due dates.
--   Feed lessons learned back into platform automation.
-
-## Production Readiness Matrix
-
-  Control      Evidence
-  ------------ ------------------------------------------
-  Identity     RBAC assignments and access review
-  Network      Approved topology and connectivity tests
-  Security     Scanner results and exceptions
-  Terraform    Versioned code and reviewed plan
-  State        Protected remote backend
-  Monitoring   Dashboards and actionable alerts
-  Backup       Restore test evidence
-  DR           Failover test evidence
-  Cost         Forecast and budget ownership
-  Operations   Runbook and on-call ownership
-
-## Architecture Decision Records
-
-An ADR should capture the context, decision, alternatives and
-consequences. Record why a design was chosen, not only what was
-deployed. Include rejected alternatives when they materially influenced
-the decision. Link the ADR to implementation code when possible. Review
-ADRs when assumptions materially change.
-
-## Change Risk Model
-
-Low-risk changes can follow an automated path. Medium-risk changes may
-require additional review or testing. High-risk production changes
-should have explicit approval and rollback evidence. Security-impacting
-changes should include security review when required. Network boundary
-changes should be treated as potentially high impact. Identity
-permission changes should be reviewed for blast radius. State/backend
-changes require special care because they affect Terraform control.
+-   [ ] CIDRs are documented.
+-   [ ] Subnet boundaries are intentional.
+-   [ ] NSGs are scoped.
+-   [ ] Route tables are documented.
+-   [ ] Firewall paths are documented.
+-   [ ] DNS dependencies are documented.
+-   [ ] Private endpoints are reviewed.
+-   [ ] Public endpoints are justified.
+-   [ ] Egress is understood.
+-   [ ] Monitoring is enabled.
+
+# Production Readiness
+
+-   [ ] Ownership is documented.
+-   [ ] Dependencies are documented.
+-   [ ] RTO is defined.
+-   [ ] RPO is defined.
+-   [ ] Monitoring is configured.
+-   [ ] Alert routing is configured.
+-   [ ] Backup is configured.
+-   [ ] Restore has been tested.
+-   [ ] Security review is complete.
+-   [ ] Cost ownership is assigned.
+-   [ ] Deployment rollback is documented.
+-   [ ] Runbook exists.
+-   [ ] Support escalation is defined.
