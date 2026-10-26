@@ -26,30 +26,56 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:0078D4,100:8A2BE2&height=4&width=1000" width="100%"/>
 
+<table width="100%">
+  <tr>
+    <td width="25%" align="center" valign="middle">
+      <h3 align="center">💼 9+ Years</h3>
+      <p align="center"><b>Enterprise IT</b><br><sub>5+ Yrs Cloud & DevSecOps</sub></p>
+    </td>
+    <td width="25%" align="center" valign="middle">
+      <h3 align="center">☁️ 100+</h3>
+      <p align="center"><b>Enterprise Workloads</b><br><sub>Zero-Downtime Migration</sub></p>
+    </td>
+    <td width="25%" align="center" valign="middle">
+      <h3 align="center">⚡ 50% Faster</h3>
+      <p align="center"><b>IaC Delivery</b><br><sub>Modular Terraform Framework</sub></p>
+    </td>
+    <td width="25%" align="center" valign="middle">
+      <h3 align="center">💰 28%+</h3>
+      <p align="center"><b>FinOps ROI</b><br><sub>Cloud Spend Optimization</sub></p>
+    </td>
+  </tr>
+</table>
+
 ## `$` whoami --verbose
 
-```yaml
-identity:
-  name: "Gunjan Kumar Gaurav"
-  designation: "Senior Cloud & DevSecOps Consultant"
-  current_organization: "Sify Digital Services Limited"
-  overall_it_experience: "9+ Years (IT Operations, Infrastructure & Platform Systems)"
-  specialized_cloud_exp: "5+ Years (Azure Architecture, Terraform IaC, DevSecOps & Governance)"
-  education: "Bachelor of Engineering (B.E.), Information Technology — RGPV Bhopal"
+```bash
+┌──(gunjan㉿azure-cloud-architect)-[~/production]
+└─$ whoami --verbose --output=human
 
-credentials:
-  certifications:
-    - "Microsoft Certified: Azure Solutions Architect Expert (AZ-305)"
-    - "Microsoft Certified: Azure Administrator Associate (AZ-104)"
-
-core_architectural_impact:
-  enterprise_migrations: "100+ Enterprise Workloads migrated from On-Premises to Azure with zero downtime"
-  iac_standardization: "Modular Terraform Enterprise Landing Zones cutting environment delivery time by 50%"
-  finops_optimization: "28%+ Cloud spend reduction through RI planning, auto-scaling & log telemetry hygiene"
-  devsecops_hardening: "Shift-Left security pipelines with Checkov, tfsec, Trivy & SonarQube in CI/CD gates"
-  ai_platform_engineering: "Integrating Model Context Protocol (MCP), Enterprise RAG & Autonomous SRE Agents"
-
-status: "● Open to Executive Advisory, Principal Architecture & Global Cloud Leadership roles"
+╭───────────────────────────────────────────────────────────────────────────────────────╮
+│  NAME         : Gunjan Kumar Gaurav                                                   │
+│  DESIGNATION  : Senior Cloud & DevSecOps Consultant                                   │
+│  ORGANIZATION : Sify Digital Services Limited                                         │
+│  EXPERIENCE   : 9+ Years Overall IT Systems  |  5+ Years Azure & DevSecOps            │
+│  LOCATION     : India 🇮🇳                                                               │
+│  EDUCATION    : B.E. in Information Technology — RGPV Bhopal                          │
+│                                                                                       │
+│  CREDENTIALS & HONORS:                                                                │
+│  🏆 Microsoft Certified: Azure Solutions Architect Expert (AZ-305)                   │
+│  🏅 Microsoft Certified: Azure Administrator Associate (AZ-104)                       │
+│                                                                                       │
+│  CORE ARCHITECTURAL PILLARS & PRODUCTION IMPACT:                                      │
+│  🚀 Scale      : Migrated 100+ enterprise workloads from on-prem to Azure with 0 lag   │
+│  ⚡ Velocity   : Standardized modular Terraform Landing Zones, slashing rollout by 50% │
+│  🏛️ Governance : Built automated Azure Policy initiatives & Zero-Trust PIM guardrails  │
+│  💰 FinOps     : Reduced enterprise cloud spend by 28%+ via Rightsizing & RIs          │
+│  🛡️ DevSecOps  : Shift-Left security gates (Checkov, tfsec, Trivy, SonarQube, Gitleaks)│
+│  🤖 AI Platform: Pioneering Model Context Protocol (MCP) & Autonomous SRE Multi-Agents │
+│                                                                                       │
+│  PHILOSOPHY   : Infrastructure as code, security as culture, operations as automation.│
+│  STATUS       : ● Available for Senior Cloud Architecture & DevSecOps Advisory        │
+╰───────────────────────────────────────────────────────────────────────────────────────╯
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:0078D4,100:8A2BE2&height=4&width=1000" width="100%"/>
@@ -450,35 +476,36 @@ Architects regularly evaluate, negotiate with, and govern external partners and 
 
 <td width="50%" valign="top">
 
-### 🏗️ [Azure Landing Zone Terraform](https://github.com/gunjankumargaurav7350/Azure-Landing-Zone-Terraform)
+### 🏗️ [Azure Terraform Enterprise Modules](https://github.com/gunjankumargaurav7350/azure-terraform-enterprise-modules)
 
-Enterprise-scale CAF-compliant Landing Zone built with modular, production-tested Terraform.
+Production-grade modular IaC library leveraging advanced `for_each`, nested maps, and `dynamic` blocks for zero-touch cloud provisioning.
 
 <b>Key Architectural Components:</b><br>
-• Enterprise Management Group Hierarchy<br>
-• Hub-and-Spoke VNet Peering with Azure Firewall<br>
-• Centralized Private DNS & Private Endpoints<br>
-• Azure Policy Guardrails & RBAC Governance<br>
-• Remote State Locking via Azure Blob Storage<br><br>
+• Dynamic NSG Rule Engine (map + nested dynamic security_rule)<br>
+• Virtual Network & Subnet Fabric with dynamic delegation<br>
+• Enterprise WAF App Gateway (dynamic probes, listeners & backends)<br>
+• Multi-tenant Key Vault with dynamic network ACLs & policies<br>
+• AKS Cluster with dynamic AGIC & secret store CSI driver<br><br>
 
-<a href="https://github.com/gunjankumargaurav7350/Azure-Landing-Zone-Terraform"><b>🔗 Explore Repository & Modules →</b></a>
+<a href="https://github.com/gunjankumargaurav7350/azure-terraform-enterprise-modules"><b>🔗 Explore Repository & HCL Modules →</b></a><br>
+<sub>*Also check companion repo: [Azure-Landing-Zone-Terraform](https://github.com/gunjankumargaurav7350/Azure-Landing-Zone-Terraform)*</sub>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🛡️ Enterprise DevSecOps Hardened CI/CD
+### 🛡️ [DevSecOps Pipeline Framework](https://github.com/gunjankumargaurav7350/devsecops-pipeline-framework)
 
-Multi-stage shift-left delivery pipelines for Azure DevOps and GitHub Actions.
+Enterprise shift-left CI/CD security automation across GitHub Actions and Azure DevOps with OPA Rego governance.
 
 <b>Security Gates & Tools:</b><br>
-• Secret scanning with TruffleHog & GitLeaks<br>
-• Static IaC vulnerability checks via Checkov & tfsec<br>
-• Container image scanning with Trivy<br>
-• Code quality gates with SonarQube<br>
-• Automated cost impact analysis with Infracost<br><br>
+• Policy-as-Code via Open Policy Agent (OPA) & Rego CIS benchmarks<br>
+• Static IaC vulnerability checks via Checkov & TFLint<br>
+• Secret scanning with GitLeaks & TruffleHog<br>
+• Container image vulnerability scanning with Trivy<br>
+• Automated pull-request FinOps cost forecasting via Infracost<br><br>
 
-<a href="https://github.com/gunjankumargaurav7350"><b>🔗 View Pipeline Templates →</b></a>
+<a href="https://github.com/gunjankumargaurav7350/devsecops-pipeline-framework"><b>🔗 View DevSecOps Pipeline Framework →</b></a>
 
 </td>
 
@@ -487,33 +514,35 @@ Multi-stage shift-left delivery pipelines for Azure DevOps and GitHub Actions.
 
 <td width="50%" valign="top">
 
-### 🤖 AI-Driven Cloud SRE & MCP Toolkit
+### 🤖 [AI Cloud SRE MCP Agent](https://github.com/gunjankumargaurav7350/ai-cloud-sre-mcp-agent)
 
-Reference implementations connecting Model Context Protocol (MCP) servers to Azure Cloud Operations.
+Next-generation Agentic Platform Engineering toolkit integrating FastMCP servers with Azure Operations & Multi-Agent Swarms.
 
 <b>Capabilities:</b><br>
-• Azure Resource Graph Natural Language MCP<br>
-• Terraform State Inspection Tools for LLMs<br>
-• Automated Drift Detection & Incident Analysis<br>
-• RAG engine for Cloud Architectural Decision Records<br><br>
+• Natural Language Azure Resource Graph queries via MCP tools<br>
+• Autonomous Terraform State Drift inspection & remediation<br>
+• AI SRE Incident Triager correlating live metrics and telemetry<br>
+• Enterprise RAG compliance auditor verifying against CIS benchmarks<br>
+• Autonomous Multi-Agent Swarm with automated PR generation<br><br>
 
-<a href="https://github.com/gunjankumargaurav7350"><b>🔗 View AI & MCP Projects →</b></a>
+<a href="https://github.com/gunjankumargaurav7350/ai-cloud-sre-mcp-agent"><b>🔗 View AI SRE & MCP Agent Repo →</b></a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🔐 Zero-Trust Identity & Governance Engine
+### 🔐 [Zero-Trust Identity Governance](https://github.com/gunjankumargaurav7350/zero-trust-identity-governance)
 
-Production governance framework for Microsoft Entra ID and Azure Subscriptions.
+Production governance framework for Microsoft Entra ID Privileged Identity Management (PIM) and Azure Subscription Guardrails.
 
 <b>Key Capabilities:</b><br>
-• Entra ID Privileged Identity Management (PIM)<br>
-• Managed Identity automation across workloads<br>
-• Key Vault HSM integration and secret rotation<br>
-• Defender for Cloud continuous compliance auditing<br><br>
+• Entra ID PIM with time-bound eligibility & dual approval workflows<br>
+• Custom Azure Policy Initiatives enforcing Zero-Trust baseline<br>
+• Automated PowerShell compliance auditing & elevation reporting<br>
+• Managed Identity automation & Key Vault HSM integration<br>
+• Continuous Microsoft Defender for Cloud regulatory posture<br><br>
 
-<a href="https://github.com/gunjankumargaurav7350"><b>🔗 View Governance Patterns →</b></a>
+<a href="https://github.com/gunjankumargaurav7350/zero-trust-identity-governance"><b>🔗 View Zero-Trust Framework →</b></a>
 
 </td>
 
