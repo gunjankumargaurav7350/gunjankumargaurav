@@ -488,7 +488,7 @@ Production-grade modular IaC library leveraging advanced `for_each`, nested maps
 • AKS Cluster with dynamic AGIC & secret store CSI driver<br><br>
 
 <a href="https://github.com/gunjankumargaurav7350/azure-terraform-enterprise-modules"><b>🔗 Explore Repository & HCL Modules →</b></a><br>
-<sub>*Also check companion repo: [Azure-Landing-Zone-Terraform](https://github.com/gunjankumargaurav7350/Azure-Landing-Zone-Terraform)*</sub>
+<sub>*Companion: [Azure-Landing-Zone-Terraform](https://github.com/gunjankumargaurav7350/Azure-Landing-Zone-Terraform)*</sub>
 
 </td>
 
@@ -531,6 +531,43 @@ Next-generation Agentic Platform Engineering toolkit integrating FastMCP servers
 
 <td width="50%" valign="top">
 
+### 💰 [Cloud FinOps Sentinel](https://github.com/gunjankumargaurav7350/cloud-finops-sentinel)
+
+Automated enterprise cloud financial management engine delivering 28%+ waste elimination and real-time cost anomaly alerting.
+
+<b>Capabilities:</b><br>
+• Automated serverless purge of orphaned disks, IPs & stale snapshots<br>
+• Azure Monitor Data Collection Rules (DCR) telemetry cost hygiene<br>
+• Real-time spend anomaly detection with Adaptive Teams alerts<br>
+• Pull-request shift-left budget forecasting via Infracost<br>
+• Automated Azure Policy tagging enforcement (CostCenter/Owner)<br><br>
+
+<a href="https://github.com/gunjankumargaurav7350/cloud-finops-sentinel"><b>🔗 View Cloud FinOps Sentinel →</b></a>
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### ☸️ [Zero-Trust Kubernetes GitOps](https://github.com/gunjankumargaurav7350/zero-trust-kubernetes-gitops)
+
+Production-grade AKS platform implementing Cilium eBPF L7 micro-segmentation, Kyverno guardrails, and declarative GitOps delivery.
+
+<b>Key Architectural Components:</b><br>
+• Cilium eBPF L7 HTTP path/method filtering & default-deny baseline<br>
+• Passwordless Entra ID Workload Identity with Key Vault CSI<br>
+• Kyverno Restricted Pod Security Standards (no root/escalation)<br>
+• ArgoCD App-of-Apps declarative synchronization & self-healing<br>
+• Automated PR manifest validation and progressive canary rollouts<br><br>
+
+<a href="https://github.com/gunjankumargaurav7350/zero-trust-kubernetes-gitops"><b>🔗 View Zero-Trust K8s Platform →</b></a>
+
+</td>
+
+<td width="50%" valign="top">
+
 ### 🔐 [Zero-Trust Identity Governance](https://github.com/gunjankumargaurav7350/zero-trust-identity-governance)
 
 Production governance framework for Microsoft Entra ID Privileged Identity Management (PIM) and Azure Subscription Guardrails.
@@ -542,7 +579,7 @@ Production governance framework for Microsoft Entra ID Privileged Identity Manag
 • Managed Identity automation & Key Vault HSM integration<br>
 • Continuous Microsoft Defender for Cloud regulatory posture<br><br>
 
-<a href="https://github.com/gunjankumargaurav7350/zero-trust-identity-governance"><b>🔗 View Zero-Trust Framework →</b></a>
+<a href="https://github.com/gunjankumargaurav7350/zero-trust-identity-governance"><b>🔗 View Zero-Trust Identity Framework →</b></a>
 
 </td>
 
