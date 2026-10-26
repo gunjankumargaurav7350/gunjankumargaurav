@@ -469,10 +469,28 @@ Architects regularly evaluate, negotiate with, and govern external partners and 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:0078D4,100:8A2BE2&height=4&width=1000" width="100%"/>
 
-# 🚀 13. Featured Production Repositories & Enterprise Frameworks
+# 🚀 13. Featured Production Repositories & Enterprise Architectural Portfolio
 
 <table width="100%">
+
+<!-- Row 1: Landing Zones & CI/CD Pipelines -->
 <tr>
+<td width="50%" valign="top">
+
+### 🏛️ [Azure DevOps Enterprise Landing Zone](https://github.com/gunjankumargaurav7350/azure-devops-enterprise-landing-zone)
+
+End-to-end multi-stage Azure DevOps YAML delivery pipeline for Microsoft Cloud Adoption Framework (CAF) Enterprise Landing Zones.
+
+<b>Key Architectural Components:</b><br>
+• Zero-secret OIDC Workload Identity Federation Service Connection<br>
+• Multi-stage delivery: Validation, Speculative Plan, Non-Prod, Prod<br>
+• Architectural approval gates enforced prior to Production apply<br>
+• Management Group hierarchy (`Platform`, `Landing-Zones`, `Sandboxes`)<br>
+• Centralized Hub VNet, Azure Firewall, Bastion & Private DNS<br><br>
+
+<a href="https://github.com/gunjankumargaurav7350/azure-devops-enterprise-landing-zone"><b>🔗 Explore Azure DevOps Pipeline Repo →</b></a>
+
+</td>
 
 <td width="50%" valign="top">
 
@@ -487,68 +505,88 @@ Production-grade modular IaC library leveraging advanced `for_each`, nested maps
 • Multi-tenant Key Vault with dynamic network ACLs & policies<br>
 • AKS Cluster with dynamic AGIC & secret store CSI driver<br><br>
 
-<a href="https://github.com/gunjankumargaurav7350/azure-terraform-enterprise-modules"><b>🔗 Explore Repository & HCL Modules →</b></a><br>
+<a href="https://github.com/gunjankumargaurav7350/azure-terraform-enterprise-modules"><b>🔗 Explore HCL Modules Repo →</b></a><br>
 <sub>*Companion: [Azure-Landing-Zone-Terraform](https://github.com/gunjankumargaurav7350/Azure-Landing-Zone-Terraform)*</sub>
 
 </td>
-
-<td width="50%" valign="top">
-
-### 🛡️ [DevSecOps Pipeline Framework](https://github.com/gunjankumargaurav7350/devsecops-pipeline-framework)
-
-Enterprise shift-left CI/CD security automation across GitHub Actions and Azure DevOps with OPA Rego governance.
-
-<b>Security Gates & Tools:</b><br>
-• Policy-as-Code via Open Policy Agent (OPA) & Rego CIS benchmarks<br>
-• Static IaC vulnerability checks via Checkov & TFLint<br>
-• Secret scanning with GitLeaks & TruffleHog<br>
-• Container image vulnerability scanning with Trivy<br>
-• Automated pull-request FinOps cost forecasting via Infracost<br><br>
-
-<a href="https://github.com/gunjankumargaurav7350/devsecops-pipeline-framework"><b>🔗 View DevSecOps Pipeline Framework →</b></a>
-
-</td>
-
 </tr>
-<tr>
 
+<!-- Row 2: Microservices vs Legacy Monolith Modernization -->
+<tr>
 <td width="50%" valign="top">
 
-### 🤖 [AI Cloud SRE MCP Agent](https://github.com/gunjankumargaurav7350/ai-cloud-sre-mcp-agent)
+### ⚡ [Azure Microservices Event-Driven Platform](https://github.com/gunjankumargaurav7350/azure-microservices-eventdriven-platform)
 
-Next-generation Agentic Platform Engineering toolkit integrating FastMCP servers with Azure Operations & Multi-Agent Swarms.
+Enterprise asynchronous microservices fabric on Azure Container Apps using Dapr (Distributed Application Runtime) and Azure Service Bus.
 
-<b>Capabilities:</b><br>
-• Natural Language Azure Resource Graph queries via MCP tools<br>
-• Autonomous Terraform State Drift inspection & remediation<br>
-• AI SRE Incident Triager correlating live metrics and telemetry<br>
-• Enterprise RAG compliance auditor verifying against CIS benchmarks<br>
-• Autonomous Multi-Agent Swarm with automated PR generation<br><br>
+<b>Key Architectural Components:</b><br>
+• Dapr sidecar pub/sub abstraction over Azure Service Bus topics<br>
+• Decoupled microservices with KEDA-driven event autoscaling<br>
+• Cosmos DB state store with distributed lock management<br>
+• OpenTelemetry distributed tracing into Application Insights<br>
+• Resiliency policies: circuit breakers & exponential backoffs<br><br>
 
-<a href="https://github.com/gunjankumargaurav7350/ai-cloud-sre-mcp-agent"><b>🔗 View AI SRE & MCP Agent Repo →</b></a>
+<a href="https://github.com/gunjankumargaurav7350/azure-microservices-eventdriven-platform"><b>🔗 View Microservices Platform Repo →</b></a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 💰 [Cloud FinOps Sentinel](https://github.com/gunjankumargaurav7350/cloud-finops-sentinel)
+### 🏛️ [Azure Monolith Modernization Accelerator](https://github.com/gunjankumargaurav7350/azure-legacy-monolith-migration-accelerator)
+
+Blueprint for re-platforming legacy 3-tier enterprise monoliths to Azure with zero-downtime database cutover and externalized session state.
+
+<b>Key Architectural Components:</b><br>
+• Azure App Service / VMSS compute migration with auto-healing<br>
+• Azure Database Migration Service (DMS) online transaction replay<br>
+• Distributed session offloading into encrypted Azure Redis cache<br>
+• Private Endpoints, Key Vault Managed Identity & zero-trust network<br>
+• Minute-by-minute cutover orchestration runbooks (100+ migrations)<br><br>
+
+<a href="https://github.com/gunjankumargaurav7350/azure-legacy-monolith-migration-accelerator"><b>🔗 View Monolith Migration Repo →</b></a>
+
+</td>
+</tr>
+
+<!-- Row 3: Active-Active Resilience & FinOps Sentinel -->
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 [Multi-Region Active-Active Resilience](https://github.com/gunjankumargaurav7350/multi-region-active-active-resilience)
+
+Mission-critical 99.999% SLA high-availability platform with Anycast edge routing and multi-region multi-master data replication.
+
+<b>Key Architectural Components:</b><br>
+• Azure Front Door Premium with Anycast IP global load balancing<br>
+• Cosmos DB Multi-Region Multi-Write with Session Consistency<br>
+• Bi-directional cross-region active data processing without locks<br>
+• Automated regional evacuation scripts during disaster scenarios<br>
+• Near-zero RTO and RPO architecture for enterprise tier-1 services<br><br>
+
+<a href="https://github.com/gunjankumargaurav7350/multi-region-active-active-resilience"><b>🔗 View Active-Active Resilience Repo →</b></a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💰 [Cloud FinOps Sentinel Engine](https://github.com/gunjankumargaurav7350/cloud-finops-sentinel)
 
 Automated enterprise cloud financial management engine delivering 28%+ waste elimination and real-time cost anomaly alerting.
 
-<b>Capabilities:</b><br>
+<b>Key Capabilities:</b><br>
 • Automated serverless purge of orphaned disks, IPs & stale snapshots<br>
 • Azure Monitor Data Collection Rules (DCR) telemetry cost hygiene<br>
 • Real-time spend anomaly detection with Adaptive Teams alerts<br>
 • Pull-request shift-left budget forecasting via Infracost<br>
-• Automated Azure Policy tagging enforcement (CostCenter/Owner)<br><br>
+• Automated Azure Policy tagging enforcement (`CostCenter`/`Owner`)<br><br>
 
-<a href="https://github.com/gunjankumargaurav7350/cloud-finops-sentinel"><b>🔗 View Cloud FinOps Sentinel →</b></a>
+<a href="https://github.com/gunjankumargaurav7350/cloud-finops-sentinel"><b>🔗 View Cloud FinOps Sentinel Repo →</b></a>
 
 </td>
-
 </tr>
-<tr>
 
+<!-- Row 4: Kubernetes GitOps & DevSecOps CI/CD -->
+<tr>
 <td width="50%" valign="top">
 
 ### ☸️ [Zero-Trust Kubernetes GitOps](https://github.com/gunjankumargaurav7350/zero-trust-kubernetes-gitops)
@@ -568,6 +606,43 @@ Production-grade AKS platform implementing Cilium eBPF L7 micro-segmentation, Ky
 
 <td width="50%" valign="top">
 
+### 🛡️ [DevSecOps Pipeline Framework](https://github.com/gunjankumargaurav7350/devsecops-pipeline-framework)
+
+Enterprise shift-left CI/CD security automation across GitHub Actions and Azure DevOps with OPA Rego governance.
+
+<b>Security Gates & Tools:</b><br>
+• Policy-as-Code via Open Policy Agent (OPA) & Rego CIS benchmarks<br>
+• Static IaC vulnerability checks via Checkov & TFLint<br>
+• Secret scanning with GitLeaks & TruffleHog<br>
+• Container image vulnerability scanning with Trivy<br>
+• Automated pull-request FinOps cost forecasting via Infracost<br><br>
+
+<a href="https://github.com/gunjankumargaurav7350/devsecops-pipeline-framework"><b>🔗 View DevSecOps Pipeline Framework →</b></a>
+
+</td>
+</tr>
+
+<!-- Row 5: AI Cloud SRE & Zero-Trust Identity -->
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [AI Cloud SRE MCP Agent](https://github.com/gunjankumargaurav7350/ai-cloud-sre-mcp-agent)
+
+Next-generation Agentic Platform Engineering toolkit integrating FastMCP servers with Azure Operations & Multi-Agent Swarms.
+
+<b>Capabilities:</b><br>
+• Natural Language Azure Resource Graph queries via MCP tools<br>
+• Autonomous Terraform State Drift inspection & remediation<br>
+• AI SRE Incident Triager correlating live metrics and telemetry<br>
+• Enterprise RAG compliance auditor verifying against CIS benchmarks<br>
+• Autonomous Multi-Agent Swarm with automated PR generation<br><br>
+
+<a href="https://github.com/gunjankumargaurav7350/ai-cloud-sre-mcp-agent"><b>🔗 View AI SRE & MCP Agent Repo →</b></a>
+
+</td>
+
+<td width="50%" valign="top">
+
 ### 🔐 [Zero-Trust Identity Governance](https://github.com/gunjankumargaurav7350/zero-trust-identity-governance)
 
 Production governance framework for Microsoft Entra ID Privileged Identity Management (PIM) and Azure Subscription Guardrails.
@@ -582,8 +657,8 @@ Production governance framework for Microsoft Entra ID Privileged Identity Manag
 <a href="https://github.com/gunjankumargaurav7350/zero-trust-identity-governance"><b>🔗 View Zero-Trust Identity Framework →</b></a>
 
 </td>
-
 </tr>
+
 </table>
 
 ---
