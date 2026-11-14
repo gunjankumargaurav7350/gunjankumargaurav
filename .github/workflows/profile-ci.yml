@@ -1,31 +1,26 @@
-name: 'Documentation & Profile Quality Gate'
-
-# ==============================================================================
-# Enterprise GitHub Actions Workflow - gunjankumargaurav
-# Author: Gunjan Kumar Gaurav (Senior Cloud & DevSecOps Consultant)
-# ==============================================================================
+name: CI
 
 on:
   push:
-    branches: [ main ]
+    branches: [main]
   pull_request:
-    branches: [ main ]
+    branches: [main]
   workflow_dispatch:
 
+permissions:
+  contents: read
+
 jobs:
-  markdown-lint:
-    name: 'Markdown Quality & Link Verification'
+  lint:
+    name: Markdown Lint
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Code
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - uses: actions/setup-node@v4
         with:
           node-version: '20'
 
-      - name: Markdown Lint
+      - name: Markdown check
         run: |
           npx markdownlint-cli "**/*.md" --ignore node_modules || true
-          echo "Profile documentation quality verified."
