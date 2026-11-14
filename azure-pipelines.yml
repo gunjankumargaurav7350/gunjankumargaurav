@@ -1,8 +1,3 @@
-# ==============================================================================
-# Enterprise Azure DevOps Pipeline - gunjankumargaurav
-# Author: Gunjan Kumar Gaurav (Senior Cloud & DevSecOps Consultant)
-# ==============================================================================
-
 trigger:
   branches:
     include:
@@ -17,17 +12,16 @@ pool:
   vmImage: 'ubuntu-latest'
 
 stages:
-- stage: Docs_Quality
-  displayName: '📄 Stage 1: Documentation Quality'
-  jobs:
-  - job: Lint_Markdown
-    displayName: 'Markdown Lint & Verification'
-    steps:
-    - task: NodeTool@0
-      inputs:
-        versionSpec: '20.x'
+  - stage: docs
+    displayName: Markdown Lint
+    jobs:
+      - job: markdown_lint
+        displayName: Lint Documentation
+        steps:
+          - task: NodeTool@0
+            inputs:
+              versionSpec: '20.x'
 
-    - script: |
-        npx markdownlint-cli "**/*.md" --ignore node_modules || true
-        echo "Documentation quality gate passed."
-      displayName: 'Markdown Check'
+          - script: |
+              npx markdownlint-cli "**/*.md" --ignore node_modules || true
+            displayName: Markdown Lint
